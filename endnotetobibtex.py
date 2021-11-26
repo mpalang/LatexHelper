@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Tue Aug  3 10:00:04 2021
-
 @author: ml566
 """
 #%%Import
@@ -16,8 +15,8 @@ import pathlib
 from pathlib import Path
 #%%
  
-file_path='Literatur.txt'
-save_path=file_path.replace('txt','bib')
+fp='Literatur.txt'
+save_path=fp.replace('txt','bib')
 
 #%% get Literature
 
@@ -36,6 +35,11 @@ def getTxt(file_path):
             for i in el:
                 if 'type' in i:
                     temp['type']=re.split('{|}', i)[1]
+            try:
+                    temp['type']
+            except:
+                    print(v+'\n'+str(n))
+                    sys.exit()
           
             if temp['type']=='Journal Article' or temp['type']=='Book':
                 for i in el:
@@ -59,41 +63,42 @@ def getTxt(file_path):
             bibkey=re.sub('ö','o',bibkey)
             bibkey=re.sub('ü','u',bibkey)
             
-            if bibkey in Lib.keys():
-                sys.exit()
-            else:
-                el=Lib[bibkey]   
-                h=el[0].split('{')
-                h[1]=re.sub(',| ','',h[1])
-                el[0]='@'+h[0]+'{'+bibkey+','
-                if 'ReferenceNumber' in el[1]:
-                    el[1]='   '+'ReferenceNumber = ' + '{' + h[1] + '}' + ','
-                else:
-                    el.insert(1,'   '+'ReferenceNumber = ' + '{' + h[1] + '}' + ',')
-        
-                bibkey=temp['authors'][0][0]+temp['authors'][1][0]+temp['year']
+            n=1
+            while True:
                 if bibkey in Lib.keys():
-                    print('Error: Equally named Bib items!')
-                    sys.exit()
+                    
+                    try:                           
+                        bibkey=bibkey.replace(temp['year'],'')
+                        bibkey=bibkey+temp['authors'][n][0]+temp['year']
+                        n=n+1
+                    except:
+                        print(bibkey)
+                        sys.exit()
+                else:
+                    break
             
-                Lib[bibkey]=''.join(el)
-               
-                
-                
+            print(bibkey)
+            h=el[0].split('{')
+            h[1]=re.sub(',| ','',h[1])
+            el[0]='@'+h[0]+'{'+bibkey+','
+            if 'ReferenceNumber' in el[1]:
+                el[1]='   '+'ReferenceNumber = ' + '{' + h[1] + '}' + ','
+            else:
+                el.insert(1,'   '+'ReferenceNumber = ' + '{' + h[1] + '}' + ',')
+            
+            contTemp=''.join(el) 
+            if '@@' in contTemp:
+                contTemp.replace('@@','@')
+            Lib[bibkey]=contTemp
 
     return Lib
-
-            # change header line of txt
-            
-        
+      
 def writeBib(save_path,Lib):
-    with open('//tsclient/I/Literatur/Literatur.bib','w', encoding='utf8') as of:
+    with open('Literatur.bib','w', encoding='utf8') as of:
         of.write('\n'.join(Lib.values()))
-
 
 #%%Excecute
 
 
-Lib=getTxt(file_path)
-# Lib=makeBib(Lib)
+Lib=getTxt(fp)
 writeBib(save_path,Lib)
