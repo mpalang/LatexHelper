@@ -13,10 +13,10 @@ for line in Log:
 for line in CiteWarningsAll:
     CiteWarnings.add(re.search(r"(?<=`)\w+",line).group())
 
-#with open('CiteWarnAll.txt', 'a') as f:
-#    f.truncate(0)
-#    for line in sorted(list(CiteWarningsAll)):
-#        f.write(line)
+with open('CiteWarnAll.txt', 'a') as f:
+    f.truncate(0)
+    for line in sorted(list(CiteWarningsAll)):
+       f.write(line)
 
 with open('CiteWarn.txt', 'a') as f:
     f.truncate(0)
