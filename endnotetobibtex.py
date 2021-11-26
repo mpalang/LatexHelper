@@ -16,15 +16,15 @@ import pathlib
 from pathlib import Path
 #%%
  
-fp='Literatur.txt'
-save_path=fp.replace('txt','bib')
+file_path='Literatur.txt'
+save_path=file_path.replace('txt','bib')
 
 #%% get Literature
 
 def getTxt(file_path):
     
     with open(file_path, 'r', encoding='utf8') as f:
-        content=f.read().split('@')
+        content=f.read().split('\n@')
 
     Lib={}
     for n,v in enumerate(content):  
@@ -59,8 +59,25 @@ def getTxt(file_path):
             bibkey=re.sub('ö','o',bibkey)
             bibkey=re.sub('ü','u',bibkey)
             
-            #if bibkey in Lib.keys():
-                
+            if bibkey in Lib.keys():
+                sys.exit()
+            else:
+                el=Lib[bibkey]   
+                h=el[0].split('{')
+                h[1]=re.sub(',| ','',h[1])
+                el[0]='@'+h[0]+'{'+bibkey+','
+                if 'ReferenceNumber' in el[1]:
+                    el[1]='   '+'ReferenceNumber = ' + '{' + h[1] + '}' + ','
+                else:
+                    el.insert(1,'   '+'ReferenceNumber = ' + '{' + h[1] + '}' + ',')
+        
+                bibkey=temp['authors'][0][0]+temp['authors'][1][0]+temp['year']
+                if bibkey in Lib.keys():
+                    print('Error: Equally named Bib items!')
+                    sys.exit()
+            
+                Lib[bibkey]=''.join(el)
+               
                 
                 
 
@@ -68,26 +85,6 @@ def getTxt(file_path):
 
             # change header line of txt
             
-def makeBib(Lib):           
-    for bibkey in Lib.keys():
-        el=Lib[bibkey]   
-        h=el[0].split('{')
-        h[1]=re.sub(',| ','',h[1])
-        el[0]='@'+h[0]+'{'+bibkey+','
-        if 'ReferenceNumber' in el[1]:
-            el[1]='   '+'ReferenceNumber = ' + '{' + h[1] + '}' + ','
-        else:
-            el.insert(1,'   '+'ReferenceNumber = ' + '{' + h[1] + '}' + ',')
-        
-        bibkey=temp['authors'][0][0]+temp['authors'][1][0]+temp['year']
-        if bibkey in Lib.keys():
-            print('Error: Equally named Bib items!')
-            sys.exit()
-            
-        Lib[bibkey]=''.join(el)
-
-
-    return Lib
         
 def writeBib(save_path,Lib):
     with open('//tsclient/I/Literatur/Literatur.bib','w', encoding='utf8') as of:
@@ -97,6 +94,6 @@ def writeBib(save_path,Lib):
 #%%Excecute
 
 
-#Lib=getTxt(file_path)
+Lib=getTxt(file_path)
 # Lib=makeBib(Lib)
-#writeBib(save_path,Lib)
+writeBib(save_path,Lib)
