@@ -1,0 +1,2690 @@
+
+
+{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map} </compile/Bilder/LIKAT_Logo.jpg> </compile/Bilder/Uni-Logo.png>])
+\openout2 = `preface.aux'.
+
+(/compile/preface.tex
+Overfull \hbox (1.38724pt too wide) in paragraph at lines 4--5
+[]\T1/ccr/m/n/12 Diese Ar-beit wur-de im Zeit-raum von No-vem-ber 2017 bis No-vem-ber 2021 am Leibniz-
+ []
+
+[1
+
+
+
+]
+Package marginnote Info: Using workaround for absolute page number on input line 21.
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 23.
+
+LaTeX Font Info:    Font shape `T1/ccr/bx/n' in size <12> not available
+(Font)              Font shape `T1/cmr/bx/n' tried instead on input line 23.
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 24.
+
+Package hyperref Info: bookmark level for unknown lpcsec defaults to 0 on input line 27.
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 28.
+
+
+Overfull \hbox (5.8448pt too wide) in paragraph at lines 23--30
+\T1/cmr/bx/n/12 der Mathematisch-Naturwissenschaftlichen Fa-kul-t�t der Uni-ver-si-t�t Ro-stock. 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--30
+
+ []
+
+[2] [3] [4] [5])
+\openout2 = `Inhalt.aux'.
+
+(/compile/Inhalt.tex (/compile/output.toc
+LaTeX Font Info:    Trying to load font information for T1+cmss on input line 2.
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/t1cmss.fd
+File: t1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+) [6
+
+
+])
+\tf@toc=\write6
+\openout6 = `output.toc'.
+
+[7])
+\openout2 = `Einl.aux'.
+
+(/compile/Einl.texpdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.11 
+      [1
+
+
+]
+Package marginnote Info: Using workaround for absolute page number on input line 11.
+) [2]
+\openout2 = `Grund.aux'.
+
+(/compile/Grund.tex
+<Bilder/Grund/SchPC.png, id=159, 963.6pt x 542.025pt>
+File: Bilder/Grund/SchPC.png Graphic file (type png)
+<use Bilder/Grund/SchPC.png>
+Package pdftex.def Info: Bilder/Grund/SchPC.png  used on input line 10.
+(pdftex.def)             Requested size: 355.09195pt x 199.73558pt.
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 11.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 11.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 11.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 11.
+
+[3
+
+
+] [4 </compile/Bilder/Grund/SchPC.png>]
+<Bilder/Grund/OrbBand.png, id=186, 963.6pt x 542.025pt>
+File: Bilder/Grund/OrbBand.png Graphic file (type png)
+<use Bilder/Grund/OrbBand.png>
+Package pdftex.def Info: Bilder/Grund/OrbBand.png  used on input line 30.
+(pdftex.def)             Requested size: 355.09195pt x 199.73558pt.
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 31.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 31.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 31.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 31.
+
+<Bilder/Grund/KrisOktTet.png, id=187, 1138.0116pt x 542.025pt>
+File: Bilder/Grund/KrisOktTet.png Graphic file (type png)
+<use Bilder/Grund/KrisOktTet.png>
+Package pdftex.def Info: Bilder/Grund/KrisOktTet.png  used on input line 40.
+(pdftex.def)             Requested size: 355.09195pt x 169.12599pt.
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 41.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 41.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 41.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 41.
+
+[5 </compile/Bilder/Grund/OrbBand.png>]
+<Bilder/Grund/TiO2MO.png, id=198, 469.755pt x 373.395pt>
+File: Bilder/Grund/TiO2MO.png Graphic file (type png)
+<use Bilder/Grund/TiO2MO.png>
+Package pdftex.def Info: Bilder/Grund/TiO2MO.png  used on input line 53.
+(pdftex.def)             Requested size: 221.93163pt x 176.40727pt.
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 54.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 54.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 54.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 54.
+
+[6 </compile/Bilder/Grund/KrisOktTet.png>]
+<Bilder/Grund/Jablonski.png, id=212, 887.7165pt x 455.301pt>
+File: Bilder/Grund/Jablonski.png Graphic file (type png)
+<use Bilder/Grund/Jablonski.png>
+Package pdftex.def Info: Bilder/Grund/Jablonski.png  used on input line 66.
+(pdftex.def)             Requested size: 355.09195pt x 182.12411pt.
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 67.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 67.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 67.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 67.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 72.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 72.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 72.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 72.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 76.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 76.
+
+LaTeX Font Info:    Trying to load font information for TS1+ccr on input line 89.
+(/usr/local/texlive/2020/texmf-dist/tex/latex/ccfonts/ts1ccr.fd
+File: ts1ccr.fd 1999/11/22 v1.0a (WaS)
+) [7 </compile/Bilder/Grund/TiO2MO.png>] [8 </compile/Bilder/Grund/Jablonski.png>]
+LaTeX Font Info:    External font `xccex10' loaded for size
+(Font)              <5> on input line 115.
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 133.
+
+
+LaTeX Warning: Citation `Bechmann2018' on page 9 undefined on input line 133.
+
+[9] [10]
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 160.
+
+
+LaTeX Warning: Citation `Streethawong2005' on page 11 undefined on input line 160.
+
+[11]
+<Bilder/Grund/BandPos.png, id=287, 671.3883pt x 544.1931pt>
+File: Bilder/Grund/BandPos.png Graphic file (type png)
+<use Bilder/Grund/BandPos.png>
+Package pdftex.def Info: Bilder/Grund/BandPos.png  used on input line 167.
+(pdftex.def)             Requested size: 217.49542pt x 176.2877pt.
+<Bilder/Grund/SolarBandGap.png, id=288, 820.9872pt x 573.1011pt>
+File: Bilder/Grund/SolarBandGap.png Graphic file (type png)
+<use Bilder/Grund/SolarBandGap.png>
+Package pdftex.def Info: Bilder/Grund/SolarBandGap.png  used on input line 168.
+(pdftex.def)             Requested size: 217.49542pt x 151.81859pt.
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 169.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 169.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 169.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 169.
+
+) [12 </compile/Bilder/Grund/BandPos.png> </compile/Bilder/Grund/SolarBandGap.png>]
+\openout2 = `Exp.aux'.
+
+(/compile/Exp.tex
+Underfull \hbox (badness 10000) in paragraph at lines 5--8
+
+ []
+
+[13
+
+
+] [14] [15]
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 50.
+
+
+LaTeX Warning: Citation `Yamamoto2008_2' on page 16 undefined on input line 50.
+
+[16]
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 51.
+
+
+LaTeX Warning: Citation `calvin2013' on page 17 undefined on input line 51.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--65
+
+ []
+
+[17]
+<Bilder/Exp/HVC.png, id=340, 752.8125pt x 502.87875pt>
+File: Bilder/Exp/HVC.png Graphic file (type png)
+<use Bilder/Exp/HVC.png>
+Package pdftex.def Info: Bilder/Exp/HVC.png  used on input line 68.
+(pdftex.def)             Requested size: 355.09195pt x 219.06833pt.
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 69.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 69.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 69.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 69.
+
+[18 </compile/Bilder/Exp/HVC.png (PNG copy)>]
+<Bilder/Exp/Reactor4Sch.png, id=349, 825.0825pt x 542.025pt>
+File: Bilder/Exp/Reactor4Sch.png Graphic file (type png)
+<use Bilder/Exp/Reactor4Sch.png>
+Package pdftex.def Info: Bilder/Exp/Reactor4Sch.png  used on input line 84.
+(pdftex.def)             Requested size: 355.09195pt x 233.27296pt.
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 86.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 86.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 86.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 86.
+
+[19 </compile/Bilder/Exp/Reactor4Sch.png>]
+<Bilder/Exp/Hg-Xe_Spectrum.png, id=358, 774.7344pt x 592.8549pt>
+File: Bilder/Exp/Hg-Xe_Spectrum.png Graphic file (type png)
+<use Bilder/Exp/Hg-Xe_Spectrum.png>
+Package pdftex.def Info: Bilder/Exp/Hg-Xe_Spectrum.png  used on input line 94.
+(pdftex.def)             Requested size: 355.09195pt x 271.73053pt.
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 95.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 95.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 95.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 95.
+
+[20 </compile/Bilder/Exp/Hg-Xe_Spectrum.png>]
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 105.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 105.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 105.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 105.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 109.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 109.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 109.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 109.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 109.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 109.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 109.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 109.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 109.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 109.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 111.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 112.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 113.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 114.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 115.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 116.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 117.
+
+[21]
+<Bilder/Exp/DriftsSetup.png, id=381, 825.0825pt x 542.025pt>
+File: Bilder/Exp/DriftsSetup.png Graphic file (type png)
+<use Bilder/Exp/DriftsSetup.png>
+Package pdftex.def Info: Bilder/Exp/DriftsSetup.png  used on input line 132.
+(pdftex.def)             Requested size: 355.09195pt x 233.27296pt.
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 133.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 133.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 133.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 133.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--142
+
+ []
+
+[22] [23 </compile/Bilder/Exp/DriftsSetup.png>]
+<Bilder/Exp/TASetup.png, id=415, 963.6pt x 542.025pt>
+File: Bilder/Exp/TASetup.png Graphic file (type png)
+<use Bilder/Exp/TASetup.png>
+Package pdftex.def Info: Bilder/Exp/TASetup.png  used on input line 155.
+(pdftex.def)             Requested size: 355.09195pt x 199.73558pt.
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 156.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 156.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 156.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 156.
+
+[24]
+<Bilder/Exp/PLSetup.png, id=439, 963.6pt x 542.025pt>
+File: Bilder/Exp/PLSetup.png Graphic file (type png)
+<use Bilder/Exp/PLSetup.png>
+Package pdftex.def Info: Bilder/Exp/PLSetup.png  used on input line 167.
+(pdftex.def)             Requested size: 355.09195pt x 199.73558pt.
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 168.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 168.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 168.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 168.
+
+) [25 </compile/Bilder/Exp/TASetup.png>] [26 </compile/Bilder/Exp/PLSetup.png>]
+\openout2 = `Char.aux'.
+
+(/compile/Char.tex
+Overfull \hbox (9.30293pt too wide) in paragraph at lines 1--1
+|[]\T1/ccr/m/n/20.74 Eigenschaften der ver-wen-de-ten Ti/SBA-15 Pho-
+ []
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 14.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 14.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 14.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 14.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 18.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 18.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 18.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 20.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 21.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 22.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 23.
+
+[27
+
+
+]
+<Bilder/SynChar/wt.png, id=474, 774.7344pt x 592.8549pt>
+File: Bilder/SynChar/wt.png Graphic file (type png)
+<use Bilder/SynChar/wt.png>
+Package pdftex.def Info: Bilder/SynChar/wt.png  used on input line 35.
+(pdftex.def)             Requested size: 213.05246pt x 171.4462pt.
+<Bilder/SynChar/Lnorm.png, id=476, 774.7344pt x 592.8549pt>
+File: Bilder/SynChar/Lnorm.png Graphic file (type png)
+<use Bilder/SynChar/Lnorm.png>
+Package pdftex.def Info: Bilder/SynChar/Lnorm.png  used on input line 36.
+(pdftex.def)             Requested size: 213.05246pt x 171.4462pt.
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 37.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 37.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 37.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 37.
+
+[28 </compile/Bilder/SynChar/wt.png> </compile/Bilder/SynChar/Lnorm.png>] [29]
+<Bilder/SynChar/EDXP15_SE.png, id=499, 420.9903pt x 316.44437pt>
+File: Bilder/SynChar/EDXP15_SE.png Graphic file (type png)
+<use Bilder/SynChar/EDXP15_SE.png>
+Package pdftex.def Info: Bilder/SynChar/EDXP15_SE.png  used on input line 54.
+(pdftex.def)             Requested size: 145.58844pt x 109.43416pt.
+<Bilder/SynChar/EDXP8_SE.png, id=500, 420.9903pt x 316.44437pt>
+File: Bilder/SynChar/EDXP8_SE.png Graphic file (type png)
+<use Bilder/SynChar/EDXP8_SE.png>
+Package pdftex.def Info: Bilder/SynChar/EDXP8_SE.png  used on input line 55.
+(pdftex.def)             Requested size: 145.58844pt x 109.43416pt.
+<Bilder/SynChar/EDXP12_SE.png, id=501, 420.9903pt x 316.44437pt>
+File: Bilder/SynChar/EDXP12_SE.png Graphic file (type png)
+<use Bilder/SynChar/EDXP12_SE.png>
+Package pdftex.def Info: Bilder/SynChar/EDXP12_SE.png  used on input line 56.
+(pdftex.def)             Requested size: 145.58844pt x 109.43416pt.
+<Bilder/SynChar/EDXP15_spec.png, id=502, 708.246pt x 542.025pt>
+File: Bilder/SynChar/EDXP15_spec.png Graphic file (type png)
+<use Bilder/SynChar/EDXP15_spec.png>
+Package pdftex.def Info: Bilder/SynChar/EDXP15_spec.png  used on input line 57.
+(pdftex.def)             Requested size: 145.58844pt x 130.74904pt.
+<Bilder/SynChar/EDXP8_spec.png, id=504, 708.246pt x 542.025pt>
+File: Bilder/SynChar/EDXP8_spec.png Graphic file (type png)
+<use Bilder/SynChar/EDXP8_spec.png>
+Package pdftex.def Info: Bilder/SynChar/EDXP8_spec.png  used on input line 58.
+(pdftex.def)             Requested size: 145.58844pt x 130.74904pt.
+<Bilder/SynChar/EDXP12_spec.png, id=506, 708.246pt x 542.025pt>
+File: Bilder/SynChar/EDXP12_spec.png Graphic file (type png)
+<use Bilder/SynChar/EDXP12_spec.png>
+Package pdftex.def Info: Bilder/SynChar/EDXP12_spec.png  used on input line 59.
+(pdftex.def)             Requested size: 145.58844pt x 130.74904pt.
+<Bilder/SynChar/EDXP15_Ti.png, id=508, 458.06427pt x 313.33168pt>
+File: Bilder/SynChar/EDXP15_Ti.png Graphic file (type png)
+<use Bilder/SynChar/EDXP15_Ti.png>
+Package pdftex.def Info: Bilder/SynChar/EDXP15_Ti.png  used on input line 60.
+(pdftex.def)             Requested size: 142.03949pt x 97.15572pt.
+<Bilder/SynChar/EDXP8_Ti.png, id=509, 458.06427pt x 313.33168pt>
+File: Bilder/SynChar/EDXP8_Ti.png Graphic file (type png)
+<use Bilder/SynChar/EDXP8_Ti.png>
+Package pdftex.def Info: Bilder/SynChar/EDXP8_Ti.png  used on input line 61.
+(pdftex.def)             Requested size: 142.03949pt x 97.15572pt.
+<Bilder/SynChar/EDXP12_Ti.png, id=510, 458.06427pt x 313.33168pt>
+File: Bilder/SynChar/EDXP12_Ti.png Graphic file (type png)
+<use Bilder/SynChar/EDXP12_Ti.png>
+Package pdftex.def Info: Bilder/SynChar/EDXP12_Ti.png  used on input line 62.
+(pdftex.def)             Requested size: 142.03949pt x 97.15572pt.
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 63.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 63.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 63.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 63.
+
+[30 </compile/Bilder/SynChar/EDXP15_spec.png> </compile/Bilder/SynChar/EDXP8_spec.png> </compile/Bilder/SynChar/EDXP12_spec.png> </compile/Bilder/SynChar/EDXP15_SE.png> </compile/Bilder/SynChar/EDXP8_SE.png> </compile/Bilder/SynChar/EDXP12_SE.png> </compile/Bilder/SynChar/EDXP15_Ti.png> </compile/Bilder/SynChar/EDXP8_Ti.png> </compile/Bilder/SynChar/EDXP12_Ti.png>]
+<Bilder/SynChar/XAS Pre-Edge 2.png, id=529, 818.8191pt x 573.1011pt>
+File: Bilder/SynChar/XAS Pre-Edge 2.png Graphic file (type png)
+<use Bilder/SynChar/XAS Pre-Edge 2.png>
+Package pdftex.def Info: Bilder/SynChar/XAS Pre-Edge 2.png  used on input line 73.
+(pdftex.def)             Requested size: 213.05246pt x 149.11646pt.
+<Bilder/SynChar/XAS Pre-Edge dot.png, id=530, 818.8191pt x 573.1011pt>
+File: Bilder/SynChar/XAS Pre-Edge dot.png Graphic file (type png)
+<use Bilder/SynChar/XAS Pre-Edge dot.png>
+Package pdftex.def Info: Bilder/SynChar/XAS Pre-Edge dot.png  used on input line 74.
+(pdftex.def)             Requested size: 213.05246pt x 149.11646pt.
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 75.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 75.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 75.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 75.
+
+<Bilder/SynChar/EXAFS.png, id=533, 818.8191pt x 573.1011pt>
+File: Bilder/SynChar/EXAFS.png Graphic file (type png)
+<use Bilder/SynChar/EXAFS.png>
+Package pdftex.def Info: Bilder/SynChar/EXAFS.png  used on input line 81.
+(pdftex.def)             Requested size: 355.09195pt x 248.52742pt.
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 82.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 82.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 82.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 82.
+
+<Bilder/SynChar/XPS.png, id=536, 671.3883pt x 544.1931pt>
+File: Bilder/SynChar/XPS.png Graphic file (type png)
+<use Bilder/SynChar/XPS.png>
+Package pdftex.def Info: Bilder/SynChar/XPS.png  used on input line 92.
+(pdftex.def)             Requested size: 355.09195pt x 287.82309pt.
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 93.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 93.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 93.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 93.
+
+[31 </compile/Bilder/SynChar/XAS Pre-Edge 2.png> </compile/Bilder/SynChar/XAS Pre-Edge dot.png>] [32 </compile/Bilder/SynChar/EXAFS.png> </compile/Bilder/SynChar/XPS.png>]
+File: Bilder/SynChar/XPS.png Graphic file (type png)
+<use Bilder/SynChar/XPS.png>
+Package pdftex.def Info: Bilder/SynChar/XPS.png  used on input line 101.
+(pdftex.def)             Requested size: 355.09195pt x 287.82309pt.
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 102.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 102.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 102.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 102.
+
+[33]
+<Bilder/SynChar/AllKM.png, id=561, 774.7344pt x 592.8549pt>
+File: Bilder/SynChar/AllKM.png Graphic file (type png)
+<use Bilder/SynChar/AllKM.png>
+Package pdftex.def Info: Bilder/SynChar/AllKM.png  used on input line 112.
+(pdftex.def)             Requested size: 355.09195pt x 271.73053pt.
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 113.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 113.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 113.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 113.
+
+[34 </compile/Bilder/SynChar/AllKM.png>] [35]
+<Bilder/SynChar/P12norm.png, id=579, 774.7344pt x 592.8549pt>
+File: Bilder/SynChar/P12norm.png Graphic file (type png)
+<use Bilder/SynChar/P12norm.png>
+Package pdftex.def Info: Bilder/SynChar/P12norm.png  used on input line 126.
+(pdftex.def)             Requested size: 213.0444pt x 168.67226pt.
+<Bilder/SynChar/Eg temp.png, id=581, 818.8191pt x 573.1011pt>
+File: Bilder/SynChar/Eg temp.png Graphic file (type png)
+<use Bilder/SynChar/Eg temp.png>
+Package pdftex.def Info: Bilder/SynChar/Eg temp.png  used on input line 127.
+(pdftex.def)             Requested size: 213.05246pt x 169.25867pt.
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 128.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 128.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 128.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 128.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 135.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 135.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 135.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 135.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 139.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 139.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 139.
+
+[36 </compile/Bilder/SynChar/P12norm.png> </compile/Bilder/SynChar/Eg temp.png>]
+<Bilder/SynChar/Exc_Lum Spec Ti(i-O-Pr)4 in iPrOH.png, id=597, 818.8191pt x 573.1011pt>
+File: Bilder/SynChar/Exc_Lum Spec Ti(i-O-Pr)4 in iPrOH.png Graphic file (type png)
+<use Bilder/SynChar/Exc_Lum Spec Ti(i-O-Pr)4 in iPrOH.png>
+Package pdftex.def Info: Bilder/SynChar/Exc_Lum Spec Ti(i-O-Pr)4 in iPrOH.png  used on input line 153.
+(pdftex.def)             Requested size: 213.05246pt x 149.11646pt.
+<Bilder/SynChar/AbsP12Prec.png, id=599, 774.7344pt x 592.8549pt>
+File: Bilder/SynChar/AbsP12Prec.png Graphic file (type png)
+<use Bilder/SynChar/AbsP12Prec.png>
+Package pdftex.def Info: Bilder/SynChar/AbsP12Prec.png  used on input line 154.
+(pdftex.def)             Requested size: 213.05246pt x 163.03107pt.
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 155.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 155.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 155.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 155.
+
+[37 </compile/Bilder/SynChar/Exc_Lum Spec Ti(i-O-Pr)4 in iPrOH.png> </compile/Bilder/SynChar/AbsP12Prec.png>]
+<Bilder/SynChar/supported species.png, id=612, 2426.31468pt x 484.81125pt>
+File: Bilder/SynChar/supported species.png Graphic file (type png)
+<use Bilder/SynChar/supported species.png>
+Package pdftex.def Info: Bilder/SynChar/supported species.png  used on input line 172.
+(pdftex.def)             Requested size: 355.09195pt x 70.95052pt.
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 173.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 173.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 173.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 173.
+
+) [38 </compile/Bilder/SynChar/supported species.png>]
+\openout2 = `Akt.aux'.
+
+(/compile/Akt.tex
+Overfull \hbox (1.43715pt too wide) in paragraph at lines 3--7
+\T1/ccr/m/n/12 Titandioxid ist ver-mut-lich der am h�u-figs-ten ver-wen-de-te he-te-ro-ge-ne Photokatalysator.| [][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--7
+
+ []
+
+[39
+
+
+]
+<Bilder/Akt/QMSAbs.png, id=633, 774.7344pt x 592.8549pt>
+File: Bilder/Akt/QMSAbs.png Graphic file (type png)
+<use Bilder/Akt/QMSAbs.png>
+Package pdftex.def Info: Bilder/Akt/QMSAbs.png  used on input line 19.
+(pdftex.def)             Requested size: 213.05246pt x 163.03107pt.
+<Bilder/Akt/QMSAbsI.png, id=634, 774.7344pt x 592.8549pt>
+File: Bilder/Akt/QMSAbsI.png Graphic file (type png)
+<use Bilder/Akt/QMSAbsI.png>
+Package pdftex.def Info: Bilder/Akt/QMSAbsI.png  used on input line 20.
+(pdftex.def)             Requested size: 213.05246pt x 163.03107pt.
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 22.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 22.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 22.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 22.
+
+[40]
+File: Bilder/Akt/QMSAbs.png Graphic file (type png)
+<use Bilder/Akt/QMSAbs.png>
+Package pdftex.def Info: Bilder/Akt/QMSAbs.png  used on input line 33.
+(pdftex.def)             Requested size: 213.05246pt x 163.03107pt.
+File: Bilder/Akt/QMSAbsI.png Graphic file (type png)
+<use Bilder/Akt/QMSAbsI.png>
+Package pdftex.def Info: Bilder/Akt/QMSAbsI.png  used on input line 34.
+(pdftex.def)             Requested size: 213.05246pt x 163.03107pt.
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 36.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 36.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 36.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 36.
+
+<Bilder/Akt/P25iPrOHOx.png, id=645, 774.7344pt x 592.8549pt>
+File: Bilder/Akt/P25iPrOHOx.png Graphic file (type png)
+<use Bilder/Akt/P25iPrOHOx.png>
+Package pdftex.def Info: Bilder/Akt/P25iPrOHOx.png  used on input line 42.
+(pdftex.def)             Requested size: 213.05246pt x 163.03107pt.
+<Bilder/Akt/P15iPrOHOx.png, id=646, 774.7344pt x 592.8549pt>
+File: Bilder/Akt/P15iPrOHOx.png Graphic file (type png)
+<use Bilder/Akt/P15iPrOHOx.png>
+Package pdftex.def Info: Bilder/Akt/P15iPrOHOx.png  used on input line 43.
+(pdftex.def)             Requested size: 213.05246pt x 163.03107pt.
+<Bilder/Akt/SBA15iPrOHOx.png, id=647, 774.7344pt x 592.8549pt>
+File: Bilder/Akt/SBA15iPrOHOx.png Graphic file (type png)
+<use Bilder/Akt/SBA15iPrOHOx.png>
+Package pdftex.def Info: Bilder/Akt/SBA15iPrOHOx.png  used on input line 45.
+(pdftex.def)             Requested size: 213.05246pt x 163.03107pt.
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 49.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 49.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 49.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 49.
+
+[41 </compile/Bilder/Akt/QMSAbs.png> </compile/Bilder/Akt/QMSAbsI.png>] [42 </compile/Bilder/Akt/P25iPrOHOx.png> </compile/Bilder/Akt/P15iPrOHOx.png> </compile/Bilder/Akt/SBA15iPrOHOx.png>]
+<Bilder/Akt/AktAc.png, id=668, 660.5478pt x 516.7305pt>
+File: Bilder/Akt/AktAc.png Graphic file (type png)
+<use Bilder/Akt/AktAc.png>
+Package pdftex.def Info: Bilder/Akt/AktAc.png  used on input line 61.
+(pdftex.def)             Requested size: 213.05246pt x 166.66599pt.
+<Bilder/Akt/AktAcProd.png, id=670, 661.0296pt x 532.6299pt>
+File: Bilder/Akt/AktAcProd.png Graphic file (type png)
+<use Bilder/Akt/AktAcProd.png>
+Package pdftex.def Info: Bilder/Akt/AktAcProd.png  used on input line 63.
+(pdftex.def)             Requested size: 213.05246pt x 171.66412pt.
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 64.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 64.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 64.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 64.
+
+[43 </compile/Bilder/Akt/AktAc.png> </compile/Bilder/Akt/AktAcProd.png>]
+<Bilder/Akt/P12_iPrOH_Ar.png, id=683, 774.7344pt x 592.8549pt>
+File: Bilder/Akt/P12_iPrOH_Ar.png Graphic file (type png)
+<use Bilder/Akt/P12_iPrOH_Ar.png>
+Package pdftex.def Info: Bilder/Akt/P12_iPrOH_Ar.png  used on input line 74.
+(pdftex.def)             Requested size: 213.05246pt x 163.03107pt.
+<Bilder/Akt/P12_iPrOH_Ox.png, id=684, 774.7344pt x 592.8549pt>
+File: Bilder/Akt/P12_iPrOH_Ox.png Graphic file (type png)
+<use Bilder/Akt/P12_iPrOH_Ox.png>
+Package pdftex.def Info: Bilder/Akt/P12_iPrOH_Ox.png  used on input line 74.
+(pdftex.def)             Requested size: 213.05246pt x 163.03107pt.
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 75.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 75.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 75.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 75.
+
+
+Package caption Warning: \label without proper reference on input line 87.
+See the caption package documentation for explanation.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 82.
+
+
+LaTeX Warning: Reference `QMSParVar' on page 44 undefined on input line 82.
+
+[44 </compile/Bilder/Akt/P12_iPrOH_Ar.png> </compile/Bilder/Akt/P12_iPrOH_Ox.png>]
+<Bilder/Akt/ParVarLight.png, id=699, 774.7344pt x 592.8549pt>
+File: Bilder/Akt/ParVarLight.png Graphic file (type png)
+<use Bilder/Akt/ParVarLight.png>
+Package pdftex.def Info: Bilder/Akt/ParVarLight.png  used on input line 89.
+(pdftex.def)             Requested size: 213.05246pt x 163.03107pt.
+<Bilder/Akt/ParVarO2.png, id=700, 774.7344pt x 592.8549pt>
+File: Bilder/Akt/ParVarO2.png Graphic file (type png)
+<use Bilder/Akt/ParVarO2.png>
+Package pdftex.def Info: Bilder/Akt/ParVarO2.png  used on input line 90.
+(pdftex.def)             Requested size: 213.05246pt x 163.03107pt.
+<Bilder/Akt/ParVariPrOH.png, id=701, 774.7344pt x 592.8549pt>
+File: Bilder/Akt/ParVariPrOH.png Graphic file (type png)
+<use Bilder/Akt/ParVariPrOH.png>
+Package pdftex.def Info: Bilder/Akt/ParVariPrOH.png  used on input line 92.
+(pdftex.def)             Requested size: 213.05246pt x 163.03107pt.
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 98.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 98.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 98.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 98.
+
+) [45 </compile/Bilder/Akt/ParVarLight.png> </compile/Bilder/Akt/ParVarO2.png> </compile/Bilder/Akt/ParVariPrOH.png>]
+\openout2 = `Schw.aux'.
+
+(/compile/Schw.tex
+Overfull \hbox (66.453pt too wide) in paragraph at lines 1--1
+|[]\T1/ccr/m/n/20.74 Schwingungsuntersuchungen mit-tels IR-Spektroskopie| 
+ []
+
+<Bilder/Schw/DRIFTSVersuchsablauf.png, id=713, 963.6pt x 542.025pt>
+File: Bilder/Schw/DRIFTSVersuchsablauf.png Graphic file (type png)
+<use Bilder/Schw/DRIFTSVersuchsablauf.png>
+Package pdftex.def Info: Bilder/Schw/DRIFTSVersuchsablauf.png  used on input line 7.
+(pdftex.def)             Requested size: 443.86325pt x 157.93002pt.
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 8.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 8.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 8.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 8.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 8.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 8.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 8.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 8.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 8.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 8.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 14.
+
+
+LaTeX Warning: Reference `IRSpec' on page 46 undefined on input line 14.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--15
+
+ []
+
+[46
+
+
+ </compile/Bilder/Schw/DRIFTSVersuchsablauf.png>]
+<Bilder/Schw/DRIFTSSpec.png, id=731, 774.7344pt x 592.8549pt>
+File: Bilder/Schw/DRIFTSSpec.png Graphic file (type png)
+<use Bilder/Schw/DRIFTSSpec.png>
+Package pdftex.def Info: Bilder/Schw/DRIFTSSpec.png  used on input line 18.
+(pdftex.def)             Requested size: 355.09195pt x 271.73053pt.
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 19.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 19.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 19.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 19.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 23.
+
+
+LaTeX Warning: Citation `litke2017' on page 47 undefined on input line 23.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 24.
+
+
+LaTeX Warning: Citation `litke2017' on page 47 undefined on input line 24.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 25.
+
+
+LaTeX Warning: Citation `bhuyan2017' on page 47 undefined on input line 25.
+
+[47 </compile/Bilder/Schw/DRIFTSspec.png>]
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 28.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 28.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 28.
+
+
+LaTeX Warning: Citation `holz2013' on page 48 undefined on input line 28.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 28.
+
+
+LaTeX Warning: Citation `litke2017' on page 48 undefined on input line 28.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 28.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 28.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 28.
+
+
+LaTeX Warning: Citation `holz2013' on page 48 undefined on input line 28.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 28.
+
+
+LaTeX Warning: Citation `litke2017' on page 48 undefined on input line 28.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 32.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 32.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 32.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 34.
+
+LaTeX Font Info:    Font shape `OT1/ccr/bx/n' in size <12> not available
+(Font)              Font shape `OT1/cmr/bx/n' tried instead on input line 34.
+LaTeX Font Info:    Font shape `OT1/ccr/bx/n' in size <8> not available
+(Font)              Font shape `OT1/cmr/bx/n' tried instead on input line 34.
+LaTeX Font Info:    Font shape `OT1/ccr/bx/n' in size <6> not available
+(Font)              Font shape `OT1/cmr/bx/n' tried instead on input line 34.
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 36.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 38.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 39.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 40.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 44.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 45.
+
+[48]
+<Bilder/Schw/DRIFTSDiffSpecPC.png, id=760, 774.7344pt x 592.8549pt>
+File: Bilder/Schw/DRIFTSDiffSpecPC.png Graphic file (type png)
+<use Bilder/Schw/DRIFTSDiffSpecPC.png>
+Package pdftex.def Info: Bilder/Schw/DRIFTSDiffSpecPC.png  used on input line 56.
+(pdftex.def)             Requested size: 213.05246pt x 163.03107pt.
+<Bilder/Schw/DRIFTSDiffSpeciPrOHAds.png, id=761, 774.7344pt x 592.8549pt>
+File: Bilder/Schw/DRIFTSDiffSpeciPrOHAds.png Graphic file (type png)
+<use Bilder/Schw/DRIFTSDiffSpeciPrOHAds.png>
+Package pdftex.def Info: Bilder/Schw/DRIFTSDiffSpeciPrOHAds.png  used on input line 56.
+(pdftex.def)             Requested size: 213.05246pt x 163.03107pt.
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 57.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 57.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 57.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 57.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--62
+
+ []
+
+[49 </compile/Bilder/Schw/DRIFTSDiffSpecPC.png> </compile/Bilder/Schw/DRIFTSDiffSpeciPrOHAds.png>]
+<Bilder/Schw/DRIFTSDiffSpeciPrOHOx.png, id=775, 774.7344pt x 592.8549pt>
+File: Bilder/Schw/DRIFTSDiffSpeciPrOHOx.png Graphic file (type png)
+<use Bilder/Schw/DRIFTSDiffSpeciPrOHOx.png>
+Package pdftex.def Info: Bilder/Schw/DRIFTSDiffSpeciPrOHOx.png  used on input line 68.
+(pdftex.def)             Requested size: 213.05246pt x 163.03107pt.
+<Bilder/Schw/DRIFTSDiffSpeciPrOHOx2.png, id=776, 774.7344pt x 592.8549pt>
+File: Bilder/Schw/DRIFTSDiffSpeciPrOHOx2.png Graphic file (type png)
+<use Bilder/Schw/DRIFTSDiffSpeciPrOHOx2.png>
+Package pdftex.def Info: Bilder/Schw/DRIFTSDiffSpeciPrOHOx2.png  used on input line 69.
+(pdftex.def)             Requested size: 213.05246pt x 163.03107pt.
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 70.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 70.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 70.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 70.
+
+<Bilder/Schw/DRIFTSDiffSpeciPrOHOx3.png, id=777, 774.7344pt x 592.8549pt>
+File: Bilder/Schw/DRIFTSDiffSpeciPrOHOx3.png Graphic file (type png)
+<use Bilder/Schw/DRIFTSDiffSpeciPrOHOx3.png>
+Package pdftex.def Info: Bilder/Schw/DRIFTSDiffSpeciPrOHOx3.png  used on input line 76.
+(pdftex.def)             Requested size: 355.09195pt x 271.73053pt.
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 77.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 77.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 77.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 77.
+
+[50 </compile/Bilder/Schw/DRIFTSDiffSpeciPrOHOx.png> </compile/Bilder/Schw/DRIFTSDiffSpeciPrOHOx2.png>]
+<Bilder/Schw/DRIFTSTTP25.png, id=789, 774.7344pt x 592.8549pt>
+File: Bilder/Schw/DRIFTSTTP25.png Graphic file (type png)
+<use Bilder/Schw/DRIFTSTTP25.png>
+Package pdftex.def Info: Bilder/Schw/DRIFTSTTP25.png  used on input line 91.
+(pdftex.def)             Requested size: 213.05246pt x 163.03107pt.
+File: Bilder/Schw/DRIFTSTTP25.png Graphic file (type png)
+<use Bilder/Schw/DRIFTSTTP25.png>
+Package pdftex.def Info: Bilder/Schw/DRIFTSTTP25.png  used on input line 91.
+(pdftex.def)             Requested size: 213.05246pt x 163.03107pt.
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 92.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 92.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 92.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 92.
+
+[51 </compile/Bilder/Schw/DRIFTSDiffSpeciPrOHOx3.png>]) [52 </compile/Bilder/Schw/DRIFTSTTP25.png>]
+\openout2 = `TA.aux'.
+
+(/compile/TA.tex [53
+
+
+]
+<Bilder/TA/RawSignals1.png, id=819, 774.7344pt x 592.8549pt>
+File: Bilder/TA/RawSignals1.png Graphic file (type png)
+<use Bilder/TA/RawSignals1.png>
+Package pdftex.def Info: Bilder/TA/RawSignals1.png  used on input line 15.
+(pdftex.def)             Requested size: 213.05246pt x 163.03107pt.
+<Bilder/TA/RawSignals2.png, id=820, 774.7344pt x 592.8549pt>
+File: Bilder/TA/RawSignals2.png Graphic file (type png)
+<use Bilder/TA/RawSignals2.png>
+Package pdftex.def Info: Bilder/TA/RawSignals2.png  used on input line 15.
+(pdftex.def)             Requested size: 213.05246pt x 163.03107pt.
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 16.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 16.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 16.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 16.
+
+[54 </compile/Bilder/TA/RawSignals1.png> </compile/Bilder/TA/RawSignals2.png>]
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 35.
+
+
+LaTeX Warning: Citation `kessler1983' on page 55 undefined on input line 35.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 35.
+
+
+LaTeX Warning: Citation `Asahi1998' on page 55 undefined on input line 35.
+
+[55] [56]
+<Bilder/TA/S005P25_pR.png, id=848, 692.5875pt x 522.0303pt>
+File: Bilder/TA/S005P25_pR.png Graphic file (type png)
+<use Bilder/TA/S005P25_pR.png>
+Package pdftex.def Info: Bilder/TA/S005P25_pR.png  used on input line 54.
+(pdftex.def)             Requested size: 217.49542pt x 163.93062pt.
+<Bilder/TA/S011P16_pR.png, id=849, 692.5875pt x 522.0303pt>
+File: Bilder/TA/S011P16_pR.png Graphic file (type png)
+<use Bilder/TA/S011P16_pR.png>
+Package pdftex.def Info: Bilder/TA/S011P16_pR.png  used on input line 55.
+(pdftex.def)             Requested size: 217.49542pt x 163.93062pt.
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 56.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 56.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 56.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 56.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 60.
+
+
+LaTeX Warning: Reference `fig:TApR3D' on page 57 undefined on input line 60.
+
+<Bilder/TA/S005P25_pRc.png, id=850, 692.5875pt x 522.0303pt>
+File: Bilder/TA/S005P25_pRc.png Graphic file (type png)
+<use Bilder/TA/S005P25_pRc.png>
+Package pdftex.def Info: Bilder/TA/S005P25_pRc.png  used on input line 64.
+(pdftex.def)             Requested size: 217.49542pt x 163.93062pt.
+<Bilder/TA/S011P16_pRc.png, id=851, 692.5875pt x 522.0303pt>
+File: Bilder/TA/S011P16_pRc.png Graphic file (type png)
+<use Bilder/TA/S011P16_pRc.png>
+Package pdftex.def Info: Bilder/TA/S011P16_pRc.png  used on input line 65.
+(pdftex.def)             Requested size: 217.49542pt x 163.93062pt.
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 66.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 66.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 66.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 66.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 70.
+
+
+LaTeX Warning: Reference `TApRc3D' on page 57 undefined on input line 70.
+
+<Bilder/TA/S005P25_pRcc.png, id=852, 692.5875pt x 522.0303pt>
+File: Bilder/TA/S005P25_pRcc.png Graphic file (type png)
+<use Bilder/TA/S005P25_pRcc.png>
+Package pdftex.def Info: Bilder/TA/S005P25_pRcc.png  used on input line 74.
+(pdftex.def)             Requested size: 217.49542pt x 163.93062pt.
+<Bilder/TA/S011P16_pRcc.png, id=853, 692.5875pt x 522.0303pt>
+File: Bilder/TA/S011P16_pRcc.png Graphic file (type png)
+<use Bilder/TA/S011P16_pRcc.png>
+Package pdftex.def Info: Bilder/TA/S011P16_pRcc.png  used on input line 75.
+(pdftex.def)             Requested size: 217.49542pt x 163.93062pt.
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 76.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 76.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 76.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 76.
+
+[57 </compile/Bilder/TA/S005P25_pR.png> </compile/Bilder/TA/S011P16_pR.png>] [58 </compile/Bilder/TA/S005P25_pRc.png> </compile/Bilder/TA/S011P16_pRc.png> </compile/Bilder/TA/S005P25_pRcc.png> </compile/Bilder/TA/S011P16_pRcc.png>]
+<Bilder/TA/TAS053P253D.png, id=872, 721.9773pt x 523.9575pt>
+File: Bilder/TA/TAS053P253D.png Graphic file (type png)
+<use Bilder/TA/TAS053P253D.png>
+Package pdftex.def Info: Bilder/TA/TAS053P253D.png  used on input line 84.
+(pdftex.def)             Requested size: 217.49542pt x 157.83604pt.
+<Bilder/TA/TAS053P253DUnch.png, id=873, 721.9773pt x 523.9575pt>
+File: Bilder/TA/TAS053P253DUnch.png Graphic file (type png)
+<use Bilder/TA/TAS053P253DUnch.png>
+Package pdftex.def Info: Bilder/TA/TAS053P253DUnch.png  used on input line 84.
+(pdftex.def)             Requested size: 217.49542pt x 157.83604pt.
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 84.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 84.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 84.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 84.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--92
+
+ []
+
+[59 </compile/Bilder/TA/TAS053P253D.png> </compile/Bilder/TA/TAS053P253DUnch.png>]
+<Bilder/TA/TAP25NovJuneT.png, id=885, 642.9621pt x 520.8258pt>
+File: Bilder/TA/TAP25NovJuneT.png Graphic file (type png)
+<use Bilder/TA/TAP25NovJuneT.png>
+Package pdftex.def Info: Bilder/TA/TAP25NovJuneT.png  used on input line 95.
+(pdftex.def)             Requested size: 213.05246pt x 172.58034pt.
+<Bilder/TA/TAP25NovJuneWL.png, id=886, 671.3883pt x 516.4896pt>
+File: Bilder/TA/TAP25NovJuneWL.png Graphic file (type png)
+<use Bilder/TA/TAP25NovJuneWL.png>
+Package pdftex.def Info: Bilder/TA/TAP25NovJuneWL.png  used on input line 95.
+(pdftex.def)             Requested size: 213.05246pt x 163.90086pt.
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 96.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 96.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 96.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 96.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 103.
+
+
+LaTeX Warning: Citation `furube1999' on page 60 undefined on input line 103.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 103.
+
+
+LaTeX Warning: Reference `fig:TAS052S053' on page 60 undefined on input line 103.
+
+[60 </compile/Bilder/TA/TAP25NovJuneT.png> </compile/Bilder/TA/TAP25NovJuneWL.png>]
+<Bilder/TA/TAS052P25PrdR.png, id=896, 724.8681pt x 528.5346pt>
+File: Bilder/TA/TAS052P25PrdR.png Graphic file (type png)
+<use Bilder/TA/TAS052P25PrdR.png>
+Package pdftex.def Info: Bilder/TA/TAS052P25PrdR.png  used on input line 107.
+(pdftex.def)             Requested size: 217.49542pt x 158.5858pt.
+<Bilder/TA/TAS053P25PrdR.png, id=897, 724.8681pt x 528.5346pt>
+File: Bilder/TA/TAS053P25PrdR.png Graphic file (type png)
+<use Bilder/TA/TAS053P25PrdR.png>
+Package pdftex.def Info: Bilder/TA/TAS053P25PrdR.png  used on input line 107.
+(pdftex.def)             Requested size: 217.49542pt x 158.5858pt.
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 108.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 108.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 108.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 108.
+
+<Bilder/TA/TASpecNov.png, id=900, 671.1474pt x 517.2123pt>
+File: Bilder/TA/TASpecNov.png Graphic file (type png)
+<use Bilder/TA/TASpecNov.png>
+Package pdftex.def Info: Bilder/TA/TASpecNov.png  used on input line 117.
+(pdftex.def)             Requested size: 217.49542pt x 167.61058pt.
+<Bilder/TA/TASpecJune.png, id=901, 671.1474pt x 518.8986pt>
+File: Bilder/TA/TASpecJune.png Graphic file (type png)
+<use Bilder/TA/TASpecJune.png>
+Package pdftex.def Info: Bilder/TA/TASpecJune.png  used on input line 118.
+(pdftex.def)             Requested size: 217.49542pt x 168.15706pt.
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 119.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 119.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 119.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 119.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 123.
+
+
+LaTeX Warning: Citation `furube1999' on page 61 undefined on input line 123.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 125.
+
+
+LaTeX Warning: Citation `ColomboRoussel1995' on page 61 undefined on input line 125.
+
+
+Overfull \hbox (0.57979pt too wide) in paragraph at lines 123--126
+\T1/ccr/m/n/12 chun-gen im Pi-ko-se-kun-den-be-reich ab. Es wird an-ge-nom-men, dass Ki-ne-tik der Elektron-
+ []
+
+[61 </compile/Bilder/TA/TAS052P25PrdR.png> </compile/Bilder/TA/TAS053P25PrdR.png>]
+! Undefined control sequence.
+l.131 ...zentration der freien Elektronen, $k_{\rc
+                                                  }$ die Zerfallsrate der El...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 131.
+
+
+LaTeX Warning: Citation `martin1994_2' on page 62 undefined on input line 131.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 134.
+
+
+LaTeX Warning: Reference `fig:TAP25AmbT' on page 62 undefined on input line 134.
+
+[62 </compile/Bilder/TA/TASpecNov.png> </compile/Bilder/TA/TASpecJune.png>]
+<Bilder/TA/TAS51P25Fit.png, id=924, 667.0521pt x 701.2599pt>
+File: Bilder/TA/TAS51P25Fit.png Graphic file (type png)
+<use Bilder/TA/TAS51P25Fit.png>
+Package pdftex.def Info: Bilder/TA/TAS51P25Fit.png  used on input line 138.
+(pdftex.def)             Requested size: 355.09195pt x 373.30313pt.
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 139.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 139.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 139.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 139.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 143.
+
+
+LaTeX Warning: Citation `colombo1992_2' on page 63 undefined on input line 143.
+
+[63 </compile/Bilder/TA/TAS51P25Fit.png>]
+<Bilder/TA/TAS56P8Fit.png, id=932, 667.0521pt x 701.2599pt>
+File: Bilder/TA/TAS56P8Fit.png Graphic file (type png)
+<use Bilder/TA/TAS56P8Fit.png>
+Package pdftex.def Info: Bilder/TA/TAS56P8Fit.png  used on input line 147.
+(pdftex.def)             Requested size: 355.09195pt x 373.30313pt.
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 148.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 148.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 148.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 148.
+
+[64 </compile/Bilder/TA/TAS56P8Fit.png>]
+<Bilder/TA/tint.png, id=944, 713.064pt x 538.8933pt>
+File: Bilder/TA/tint.png Graphic file (type png)
+<use Bilder/TA/tint.png>
+Package pdftex.def Info: Bilder/TA/tint.png  used on input line 160.
+(pdftex.def)             Requested size: 355.09195pt x 268.36879pt.
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 161.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 161.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 161.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 161.
+
+<Bilder/TA/TAAmbNormMP.png, id=946, 651.8754pt x 517.2123pt>
+File: Bilder/TA/TAAmbNormMP.png Graphic file (type png)
+<use Bilder/TA/TAAmbNormMP.png>
+Package pdftex.def Info: Bilder/TA/TAAmbNormMP.png  used on input line 169.
+(pdftex.def)             Requested size: 355.09195pt x 281.74489pt.
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 170.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 170.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 170.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 170.
+
+[65 </compile/Bilder/TA/tint.png>]
+<Bilder/TA/TAP25NormMP.png, id=956, 671.3883pt x 544.1931pt>
+File: Bilder/TA/TAP25NormMP.png Graphic file (type png)
+<use Bilder/TA/TAP25NormMP.png>
+Package pdftex.def Info: Bilder/TA/TAP25NormMP.png  used on input line 179.
+(pdftex.def)             Requested size: 355.09195pt x 287.82309pt.
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 180.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 180.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 180.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 180.
+
+[66 </compile/Bilder/TA/TAAmbNormMP.png>] [67 </compile/Bilder/TA/TAP25NormMP.png>]
+<Bilder/TA/TAP25AtmVar.png, id=971, 682.7106pt x 522.9939pt>
+File: Bilder/TA/TAP25AtmVar.png Graphic file (type png)
+<use Bilder/TA/TAP25AtmVar.png>
+Package pdftex.def Info: Bilder/TA/TAP25AtmVar.png  used on input line 198.
+(pdftex.def)             Requested size: 355.09195pt x 272.02223pt.
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 199.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 199.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 199.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 199.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 204.
+
+
+LaTeX Warning: Reference `TAP16AtmVar' on page 68 undefined on input line 204.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 203--205
+
+ []
+
+<Bilder/TA/TAP16AtmVar.png, id=974, 667.5339pt x 527.571pt>
+File: Bilder/TA/TAP16AtmVar.png Graphic file (type png)
+<use Bilder/TA/TAP16AtmVar.png>
+Package pdftex.def Info: Bilder/TA/TAP16AtmVar.png  used on input line 208.
+(pdftex.def)             Requested size: 355.09195pt x 280.63365pt.
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 209.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 209.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 209.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 209.
+
+[68] [69 </compile/Bilder/TA/TAP25AtmVar.png>]
+<Bilder/TA/TAP15AtmVar.png, id=988, 669.2202pt x 517.2123pt>
+File: Bilder/TA/TAP15AtmVar.png Graphic file (type png)
+<use Bilder/TA/TAP15AtmVar.png>
+Package pdftex.def Info: Bilder/TA/TAP15AtmVar.png  used on input line 217.
+(pdftex.def)             Requested size: 355.09195pt x 274.44478pt.
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 218.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 218.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 218.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 218.
+
+<Bilder/TA/TAP13AtmVar.png, id=992, 682.9515pt x 527.8119pt>
+File: Bilder/TA/TAP13AtmVar.png Graphic file (type png)
+<use Bilder/TA/TAP13AtmVar.png>
+Package pdftex.def Info: Bilder/TA/TAP13AtmVar.png  used on input line 227.
+(pdftex.def)             Requested size: 355.09195pt x 274.43155pt.
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 228.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 228.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 228.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 228.
+
+[70 </compile/Bilder/TA/TAP16AtmVar.png>] [71 </compile/Bilder/TA/TAP15AtmVar.png>]
+<Bilder/TA/SigPuWL.png, id=1009, 634.0488pt x 516.2487pt>
+File: Bilder/TA/SigPuWL.png Graphic file (type png)
+<use Bilder/TA/SigPuWL.png>
+Package pdftex.def Info: Bilder/TA/SigPuWL.png  used on input line 244.
+(pdftex.def)             Requested size: 104.83606pt x 85.35826pt.
+<Bilder/TA/SigPuWLNorm.png, id=1010, 639.8304pt x 516.2487pt>
+File: Bilder/TA/SigPuWLNorm.png Graphic file (type png)
+<use Bilder/TA/SigPuWLNorm.png>
+Package pdftex.def Info: Bilder/TA/SigPuWLNorm.png  used on input line 244.
+(pdftex.def)             Requested size: 105.792pt x 85.35826pt.
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 245.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 245.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 245.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 245.
+
+[72 </compile/Bilder/TA/TAP13AtmVar.png>]
+<Bilder/TA/TAP25SigPuT.png, id=1019, 642.4803pt x 519.6213pt>
+File: Bilder/TA/TAP25SigPuT.png Graphic file (type png)
+<use Bilder/TA/TAP25SigPuT.png>
+Package pdftex.def Info: Bilder/TA/TAP25SigPuT.png  used on input line 254.
+(pdftex.def)             Requested size: 355.09195pt x 287.18805pt.
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 255.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 255.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 255.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 255.
+
+<Bilder/TA/TAP25PLAtmVar.png, id=1022, 722.7pt x 522.5121pt>
+File: Bilder/TA/TAP25PLAtmVar.png Graphic file (type png)
+<use Bilder/TA/TAP25PLAtmVar.png>
+Package pdftex.def Info: Bilder/TA/TAP25PLAtmVar.png  used on input line 265.
+(pdftex.def)             Requested size: 355.09195pt x 256.73477pt.
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 266.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 266.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 266.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 266.
+
+<Bilder/TA/TAP16PLAtmVar.png, id=1023, 719.8092pt x 516.4896pt>
+File: Bilder/TA/TAP16PLAtmVar.png Graphic file (type png)
+<use Bilder/TA/TAP16PLAtmVar.png>
+Package pdftex.def Info: Bilder/TA/TAP16PLAtmVar.png  used on input line 275.
+(pdftex.def)             Requested size: 355.09195pt x 254.80017pt.
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 276.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 276.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 276.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 276.
+
+[73 </compile/Bilder/TA/SigPuWL.png> </compile/Bilder/TA/SigPuWLNorm.png>] [74 </compile/Bilder/TA/TAP25SigPuT.png> </compile/Bilder/TA/TAP25PLAtmVar.png>]
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 280.
+
+
+LaTeX Warning: Reference `fig:TAP16' on page 75 undefined on input line 280.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 280--282
+
+ []
+
+<Bilder/TA/TAP15PLAtmVar.png, id=1041, 724.1454pt x 527.571pt>
+File: Bilder/TA/TAP15PLAtmVar.png Graphic file (type png)
+<use Bilder/TA/TAP15PLAtmVar.png>
+Package pdftex.def Info: Bilder/TA/TAP15PLAtmVar.png  used on input line 285.
+(pdftex.def)             Requested size: 355.09195pt x 258.70526pt.
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 286.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 286.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 286.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 286.
+
+<Bilder/TA/TAP13PLAtmVar.png, id=1042, 721.2546pt x 527.8119pt>
+File: Bilder/TA/TAP13PLAtmVar.png Graphic file (type png)
+<use Bilder/TA/TAP13PLAtmVar.png>
+Package pdftex.def Info: Bilder/TA/TAP13PLAtmVar.png  used on input line 292.
+(pdftex.def)             Requested size: 355.09195pt x 259.85426pt.
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 293.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 293.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 293.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 293.
+
+) [75 </compile/Bilder/TA/TAP16PLAtmVar.png>] [76 </compile/Bilder/TA/TAP15PLAtmVar.png> </compile/Bilder/TA/TAP13PLAtmVar.png>]
+\openout2 = `PL.aux'.
+
+(/compile/PL.tex
+<Bilder/PL/PLAllNorm.png, id=1061, 640.0713pt x 517.2123pt>
+File: Bilder/PL/PLAllNorm.png Graphic file (type png)
+<use Bilder/PL/PLAllNorm.png>
+Package pdftex.def Info: Bilder/PL/PLAllNorm.png  used on input line 13.
+(pdftex.def)             Requested size: 439.45216pt x 355.09195pt.
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 14.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 14.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 14.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 14.
+
+[77
+
+
+] [78 </compile/Bilder/PL/PLAllNorm.png>]
+<Bilder/PL/PLAll.png, id=1075, 673.3155pt x 516.2487pt>
+File: Bilder/PL/PLAll.png Graphic file (type png)
+<use Bilder/PL/PLAll.png>
+Package pdftex.def Info: Bilder/PL/PLAll.png  used on input line 26.
+(pdftex.def)             Requested size: 578.9373pt x 443.86325pt.
+<Bilder/PL/PLSupp.png, id=1076, 640.0713pt x 517.2123pt>
+File: Bilder/PL/PLSupp.png Graphic file (type png)
+<use Bilder/PL/PLSupp.png>
+Package pdftex.def Info: Bilder/PL/PLSupp.png  used on input line 26.
+(pdftex.def)             Requested size: 549.31766pt x 443.86325pt.
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 27.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 27.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 27.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 27.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--35
+
+ []
+
+[79 </compile/Bilder/PL/PLAll.png> </compile/Bilder/PL/PLSupp.png>]
+<Bilder/PL/PLExcVar.png, id=1089, 640.0713pt x 517.2123pt>
+File: Bilder/PL/PLExcVar.png Graphic file (type png)
+<use Bilder/PL/PLExcVar.png>
+Package pdftex.def Info: Bilder/PL/PLExcVar.png  used on input line 52.
+(pdftex.def)             Requested size: 355.09195pt x 286.92993pt.
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 53.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 53.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 53.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 53.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--58
+
+ []
+
+[80 </compile/Bilder/PL/PLExcVar.png>]
+<Bilder/PL/PLP15CAN2T.png, id=1098, 686.565pt x 517.2123pt>
+File: Bilder/PL/PLP15CAN2T.png Graphic file (type png)
+<use Bilder/PL/PLP15CAN2T.png>
+Package pdftex.def Info: Bilder/PL/PLP15CAN2T.png  used on input line 65.
+(pdftex.def)             Requested size: 355.09195pt x 267.4998pt.
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 66.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 66.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 66.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 66.
+
+<Bilder/PL/PLP15CAN2.png, id=1101, 671.3883pt x 544.1931pt>
+File: Bilder/PL/PLP15CAN2.png Graphic file (type png)
+<use Bilder/PL/PLP15CAN2.png>
+Package pdftex.def Info: Bilder/PL/PLP15CAN2.png  used on input line 72.
+(pdftex.def)             Requested size: 355.09195pt x 287.82309pt.
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 73.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 73.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 73.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 73.
+
+[81 </compile/Bilder/PL/PLP15CAN2T.png>] [82 </compile/Bilder/PL/PLP15CAN2.png>]
+<Bilder/PL/PLP15N2iPrOHT.png, id=1119, 686.565pt x 517.2123pt>
+File: Bilder/PL/PLP15N2iPrOHT.png Graphic file (type png)
+<use Bilder/PL/PLP15N2iPrOHT.png>
+Package pdftex.def Info: Bilder/PL/PLP15N2iPrOHT.png  used on input line 81.
+(pdftex.def)             Requested size: 355.09195pt x 267.4998pt.
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 82.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 82.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 82.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 82.
+
+<Bilder/PL/PLP15N2iPrOH.png, id=1122, 671.3883pt x 544.1931pt>
+File: Bilder/PL/PLP15N2iPrOH.png Graphic file (type png)
+<use Bilder/PL/PLP15N2iPrOH.png>
+Package pdftex.def Info: Bilder/PL/PLP15N2iPrOH.png  used on input line 88.
+(pdftex.def)             Requested size: 355.09195pt x 287.82309pt.
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 89.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 89.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 89.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 89.
+
+<Bilder/PL/PLP15CAiPrOHT.png, id=1125, 689.4558pt x 517.2123pt>
+File: Bilder/PL/PLP15CAiPrOHT.png Graphic file (type png)
+<use Bilder/PL/PLP15CAiPrOHT.png>
+Package pdftex.def Info: Bilder/PL/PLP15CAiPrOHT.png  used on input line 95.
+(pdftex.def)             Requested size: 355.09195pt x 266.38702pt.
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 96.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 96.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 96.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 96.
+
+<Bilder/PL/PLP15CAiPrOH.png, id=1128, 671.3883pt x 544.1931pt>
+File: Bilder/PL/PLP15CAiPrOH.png Graphic file (type png)
+<use Bilder/PL/PLP15CAiPrOH.png>
+Package pdftex.def Info: Bilder/PL/PLP15CAiPrOH.png  used on input line 102.
+(pdftex.def)             Requested size: 355.09195pt x 287.82309pt.
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 103.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 103.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 103.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 103.
+
+) [83 </compile/Bilder/PL/PLP15N2iPrOHT.png>] [84 </compile/Bilder/PL/PLP15N2iPrOH.png> </compile/Bilder/PL/PLP15CAiPrOHT.png>] [85 </compile/Bilder/PL/PLP15CAiPrOH.png>]
+\openout2 = `Disk.aux'.
+
+(/compile/Disk.tex
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 10.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 10.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 10.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 10.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 10.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 10.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 10.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 10.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 10.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\cdot' on input line 10.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 10.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 10.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 10.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 10.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 10.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 10.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 14.
+
+
+LaTeX Warning: Citation `Anpo1997_2' on page 86 undefined on input line 14.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 14.
+
+
+LaTeX Warning: Citation `Anpo1997_2' on page 86 undefined on input line 14.
+
+
+Overfull \hbox (15.67844pt too wide) in paragraph at lines 8--15
+\T1/ccr/m/n/12 Die Struk-tur der Ober-fl�-chen-ti-ta-nia sind da-bei haupt-s�ch-lich oli-go-me-rer Na-tur. R�ntgen-
+ []
+
+[86
+
+
+]
+<Bilder/Disk/AcProdpgTi.png, id=1170, 660.3069pt x 532.6299pt>
+File: Bilder/Disk/AcProdpgTi.png Graphic file (type png)
+<use Bilder/Disk/AcProdpgTi.png>
+Package pdftex.def Info: Bilder/Disk/AcProdpgTi.png  used on input line 18.
+(pdftex.def)             Requested size: 355.09195pt x 286.4374pt.
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 19.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 19.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 19.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 19.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 23.
+
+
+LaTeX Warning: Citation `wang2012' on page 87 undefined on input line 23.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 23.
+
+
+LaTeX Warning: Citation `wahl1998' on page 87 undefined on input line 23.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 25.
+
+
+LaTeX Warning: Citation `stoyanovskii2009' on page 87 undefined on input line 25.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 26.
+
+
+LaTeX Warning: Citation `Yan2019' on page 87 undefined on input line 26.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 26.
+
+
+LaTeX Warning: Reference `fig:TAS21P1SigPrT' on page 87 undefined on input line 26.
+
+[87 </compile/Bilder/Disk/AcProdpgTi.png>] [88]
+<Bilder/Disk/TAS21P15SigPrT.png, id=1184, 671.3883pt x 544.1931pt>
+File: Bilder/Disk/TAS21P15SigPrT.png Graphic file (type png)
+<use Bilder/Disk/TAS21P15SigPrT.png>
+Package pdftex.def Info: Bilder/Disk/TAS21P15SigPrT.png  used on input line 30.
+(pdftex.def)             Requested size: 355.09195pt x 287.82309pt.
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 31.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 31.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 31.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 31.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 36.
+
+
+LaTeX Warning: Reference `' on page 89 undefined on input line 36.
+
+[89] [90 </compile/Bilder/Disk/TAS21P15SigPrT.png>]
+File: Bilder/Disk/TAS21P15SigPrT.png Graphic file (type png)
+<use Bilder/Disk/TAS21P15SigPrT.png>
+Package pdftex.def Info: Bilder/Disk/TAS21P15SigPrT.png  used on input line 40.
+(pdftex.def)             Requested size: 355.09195pt x 287.82309pt.
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 41.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 41.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 41.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 41.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--49
+
+ []
+
+[91]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 53.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 53.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 53.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\\' on input line 53.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 53.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\tau' on input line 53.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@UnitsNiceFrac ' on input line 53.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 53.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\pi' on input line 53.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 53.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 53.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 53.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 53.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 53.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 53.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\\' on input line 60.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\\' on input line 60.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\pdfcomment' on input line 60.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 68.
+
+
+LaTeX Warning: Citation `Dilla2017' on page 92 undefined on input line 68.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 70.
+
+
+LaTeX Warning: Reference `CO2redSetup' on page 92 undefined on input line 70.
+
+[92]
+<Bilder/CO2Red/PR1Setup.jpg, id=1223, 463.9734pt x 357.0138pt>
+File: Bilder/CO2Red/PR1Setup.jpg Graphic file (type jpg)
+<use Bilder/CO2Red/PR1Setup.jpg>
+Package pdftex.def Info: Bilder/CO2Red/PR1Setup.jpg  used on input line 74.
+(pdftex.def)             Requested size: 355.09195pt x 273.2345pt.
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 75.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 75.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 75.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 75.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 79.
+
+
+LaTeX Warning: Citation `CO2RedNikos??' on page 93 undefined on input line 79.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 79.
+
+
+LaTeX Warning: Reference `CO2redBatch' on page 93 undefined on input line 79.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 79.
+
+
+LaTeX Warning: Reference `CO2redBatchKurz' on page 93 undefined on input line 79.
+
+[93 </compile/Bilder/CO2Red/PR1Setup.jpg>]
+<Bilder/CO2Red/CO2redFlow.png, id=1233, 818.8191pt x 573.1011pt>
+File: Bilder/CO2Red/CO2redFlow.png Graphic file (type png)
+<use Bilder/CO2Red/CO2redFlow.png>
+Package pdftex.def Info: Bilder/CO2Red/CO2redFlow.png  used on input line 83.
+(pdftex.def)             Requested size: 355.09195pt x 248.52742pt.
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 84.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 84.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 84.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 84.
+
+<Bilder/CO2Red/CO2redBatch.png, id=1234, 818.8191pt x 573.1011pt>
+File: Bilder/CO2Red/CO2redBatch.png Graphic file (type png)
+<use Bilder/CO2Red/CO2redBatch.png>
+Package pdftex.def Info: Bilder/CO2Red/CO2redBatch.png  used on input line 89.
+(pdftex.def)             Requested size: 355.09195pt x 248.52742pt.
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 90.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 90.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 90.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 90.
+
+File: Bilder/CO2Red/CO2redBatch.png Graphic file (type png)
+<use Bilder/CO2Red/CO2redBatch.png>
+Package pdftex.def Info: Bilder/CO2Red/CO2redBatch.png  used on input line 95.
+(pdftex.def)             Requested size: 355.09195pt x 248.52742pt.
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 96.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 96.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 96.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 96.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 96.
+
+
+LaTeX Font Warning: Font shape `T1/ccr/b/n' undefined
+(Font)              using `T1/ccr/bx/n' instead on input line 96.
+
+) [94 </compile/Bilder/CO2Red/CO2redFlow.png>] [95 </compile/Bilder/CO2Red/CO2redBatch.png>]
+\openout2 = `Zsf.aux'.
+
+(/compile/Zsf.tex) [96
+
+
+]
+\openout2 = `Aus.aux'.
+
+No file Aus.tex.
+(/compile/output.bbl [97
+
+
+
+] [98]) [99]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 34.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 34.
+(/compile/output.aux (/compile/Titel.aux) (/compile/preface.aux) (/compile/Inhalt.aux) (/compile/Einl.aux) (/compile/Grund.aux) (/compile/Exp.aux) (/compile/Char.aux) (/compile/Akt.aux) (/compile/Schw.aux) (/compile/TA.aux) (/compile/PL.aux) (/compile/Disk.aux) (/compile/Zsf.aux) (/compile/Aus.aux) * soulpos - computing points - it may take a few seconds *
+\openout4 = `output.upb'.
+
+(/compile/output.upa))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 34.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 34.
+Package rerunfilecheck Info: File `output.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
