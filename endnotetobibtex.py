@@ -5,42 +5,34 @@ Created on Tue Aug  3 10:00:04 2021
 @author: ml566
 """
 #%%Import
-import numpy as np
-import pandas as pd
-import tables
-import matplotlib.pyplot as plt
-import matplotlib.gridspec as gridspec
 import timeit
 import re
 import glob
 from copy import deepcopy
 import copy
-import os, os.path
-from os import path
-import h5py
-import csv
+import os
 import sys
-import datetime
-from datetime import datetime
 import pathlib
 from pathlib import Path
 #%%
  
-file_path='//tsclient/I/Literatur/Literatur.txt'
-save_path=file_path.replace('txt','bib')
+fp='Literatur.txt'
+save_path=fp.replace('txt','bib')
 
 #%% get Literature
 
 def getTxt(file_path):
     
-    content=open(file_path, 'r', encoding='utf8').read().split('@')
+    with open(file_path, 'r', encoding='utf8') as f:
+        content=f.read().split('@')
+
     Lib={}
-    for n in range(len(content)):  
-        if len(content[n])>5:
+    for n,v in enumerate(content):  
+        if len(v)>5:
             
-            el=content[n].splitlines()
-            
+            el=v.splitlines()
             temp={}
+
             for i in el:
                 if 'type' in i:
                     temp['type']=re.split('{|}', i)[1]
@@ -67,7 +59,7 @@ def getTxt(file_path):
             bibkey=re.sub('ö','o',bibkey)
             bibkey=re.sub('ü','u',bibkey)
             
-            if bibkey in Lib.keys():
+            #if bibkey in Lib.keys():
                 
                 
                 
@@ -92,7 +84,7 @@ def makeBib(Lib):
             print('Error: Equally named Bib items!')
             sys.exit()
             
-        Lib[bibkey]='\n'.join(el)
+        Lib[bibkey]=''.join(el)
 
 
     return Lib
@@ -105,6 +97,6 @@ def writeBib(save_path,Lib):
 #%%Excecute
 
 
-Lib=getTxt(file_path)
+#Lib=getTxt(file_path)
 # Lib=makeBib(Lib)
-writeBib(save_path,Lib)
+#writeBib(save_path,Lib)
