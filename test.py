@@ -1,10 +1,4 @@
-import time
+test1={'test1': 'Test1'}
+test2='test2'
 
-liste=['asdf',234,'asdfe']
-
-for n,v in enumerate(liste):
-
-    print(f'Nummer {n}')
-    time.sleep(1)
-    print(f'Wert {v}')
-    time.sleep(1)
+print(f'this is {} and this is {}'.format(test1['test1'],test2))

@@ -13,6 +13,7 @@ import os
 import sys
 import pathlib
 from pathlib import Path
+
 #%%
  
 fp='Literatur.txt'
@@ -20,11 +21,13 @@ save_path=fp.replace('txt','bib')
 
 #%% get Literature
 
-def getTxt(file_path):
+def makeLib(file_path):
     
     with open(file_path, 'r', encoding='utf8') as f:
-        content=f.read().split('\n@')
+        content=f.read()
+        content.replace(' & ', ' \& ')
 
+    content=content.split('\n@')
     Lib={}
     for n,v in enumerate(content):  
         if len(v)>5:
@@ -40,8 +43,9 @@ def getTxt(file_path):
             except:
                     print(v+'\n'+str(n))
                     sys.exit()
-          
-            if temp['type']=='Journal Article' or temp['type']=='Book':
+
+            TypeList=['Journal Article','Book','Book Section']
+            if temp['type'] in TypeList:
                 for i in el:
                     if 'author' in i:
                         temp['authors']=re.split('{|}', i)[1].split(' and ')
@@ -50,7 +54,7 @@ def getTxt(file_path):
                         temp['year']=re.split('{|}', i)[1]
                         
             else:
-                print('Error: Literaturetype not known.')
+                print(f'Literaturetype not known.')
                 sys.exit()
             
             # create Bibkey for .bib and check if same name exists already    
@@ -77,7 +81,7 @@ def getTxt(file_path):
                 else:
                     break
             
-            print(bibkey)
+            #print(bibkey)
             h=el[0].split('{')
             h[1]=re.sub(',| ','',h[1])
             el[0]='@'+h[0]+'{'+bibkey+','
@@ -92,13 +96,15 @@ def getTxt(file_path):
             Lib[bibkey]=contTemp
 
     return Lib
-      
+    
 def writeBib(save_path,Lib):
     with open('Literatur.bib','w', encoding='utf8') as of:
         of.write('\n'.join(Lib.values()))
 
-#%%Excecute
+#Excecute
 
+ 
+Lib=makeLib(fp)
 
-Lib=getTxt(fp)
+print(len(Lib)+type(Lig)+'hello')
 writeBib(save_path,Lib)
