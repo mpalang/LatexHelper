@@ -1,0 +1,956 @@
+﻿@article{RN1954,
+   author = {Al-Azri, Zakiya H. N. and Chen, Wan-Ting and Chan, Andrew and Jovic, Vedran and Ina, Toshiaki and Idriss, Hicham and Waterhouse, Geoffrey I. N.},
+   title = {The roles of metal co-catalysts and reaction media in photocatalytic hydrogen production: Performance evaluation of M/TiO2 photocatalysts (M=Pd, Pt, Au) in different alcohol–water mixtures},
+   journal = {Journal of Catalysis},
+   volume = {329},
+   pages = {355-367},
+   ISSN = {0021-9517},
+   DOI = {https://doi.org/10.1016/j.jcat.2015.06.005},
+   url = {https://www.sciencedirect.com/science/article/pii/S002195171500202X},
+   year = {2015},
+   type = {Journal Article}
+}
+
+@article{RN492,
+   author = {Amano, Fumiaki and Yamaguchi, Tsuyoshi and Tanaka, Tsunehiro},
+   title = {Photocatalytic Oxidation of Propylene with Molecular Oxygen over Highly Dispersed Titanium, Vanadium, and Chromium Oxides on Silica},
+   journal = {The Journal of Physical Chemistry B},
+   volume = {110},
+   number = {1},
+   pages = {281-288},
+   ISSN = {1520-6106},
+   DOI = {10.1021/jp0557868},
+   url = {https://doi.org/10.1021/jp0557868},
+   year = {2006},
+   type = {Journal Article}
+}
+
+@article{RN512,
+   author = {Anpo, Masakazu},
+   title = {Photocatalysis on titanium oxide catalysts: Approaches in achieving highly efficient reactions and realizing the use of visible light},
+   journal = {Catalysis Surveys from Asia},
+   volume = {1},
+   number = {2},
+   pages = {169-179},
+   ISSN = {1574-9266},
+   DOI = {10.1023/a:1019024913274},
+   url = {https://doi.org/10.1023/A:1019024913274},
+   year = {1997},
+   type = {Journal Article}
+}
+
+@article{RN1415,
+   author = {Anpo, Masakazu and Chiba, Katsuichi},
+   title = {Photocatalytic reduction of CO2 on anchored titanium oxide catalysts},
+   journal = {Journal of Molecular Catalysis},
+   volume = {74},
+   number = {1},
+   pages = {207-212},
+   ISSN = {0304-5102},
+   DOI = {https://doi.org/10.1016/0304-5102(92)80238-C},
+   url = {http://www.sciencedirect.com/science/article/pii/030451029280238C},
+   year = {1992},
+   type = {Journal Article}
+}
+
+@article{RN1759,
+   author = {Anpo, Masakazu and Kubokawa, Yutaka},
+   title = {Photoinduced and photocatalytic reactions on supported metal oxide catalysts. Excited states of oxides and reaction intermediates},
+   journal = {Reviews of Chemical Intermediates},
+   volume = {8},
+   number = {1},
+   pages = {105-124},
+   ISSN = {0162-7546},
+   DOI = {10.1007/bf03155662},
+   url = {https://doi.org/10.1007/BF03155662},
+   year = {1987},
+   type = {Journal Article}
+}
+
+@article{RN515,
+   author = {Anpo, Masakazu and Shima, Takahito and Kodama, Sukeya and Kubokawa, Yutaka},
+   title = {Photocatalytic hydrogenation of propyne with water on small-particle titania: size quantization effects and reaction intermediates},
+   journal = {Journal of physical chemistry},
+   volume = {91},
+   number = {16},
+   pages = {4305-4310},
+   ISSN = {0022-3654},
+   year = {1987},
+   type = {Journal Article}
+}
+
+@article{RN425,
+   author = {Anpo, Masakazu and Yamashita, Hiromi and Ichihashi, Yuichi and Ehara, Shaw},
+   title = {Photocatalytic reduction of CO2 with H2O on various titanium oxide catalysts},
+   journal = {Journal of Electroanalytical Chemistry},
+   volume = {396},
+   number = {1-2},
+   pages = {21-26},
+   ISSN = {1572-6657},
+   year = {1995},
+   type = {Journal Article}
+}
+
+@article{RN550,
+   author = {Anpo, Masakazu and Yamashita, Hiromi and Ichihashi, Yuichi and Fujii, Yo and Honda, Miwa},
+   title = {Photocatalytic Reduction of CO2 with H2O on Titanium Oxides Anchored within Micropores of Zeolites:  Effects of the Structure of the Active Sites and the Addition of Pt},
+   journal = {The Journal of Physical Chemistry B},
+   volume = {101},
+   number = {14},
+   pages = {2632-2636},
+   ISSN = {1520-6106},
+   DOI = {10.1021/jp962696h},
+   url = {https://doi.org/10.1021/jp962696h},
+   year = {1997},
+   type = {Journal Article}
+}
+
+@article{RN1877,
+   author = {Asahi, Tsuyoshi and Furube, Akihiro and Fukumura, Hiroshi and Ichikawa, Musubu and Masuhara, Hiroshi},
+   title = {Development of a femtosecond diffuse reflectance spectroscopic system, evaluation of its temporal resolution, and applications to organic powder systems},
+   journal = {Review of scientific instruments},
+   volume = {69},
+   number = {2},
+   pages = {361-371},
+   ISSN = {0034-6748},
+   year = {1998},
+   type = {Journal Article}
+}
+
+@book{RN1971,
+   author = {Bechmann, Wolfgang and Bald, Ilko},
+   title = {Einstieg in die physikalische Chemie für Naturwissenschaftler},
+   publisher = {Springer},
+   ISBN = {3662558580},
+   year = {2018},
+   type = {Book}
+}
+
+@article{RN1896,
+   author = {Bérubé, François and Nohair, Bendaoud and Kleitz, Freddy and Kaliaguine, Serge},
+   title = {Controlled Postgrafting of Titanium Chelates for Improved Synthesis of Ti-SBA-15 Epoxidation Catalysts},
+   journal = {Chemistry of Materials},
+   volume = {22},
+   number = {6},
+   pages = {1988-2000},
+   ISSN = {0897-4756},
+   DOI = {10.1021/cm9030667},
+   url = {https://doi.org/10.1021/cm9030667},
+   year = {2010},
+   type = {Journal Article}
+}
+
+@article{RN1950,
+   author = {Bhuyan, Diganta and Selvaraj, Kaliaperumal and Saikia, Lakshi},
+   title = {Pd@SBA-15 nanocomposite catalyst: Synthesis and efficient solvent-free semihydrogenation of phenylacetylene under mild conditions},
+   journal = {Microporous and Mesoporous Materials},
+   volume = {241},
+   pages = {266-273},
+   ISSN = {1387-1811},
+   DOI = {https://doi.org/10.1016/j.micromeso.2016.12.025},
+   url = {https://www.sciencedirect.com/science/article/pii/S1387181116305832},
+   year = {2017},
+   type = {Journal Article}
+}
+
+@book{RN1940,
+   author = {Blankenship, Robert E},
+   title = {Molecular mechanisms of photosynthesis},
+   publisher = {John Wiley & Sons},
+   ISBN = {1119800110},
+   year = {2021},
+   type = {Book}
+}
+
+@article{RN397,
+   author = {Brettel, Klaus and Leibl, Winfried},
+   title = {Electron transfer in photosystem I},
+   journal = {Biochimica et Biophysica Acta (BBA)-Bioenergetics},
+   volume = {1507},
+   number = {1},
+   pages = {100-114},
+   ISSN = {0005-2728},
+   year = {2001},
+   type = {Journal Article}
+}
+
+@book{RN1973,
+   author = {Calvin, Scott},
+   title = {XAFS for Everyone},
+   publisher = {CRC press},
+   ISBN = {1439878633},
+   year = {2013},
+   type = {Book}
+}
+
+@article{RN1404,
+   author = {Colombo, D. Philip and Bowman, Robert M.},
+   title = {Does Interfacial Charge Transfer Compete with Charge Carrier Recombination? A Femtosecond Diffuse Reflectance Investigation of TiO2 Nanoparticles},
+   journal = {The Journal of Physical Chemistry},
+   volume = {100},
+   number = {47},
+   pages = {18445-18449},
+   ISSN = {0022-3654},
+   DOI = {10.1021/jp9610628},
+   url = {https://doi.org/10.1021/jp9610628},
+   year = {1996},
+   type = {Journal Article}
+}
+
+@article{RN462,
+   author = {Colombo Jr, D Philip and Bowman, Robert M},
+   title = {Femtosecond diffuse reflectance spectroscopy of TiO2 powders},
+   journal = {The Journal of Physical Chemistry},
+   volume = {99},
+   number = {30},
+   pages = {11752-11756},
+   ISSN = {0022-3654},
+   year = {1995},
+   type = {Journal Article}
+}
+
+@book{RN1892,
+   author = {Dau, Holger and Kurz, Philipp and Weitze, Marc-Denis},
+   title = {Künstliche Photosynthese},
+   publisher = {Springer},
+   year = {2019},
+   type = {Book}
+}
+
+@book{RN1891,
+   author = {Demtröder, Wolfgang},
+   title = {Experimentalphysik 3: Atome, Moleküle und Festkörper},
+   publisher = {Springer-Verlag},
+   ISBN = {3642039111},
+   year = {2010},
+   type = {Book}
+}
+
+@article{RN555,
+   author = {Dilla, Martin and Mateblowski, Alina and Ristig, Simon and Strunk, Jennifer},
+   title = {Photocatalytic CO2 Reduction under Continuous Flow High‐Purity Conditions: Influence of Light Intensity and H2O Concentration},
+   journal = {ChemCatChem},
+   volume = {9},
+   number = {23},
+   pages = {4345-4352},
+   DOI = {doi:10.1002/cctc.201701189},
+   url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/cctc.201701189},
+   year = {2017},
+   type = {Journal Article}
+}
+
+@article{RN554,
+   author = {Dilla, Martin and Schlögl, Robert and Strunk, Jennifer},
+   title = {Photocatalytic CO2 Reduction Under Continuous Flow High‐Purity Conditions: Quantitative Evaluation of CH4 Formation in the Steady‐State},
+   journal = {ChemCatChem},
+   volume = {9},
+   number = {4},
+   pages = {696-704},
+   DOI = {doi:10.1002/cctc.201601218},
+   url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/cctc.201601218},
+   year = {2017},
+   type = {Journal Article}
+}
+
+@article{RN6,
+   author = {Du, Guoan and Lim, Sangyun and Pinault, Mathieu and Wang, Chuan and Fang, Fang and Pfefferle, Lisa and Haller, Gary L.},
+   title = {Synthesis, characterization, and catalytic performance of highly dispersed vanadium grafted SBA-15 catalyst},
+   journal = {Journal of Catalysis},
+   volume = {253},
+   number = {1},
+   pages = {74-90},
+   ISSN = {0021-9517},
+   DOI = {https://doi.org/10.1016/j.jcat.2007.10.019},
+   url = {http://www.sciencedirect.com/science/article/pii/S0021951707004022},
+   year = {2008},
+   type = {Journal Article}
+}
+
+@article{RN598,
+   author = {Farges, François and Brown, Gordon E. and Rehr, J. J.},
+   title = {Ti $K$-edge XANES studies of Ti coordination and disorder in oxide compounds: Comparison between theory and experiment},
+   journal = {Physical Review B},
+   volume = {56},
+   number = {4},
+   pages = {1809-1819},
+   DOI = {10.1103/PhysRevB.56.1809},
+   url = {https://link.aps.org/doi/10.1103/PhysRevB.56.1809},
+   year = {1997},
+   type = {Journal Article}
+}
+
+@article{RN1980,
+   author = {Fonseca-Cervantes, Omar Ricardo and Pérez-Larios, Alejandro and Romero Arellano, Víctor Hugo and Sulbaran-Rangel, Belkis and Guzmán González, Carlos Alberto},
+   title = {Effects in Band Gap for Photocatalysis in TiO2 Support by Adding Gold and Ruthenium},
+   journal = {Processes},
+   volume = {8},
+   number = {9},
+   pages = {1032},
+   ISSN = {2227-9717},
+   url = {https://www.mdpi.com/2227-9717/8/9/1032},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@article{RN498,
+   author = {Fox, Marye Anne and Dulay, Maria T},
+   title = {Heterogeneous photocatalysis},
+   journal = {Chemical reviews},
+   volume = {93},
+   number = {1},
+   pages = {341-357},
+   ISSN = {0009-2665},
+   year = {1993},
+   type = {Journal Article}
+}
+
+@article{RN514,
+   author = {Fu, Xianzhi and Clark, Louis A. and Yang, Qing and Anderson, Marc A.},
+   title = {Enhanced Photocatalytic Performance of Titania-Based Binary Metal Oxides:  TiO2/SiO2 and TiO2/ZrO2},
+   journal = {Environmental Science & Technology},
+   volume = {30},
+   number = {2},
+   pages = {647-653},
+   ISSN = {0013-936X},
+   DOI = {10.1021/es950391v},
+   url = {https://doi.org/10.1021/es950391v},
+   year = {1996},
+   type = {Journal Article}
+}
+
+@article{RN378,
+   author = {Fujishima, Akira and Honda, Kenichi},
+   title = {Electrochemical photolysis of water at a semiconductor electrode},
+   journal = {nature},
+   volume = {238},
+   number = {5358},
+   pages = {37-38},
+   ISSN = {0028-0836},
+   year = {1972},
+   type = {Journal Article}
+}
+
+@article{RN1867,
+   author = {Furube, Akihiro and Asahi, Tsuyoshi and Masuhara, Hiroshi and Yamashita, Hiromi and Anpo, Masakazu},
+   title = {Charge Carrier Dynamics of Standard TiO2 Catalysts Revealed by Femtosecond Diffuse Reflectance Spectroscopy},
+   journal = {The Journal of Physical Chemistry B},
+   volume = {103},
+   number = {16},
+   pages = {3120-3127},
+   ISSN = {1520-6106},
+   DOI = {10.1021/jp984162h},
+   url = {https://doi.org/10.1021/jp984162h},
+   year = {1999},
+   type = {Journal Article}
+}
+
+@article{RN648,
+   author = {Gao, Xingtao and Bare, Simon R. and Weckhuysen, Bert M. and Wachs, Israel E.},
+   title = {In Situ Spectroscopic Investigation of Molecular Structures of Highly Dispersed Vanadium Oxide on Silica under Various Conditions},
+   journal = {The Journal of Physical Chemistry B},
+   volume = {102},
+   number = {52},
+   pages = {10842-10852},
+   ISSN = {1520-6106},
+   DOI = {10.1021/jp9826367},
+   url = {https://doi.org/10.1021/jp9826367},
+   year = {1998},
+   type = {Journal Article}
+}
+
+@article{RN1894,
+   author = {Gerischer, H.},
+   title = {Charge transfer processes at semiconductor-electrolyte interfaces in connection with problems of catalysis},
+   journal = {Surface Science},
+   volume = {18},
+   number = {1},
+   pages = {97-122},
+   ISSN = {0039-6028},
+   DOI = {https://doi.org/10.1016/0039-6028(69)90269-6},
+   url = {http://www.sciencedirect.com/science/article/pii/0039602869902696},
+   year = {1969},
+   type = {Journal Article}
+}
+
+@article{RN389,
+   author = {Gueymard, Christian A},
+   title = {The sun’s total and spectral irradiance for solar energy applications and solar radiation models},
+   journal = {Solar energy},
+   volume = {76},
+   number = {4},
+   pages = {423-453},
+   ISSN = {0038-092X},
+   year = {2004},
+   type = {Journal Article}
+}
+
+@article{RN549,
+   author = {Habisreutinger, Severin N. and Schmidt‐Mende, Lukas and Stolarczyk, Jacek K.},
+   title = {Photocatalytic Reduction of CO2 on TiO2 and Other Semiconductors},
+   journal = {Angewandte Chemie International Edition},
+   volume = {52},
+   number = {29},
+   pages = {7372-7408},
+   DOI = {doi:10.1002/anie.201207199},
+   url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201207199},
+   year = {2013},
+   type = {Journal Article}
+}
+
+@article{RN1983,
+   author = {Han, Guangchao and Yi, Yuanping},
+   title = {Origin of Photocurrent and Voltage Losses in Organic Solar Cells},
+   journal = {Advanced Theory and Simulations},
+   volume = {2},
+   number = {8},
+   pages = {1900067},
+   ISSN = {2513-0390},
+   DOI = {https://doi.org/10.1002/adts.201900067},
+   url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/adts.201900067},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@book{RN1861,
+   author = {Hapke, Bruce},
+   title = {Theory of reflectance and emittance spectroscopy},
+   publisher = {Cambridge university press},
+   ISBN = {0521883490},
+   year = {2012},
+   type = {Book}
+}
+
+@article{RN524,
+   author = {Hashimoto, Kazuhito and Irie, Hiroshi and Fujishima, Akira},
+   title = {TiO2 photocatalysis: a historical overview and future prospects},
+   journal = {Japanese journal of applied physics},
+   volume = {44},
+   number = {12R},
+   pages = {8269},
+   ISSN = {1347-4065},
+   year = {2005},
+   type = {Journal Article}
+}
+
+@article{RN1926,
+   author = {Holz, Marie C. and Kähler, Kevin and Tölle, Katharina and van Veen, André C. and Muhler, Martin},
+   title = {Gas-phase oxidation of 2-propanol over Au/TiO2 catalysts to probe metal–support interactions},
+   journal = {physica status solidi (b)},
+   volume = {250},
+   number = {6},
+   pages = {1094-1106},
+   ISSN = {0370-1972},
+   DOI = {https://doi.org/10.1002/pssb.201248504},
+   url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/pssb.201248504},
+   year = {2013},
+   type = {Journal Article}
+}
+
+@article{RN391,
+   author = {Huber, Robert},
+   title = {A structural basis of light energy and electron transfer in biology},
+   journal = {Bioscience reports},
+   volume = {9},
+   number = {6},
+   pages = {635-673},
+   ISSN = {0144-8463},
+   year = {1989},
+   type = {Journal Article}
+}
+
+@article{RN861,
+   author = {Iglesias, Jose and Melero, Juan A. and Bautista, L. Fernando and Morales, Gabriel and Sánchez-Vázquez, Rebeca and Andreola, Maria Teresa and Lizarraga-Fernández, Arantzazu},
+   title = {Zr-SBA-15 as an efficient acid catalyst for FAME production from crude palm oil},
+   journal = {Catalysis Today},
+   volume = {167},
+   number = {1},
+   pages = {46-55},
+   ISSN = {0920-5861},
+   DOI = {https://doi.org/10.1016/j.cattod.2010.11.060},
+   url = {http://www.sciencedirect.com/science/article/pii/S0920586110008011},
+   year = {2011},
+   type = {Journal Article}
+}
+
+@article{RN468,
+   author = {Inoue, Tooru and Fujishima, Akira and Konishi, Satoshi and Honda, Kenichi},
+   title = {Photoelectrocatalytic reduction of carbon dioxide in aqueous suspensions of semiconductor powders},
+   journal = {Nature},
+   volume = {277},
+   number = {5698},
+   pages = {637-638},
+   ISSN = {0028-0836},
+   year = {1979},
+   type = {Journal Article}
+}
+
+@inbook{RN1977,
+   author = {Kakaei, Karim and Esrafili, Mehdi D. and Ehsani, Ali},
+   title = {Chapter 1 - Introduction to Catalysis},
+   booktitle = {Interface Science and Technology},
+   editor = {Kakaei, Karim and Esrafili, Mehdi D. and Ehsani, Ali},
+   publisher = {Elsevier},
+   volume = {27},
+   pages = {1-21},
+   ISBN = {1573-4285},
+   DOI = {https://doi.org/10.1016/B978-0-12-814523-4.00001-0},
+   url = {https://www.sciencedirect.com/science/article/pii/B9780128145234000010},
+   year = {2019},
+   type = {Book Section}
+}
+
+@article{RN1939,
+   author = {Kannan, Nadarajah and Vakeesan, Divagar},
+   title = {Solar energy for future world: - A review},
+   journal = {Renewable and Sustainable Energy Reviews},
+   volume = {62},
+   pages = {1092-1105},
+   ISSN = {1364-0321},
+   DOI = {https://doi.org/10.1016/j.rser.2016.05.022},
+   url = {https://www.sciencedirect.com/science/article/pii/S1364032116301320},
+   year = {2016},
+   type = {Journal Article}
+}
+
+@article{RN1979,
+   author = {Kasha, Michael},
+   title = {Characterization of electronic transitions in complex molecules},
+   journal = {Discussions of the Faraday Society},
+   volume = {9},
+   number = {0},
+   pages = {14-19},
+   ISSN = {0366-9033},
+   DOI = {10.1039/DF9500900014},
+   url = {http://dx.doi.org/10.1039/DF9500900014},
+   year = {1950},
+   type = {Journal Article}
+}
+
+@article{RN1863,
+   author = {Kessler, R. W. and Krabichler, G. and Uhl, S. and Oelkrug, D. and Hagan, W. P. and Hyslop, J. and Wilkinson, F.},
+   title = {Transient Decay Following Pulse Excitation of Diffuse Scattering Samples},
+   journal = {Optica Acta: International Journal of Optics},
+   volume = {30},
+   number = {8},
+   pages = {1099-1111},
+   ISSN = {0030-3909},
+   DOI = {10.1080/713821340},
+   url = {https://doi.org/10.1080/713821340},
+   year = {1983},
+   type = {Journal Article}
+}
+
+@book{RN1893,
+   author = {Kisch, Horst},
+   title = {Semiconductor photocatalysis: principles and applications},
+   publisher = {John Wiley & Sons},
+   ISBN = {3527335536},
+   year = {2015},
+   type = {Book}
+}
+
+@article{RN1993,
+   author = {Králik, Milan},
+   title = {Adsorption, chemisorption, and catalysis},
+   journal = {Chemical Papers},
+   volume = {68},
+   number = {12},
+   pages = {1625-1638},
+   ISSN = {1336-9075},
+   DOI = {10.2478/s11696-014-0624-9},
+   url = {https://doi.org/10.2478/s11696-014-0624-9},
+   year = {2014},
+   type = {Journal Article}
+}
+
+@article{RN545,
+   author = {Kruk, Michal and Jaroniec, Mietek and Ko, Chang Hyun and Ryoo, Ryong},
+   title = {Characterization of the Porous Structure of SBA-15},
+   journal = {Chemistry of Materials},
+   volume = {12},
+   number = {7},
+   pages = {1961-1968},
+   ISSN = {0897-4756},
+   DOI = {10.1021/cm000164e},
+   url = {https://doi.org/10.1021/cm000164e},
+   year = {2000},
+   type = {Journal Article}
+}
+
+@article{RN501,
+   author = {Kubelka, Paul},
+   title = {New Contributions to the Optics of Intensely Light-Scattering Materials. Part I},
+   journal = {Journal of the Optical Society of America},
+   volume = {38},
+   number = {5},
+   pages = {448-457},
+   DOI = {10.1364/JOSA.38.000448},
+   url = {http://www.osapublishing.org/abstract.cfm?URI=josa-38-5-448},
+   year = {1948},
+   type = {Journal Article}
+}
+
+@article{RN1988,
+   author = {Kubelka, Paul and Munk, Franz},
+   title = {An article on optics of paint layers},
+   journal = {Z. Tech. Phys},
+   volume = {12},
+   number = {593-601},
+   pages = {259-274},
+   year = {1931},
+   type = {Journal Article}
+}
+
+@book{RN1889,
+   author = {Kurzweil, Peter},
+   title = {Chemie : Grundlagen, technische Anwendungen, Rohstoffe, Analytik und Experimente},
+   publisher = {Springer Vieweg},
+   address = {Wiesbaden},
+   edition = {11th ed. 2020},
+   series = {Computer Science and Engineering},
+   pages = {1 Online-Ressource (VIII, 377 S)},
+   ISBN = {9783658275037 | 978-3-658-27503-7},
+   url = {https://doi.org/10.1007/978-3-658-27503-7},
+   year = {2020},
+   type = {Book}
+}
+
+@article{RN1862,
+   author = {Lang, Moritz and Klahn, Marcus and Strunk, Jennifer},
+   title = {Photophysical and Catalytic Properties of Silica Supported Early Transition Metal Oxides Relevant for Photocatalytic Applications},
+   journal = {Catalysis Letters},
+   volume = {149},
+   number = {8},
+   pages = {2291-2306},
+   ISSN = {1572-879X},
+   DOI = {10.1007/s10562-019-02803-w},
+   url = {https://doi.org/10.1007/s10562-019-02803-w},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@inbook{RN1987,
+   author = {Laquai, Frédéric and Andrienko, Denis and Deibel, Carsten and Neher, Dieter},
+   title = {Charge Carrier Generation, Recombination, and Extraction in Polymer–Fullerene Bulk Heterojunction Organic Solar Cells},
+   booktitle = {Elementary Processes in Organic Photovoltaics},
+   editor = {Leo, Karl},
+   publisher = {Springer International Publishing},
+   address = {Cham},
+   pages = {267-291},
+   ISBN = {978-3-319-28338-8},
+   DOI = {10.1007/978-3-319-28338-8_11},
+   url = {https://doi.org/10.1007/978-3-319-28338-8_11},
+   year = {2017},
+   type = {Book Section}
+}
+
+@article{RN440,
+   author = {Li, Xin and Wen, Jiuqing and Low, Jingxiang and Fang, Yueping and Yu, Jiaguo},
+   title = {Design and fabrication of semiconductor photocatalyst for photocatalytic reduction of CO2 to solar fuel},
+   journal = {Science China Materials},
+   volume = {57},
+   number = {1},
+   pages = {70-100},
+   ISSN = {2199-4501},
+   DOI = {10.1007/s40843-014-0003-1},
+   url = {https://doi.org/10.1007/s40843-014-0003-1},
+   year = {2014},
+   type = {Journal Article}
+}
+
+@article{RN1936,
+   author = {Litke, Anton and Su, Yaqiong and Tranca, Ionut and Weber, Thomas and Hensen, Emiel J. M. and Hofmann, Jan P.},
+   title = {Role of Adsorbed Water on Charge Carrier Dynamics in Photoexcited TiO2},
+   journal = {The Journal of Physical Chemistry C},
+   volume = {121},
+   number = {13},
+   pages = {7514-7524},
+   ISSN = {1932-7447},
+   DOI = {10.1021/acs.jpcc.7b00472},
+   url = {https://doi.org/10.1021/acs.jpcc.7b00472},
+   year = {2017},
+   type = {Journal Article}
+}
+
+@article{RN917,
+   author = {Lou, Yinchuan and Wang, Huichun and Zhang, Qinghong and Wang, Ye},
+   title = {SBA-15-supported molybdenum oxides as efficient catalysts for selective oxidation of ethane to formaldehyde and acetaldehyde by oxygen},
+   journal = {Journal of Catalysis},
+   volume = {247},
+   number = {2},
+   pages = {245-255},
+   ISSN = {0021-9517},
+   DOI = {https://doi.org/10.1016/j.jcat.2007.02.011},
+   url = {http://www.sciencedirect.com/science/article/pii/S0021951707000620},
+   year = {2007},
+   type = {Journal Article}
+}
+
+@article{RN1991,
+   author = {Lu, G and Linsebigler, A and Yates Jr, John T},
+   title = {Photooxidation of CH3Cl on TiO2 (110): a mechanism not involving H2O},
+   journal = {The Journal of Physical Chemistry},
+   volume = {99},
+   number = {19},
+   pages = {7626-7631},
+   ISSN = {0022-3654},
+   year = {1995},
+   type = {Journal Article}
+}
+
+@article{RN1419,
+   author = {Martin, Scot T. and Herrmann, Hartmut and Choi, Wonyong and Hoffmann, Michael R.},
+   title = {Time-resolved microwave conductivity. Part 1.—TiO2 photoreactivity and size quantization},
+   journal = {Journal of the Chemical Society, Faraday Transactions},
+   volume = {90},
+   number = {21},
+   pages = {3315-3322},
+   ISSN = {0956-5000},
+   DOI = {10.1039/FT9949003315},
+   url = {http://dx.doi.org/10.1039/FT9949003315},
+   year = {1994},
+   type = {Journal Article}
+}
+
+@article{RN3,
+   author = {Mei, Bastian and Pougin, Anna and Strunk, Jennifer},
+   title = {Influence of photodeposited gold nanoparticles on the photocatalytic activity of titanate species in the reduction of CO2 to hydrocarbons},
+   journal = {Journal of Catalysis},
+   volume = {306},
+   number = {Supplement C},
+   pages = {184-189},
+   ISSN = {0021-9517},
+   DOI = {https://doi.org/10.1016/j.jcat.2013.06.027},
+   url = {http://www.sciencedirect.com/science/article/pii/S0021951713002431},
+   year = {2013},
+   type = {Journal Article}
+}
+
+@article{RN1990,
+   author = {Mills, Andrew and Davies, Richard H. and Worsley, David},
+   title = {Water purification by semiconductor photocatalysis},
+   journal = {Chemical Society Reviews},
+   volume = {22},
+   number = {6},
+   pages = {417-425},
+   ISSN = {0306-0012},
+   DOI = {10.1039/CS9932200417},
+   url = {http://dx.doi.org/10.1039/CS9932200417},
+   year = {1993},
+   type = {Journal Article}
+}
+
+@article{RN1884,
+   author = {Peng, Haowei and Li, Jingbo and Li, Shu-Shen and Xia, Jian-Bai},
+   title = {First-principles study of the electronic structures and magnetic properties of 3d transition metal-doped anatase TiO2},
+   journal = {Journal of Physics: Condensed Matter},
+   volume = {20},
+   number = {12},
+   pages = {125207},
+   ISSN = {0953-8984},
+   year = {2008},
+   type = {Journal Article}
+}
+
+@article{RN1400,
+   author = {Philip Colombo, D. and Roussel, Kirsten A. and Saeh, Jamal and Skinner, David E. and Cavaleri, Joseph J. and Bowman, Robert M.},
+   title = {Femtosecond study of the intensity dependence of electron-hole dynamics in TiO2 nanoclusters},
+   journal = {Chemical Physics Letters},
+   volume = {232},
+   number = {3},
+   pages = {207-214},
+   ISSN = {0009-2614},
+   DOI = {https://doi.org/10.1016/0009-2614(94)01343-T},
+   url = {http://www.sciencedirect.com/science/article/pii/000926149401343T},
+   year = {1995},
+   type = {Journal Article}
+}
+
+@article{RN1989,
+   author = {Pruden, Ann Lorette and Ollis, David F.},
+   title = {Photoassisted heterogeneous catalysis: The degradation of trichloroethylene in water},
+   journal = {Journal of Catalysis},
+   volume = {82},
+   number = {2},
+   pages = {404-417},
+   ISSN = {0021-9517},
+   DOI = {https://doi.org/10.1016/0021-9517(83)90207-5},
+   url = {https://www.sciencedirect.com/science/article/pii/0021951783902075},
+   year = {1983},
+   type = {Journal Article}
+}
+
+@book{RN886,
+   author = {Riedel, Erwin},
+   title = {Anorganische chemie},
+   publisher = {Walter de Gruyter},
+   ISBN = {3110901722},
+   year = {2011},
+   type = {Book}
+}
+
+@article{RN464,
+   author = {Ross-Medgaarden, Elizabeth I. and Wachs, Israel E. and Knowles, William V. and Burrows, Andrew and Kiely, Christopher J. and Wong, Michael S.},
+   title = {Tuning the Electronic and Molecular Structures of Catalytic Active Sites with Titania Nanoligands},
+   journal = {Journal of the American Chemical Society},
+   volume = {131},
+   number = {2},
+   pages = {680-687},
+   ISSN = {0002-7863},
+   DOI = {10.1021/ja711456c},
+   url = {http://dx.doi.org/10.1021/ja711456c},
+   year = {2009},
+   type = {Journal Article}
+}
+
+@article{RN1949,
+   author = {Sreethawong, Thammanoon and Yoshikawa, Susumu},
+   title = {Comparative investigation on photocatalytic hydrogen evolution over Cu-, Pd-, and Au-loaded mesoporous TiO2 photocatalysts},
+   journal = {Catalysis Communications},
+   volume = {6},
+   number = {10},
+   pages = {661-668},
+   ISSN = {1566-7367},
+   DOI = {https://doi.org/10.1016/j.catcom.2005.06.004},
+   url = {https://www.sciencedirect.com/science/article/pii/S1566736705001342},
+   year = {2005},
+   type = {Journal Article}
+}
+
+@article{RN1911,
+   author = {Stoyanovskii, V. O. and Snytnikov, V. N.},
+   title = {Laser-induced luminescence associated with surface hydroxide groups in Al2O3},
+   journal = {Kinetics and Catalysis},
+   volume = {50},
+   number = {3},
+   pages = {450-455},
+   ISSN = {1608-3210},
+   DOI = {10.1134/S0023158409030173},
+   url = {https://doi.org/10.1134/S0023158409030173},
+   year = {2009},
+   type = {Journal Article}
+}
+
+@article{RN571,
+   author = {Sun, Qiangqiang and Li, Laisheng and Yan, Huihua and Hong, Xiaoting and Hui, K. S. and Pan, Zhaoqi},
+   title = {Influence of the surface hydroxyl groups of MnOx/SBA-15 on heterogeneous catalytic ozonation of oxalic acid},
+   journal = {Chemical Engineering Journal},
+   volume = {242},
+   pages = {348-356},
+   ISSN = {1385-8947},
+   DOI = {https://doi.org/10.1016/j.cej.2013.12.097},
+   url = {http://www.sciencedirect.com/science/article/pii/S1385894714000096},
+   year = {2014},
+   type = {Journal Article}
+}
+
+@article{RN1992,
+   author = {Sunada, Kayano and Kikuchi, Yoshihiko and Hashimoto, Kazuhito and Fujishima, Akira},
+   title = {Bactericidal and Detoxification Effects of TiO2 Thin Film Photocatalysts},
+   journal = {Environmental Science & Technology},
+   volume = {32},
+   number = {5},
+   pages = {726-728},
+   ISSN = {0013-936X},
+   DOI = {10.1021/es970860o},
+   url = {https://doi.org/10.1021/es970860o},
+   year = {1998},
+   type = {Journal Article}
+}
+
+@article{RN1931,
+   author = {Tauc, J. and Grigorovici, R. and Vancu, A.},
+   title = {Optical Properties and Electronic Structure of Amorphous Germanium},
+   journal = {physica status solidi (b)},
+   volume = {15},
+   number = {2},
+   pages = {627-637},
+   ISSN = {0370-1972},
+   DOI = {https://doi.org/10.1002/pssb.19660150224},
+   url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/pssb.19660150224},
+   year = {1966},
+   type = {Journal Article}
+}
+
+@article{RN1969,
+   author = {Wahl, Axel and Augustynski, Jan},
+   title = {Charge Carrier Transport in Nanostructured Anatase TiO2 Films Assisted by the Self-Doping of Nanoparticles},
+   journal = {The Journal of Physical Chemistry B},
+   volume = {102},
+   number = {40},
+   pages = {7820-7828},
+   ISSN = {1520-6106},
+   DOI = {10.1021/jp9814000},
+   url = {https://doi.org/10.1021/jp9814000},
+   year = {1998},
+   type = {Journal Article}
+}
+
+@article{RN1968,
+   author = {Wang, Xiaoling and Pehkonen, Simo O. and Rämö, Jaakko and Väänänen, Marja and Highfield, James G. and Laasonen, Kari},
+   title = {Experimental and computational studies of nitrogen doped Degussa P25 TiO2: application to visible-light driven photo-oxidation of As(iii)},
+   journal = {Catalysis Science & Technology},
+   volume = {2},
+   number = {4},
+   pages = {784-793},
+   ISSN = {2044-4753},
+   DOI = {10.1039/C2CY00486K},
+   url = {http://dx.doi.org/10.1039/C2CY00486K},
+   year = {2012},
+   type = {Journal Article}
+}
+
+@article{RN1930,
+   author = {Weinberg, Z. A. and Rubloff, G. W. and Bassous, E.},
+   title = {Transmission, photoconductivity, and the experimental band gap of thermally grown Si${\mathrm{O}}_{2}$ films},
+   journal = {Physical Review B},
+   volume = {19},
+   number = {6},
+   pages = {3107-3117},
+   DOI = {10.1103/PhysRevB.19.3107},
+   url = {https://link.aps.org/doi/10.1103/PhysRevB.19.3107},
+   year = {1979},
+   type = {Journal Article}
+}
+
+@article{RN1842,
+   author = {Yamamoto, Takashi},
+   title = {Assignment of pre-edge peaks in K-edge x-ray absorption spectra of 3d transition metal compounds: electric dipole or quadrupole?},
+   journal = {X-Ray Spectrometry},
+   volume = {37},
+   number = {6},
+   pages = {572-584},
+   DOI = {doi:10.1002/xrs.1103},
+   url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/xrs.1103},
+   year = {2008},
+   type = {Journal Article}
+}
+
+@article{RN1970,
+   author = {Yan, Yan and Shi, Weidong and Peng, Wei and Lin, Yuhan and Zhang, Chunxi and Li, Lailai and Sun, Young and Ju, Huanxin and Zhu, Junfa and Ma, Wanhong and Zhao, Jincai},
+   title = {Proton-free electron-trapping feature of titanium dioxide nanoparticles without the characteristic blue color},
+   journal = {Communications Chemistry},
+   volume = {2},
+   number = {1},
+   pages = {88},
+   ISSN = {2399-3669},
+   DOI = {10.1038/s42004-019-0191-7},
+   url = {https://doi.org/10.1038/s42004-019-0191-7},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN49,
+   author = {Zhao, D. Y. and Feng, J. L. and Huo, Q. S. and Melosh, N. and Fredrickson, G. H. and Chmelka, B. F. and Stucky, G. D.},
+   title = {Triblock copolymer syntheses of mesoporous silica with periodic 50 to 300 angstrom pores},
+   journal = {Science},
+   volume = {279},
+   number = {5350},
+   pages = {548-552},
+   ISSN = {0036-8075},
+   DOI = {DOI 10.1126/science.279.5350.548},
+   url = {<Go to ISI>://WOS:000071616000042},
+   year = {1998},
+   type = {Journal Article}
+}
+

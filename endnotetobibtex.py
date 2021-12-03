@@ -7,12 +7,11 @@ Created on Tue Aug  3 10:00:04 2021
 import timeit
 import re
 import glob
-from copy import deepcopy
-import copy
 import os
 import sys
 import pathlib
 from pathlib import Path
+#import logging
 
 #%%
  
@@ -32,6 +31,7 @@ def makeLib(file_path):
     for n,v in enumerate(content):  
         if len(v)>5:
             
+            v.lstrip('@')
             el=v.splitlines()
             temp={}
 
@@ -41,7 +41,7 @@ def makeLib(file_path):
             try:
                     temp['type']
             except:
-                    print(v+'\n'+str(n))
+                    #logging.critical(f'{n}th element has no type:\n {v}')
                     sys.exit()
 
             TypeList=['Journal Article','Book','Book Section']
@@ -54,7 +54,7 @@ def makeLib(file_path):
                         temp['year']=re.split('{|}', i)[1]
                         
             else:
-                print(f'Literaturetype not known.')
+                #logging.critical(f'Literaturetype {temp['type']} not known.')
                 sys.exit()
             
             # create Bibkey for .bib and check if same name exists already    
@@ -90,7 +90,7 @@ def makeLib(file_path):
             else:
                 el.insert(1,'   '+'ReferenceNumber = ' + '{' + h[1] + '}' + ',')
             
-            contTemp=''.join(el) 
+            contTemp='\n'.join(el) 
             if '@@' in contTemp:
                 contTemp.replace('@@','@')
             Lib[bibkey]=contTemp
@@ -106,5 +106,5 @@ def writeBib(save_path,Lib):
  
 Lib=makeLib(fp)
 
-print(len(Lib)+type(Lig)+'hello')
+print(f'{len(Lib)} References converted')
 writeBib(save_path,Lib)
