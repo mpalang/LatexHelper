@@ -35,10 +35,11 @@ def makeLib(file_path):
         if len(v)>5:
             
             v=v.lstrip('@')
-            el=v.splitlines()
+            lines=v.splitlines()
             temp={}
+            lines=[i for i in lines if not 'abstract =' in i]
+            for i in lines:
 
-            for i in el:
                 if 'type' in i:
                     temp['type']=re.split('{|}', i)[1]
             try:
@@ -49,7 +50,7 @@ def makeLib(file_path):
 
             TypeList=['Journal Article','Book','Book Section']
             if temp['type'] in TypeList:
-                for i in el:
+                for i in lines:
                     if 'author' in i:
                         temp['authors']=re.split('{|}', i)[1].split(' and ')
                         temp['authors']=[re.split(', ',j) for j in temp['authors']]
@@ -68,12 +69,12 @@ def makeLib(file_path):
             bibkey=re.sub('á','a',bibkey)
             bibkey=re.sub('ä','a',bibkey)
             bibkey=re.sub('ö','o',bibkey)
-            bibkey=re.sub('ü','u',bibkey) 
+            bibkey=re.sub('ü','u',bibkey)
+            bibkey=re.sub('-','',bibkey)  
             
             n=1
             while True:
                 if bibkey in Lib.keys():
-                    
                     try:                           
                         bibkey=bibkey.replace(temp['year'],'')
                         bibkey=bibkey+temp['authors'][n][0]+temp['year']
@@ -85,15 +86,15 @@ def makeLib(file_path):
                     break
             
             #print(bibkey)
-            h=el[0].split('{')
+            h=lines[0].split('{')
             h[1]=re.sub(',| ','',h[1])
-            el[0]='@'+h[0]+'{'+bibkey+','
-            if 'ReferenceNumber' in el[1]:
-                el[1]='   '+'ReferenceNumber = ' + '{' + h[1] + '}' + ','
+            lines[0]='@'+h[0]+'{'+bibkey+','
+            if 'ReferenceNumber' in lines[1]:
+                lines[1]='   '+'ReferenceNumber = ' + '{' + h[1] + '}' + ','
             else:
-                el.insert(1,'   '+'ReferenceNumber = ' + '{' + h[1] + '}' + ',')
+                lines.insert(1,'   '+'ReferenceNumber = ' + '{' + h[1] + '}' + ',')
             
-            contTemp='\n'.join(el) 
+            contTemp='\n'.join(lines) 
             if '@@' in contTemp:
                 contTemp.replace('@@','@')
             Lib[bibkey]=contTemp

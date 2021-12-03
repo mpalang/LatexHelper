@@ -4,6 +4,13 @@
    journal = {Journal of Catalysis},
    volume = {329},
    pages = {355-367},
+   abstract = {M/TiO2 photocatalyst activity for H2 production depends on both the metal co-catalyst (M) and the reaction medium. To quantify such effects, we compared the performance of M/TiO2 photocatalysts (M=Pd, Pt, Au) for H2 production in different alcohol–water mixtures under UV excitation. Photocatalysts were prepared using Degussa P25 TiO2 at metal loadings of 0.5 and 1wt.% for Pd, 1wt.% for Pt and 1wt.% for Au. TEM, UV–Vis, XPS and EXAFS analyses confirmed the presence of supported metal nanoparticles of size ∼2, 1.3 and 5.4nm for Pd/TiO2, Pt/TiO2 and Au/TiO2, respectively. Photoluminescence data established that the metal co-catalysts effectively suppressed electron–hole pair recombination in TiO2 following photo-excitation. The activities of the M/TiO2 photocatalysts for H2 production were evaluated in a wide range of alcohol–water mixtures (alcohol concentration 10vol.%) under UV (365nm, 5mWcm−2). H2 production rates in the alcohol–water mixtures were dependent on (i) the metal co-catalyst; (ii) the co-catalyst loading; and (iii) the alcohol type. Co-catalyst activity followed the order Pd>Pt≈Au. The highest H2 production rates were achieved for the 1wt.% Pd/TiO2 photocatalyst in glycerol–water mixtures (47.5mmolg−1h−1) and 1,2-ethanediol–water mixtures (44.5mmolg−1h−1). H2 production rates decreased in the order glycerol>1,2-ethanediol>1,2-propanediol>methanol>ethanol>2-propanol>tert-butanol≫water. For each M/TiO2 photocatalyst, correlations were established between the rate of H2 production and specific alcohol properties, especially alcohol polarity and the exponential of the alcohol oxidation potential.},
+   keywords = {Hydrogen production
+Photocatalysis
+TiO
+Co-catalyst
+Alcohols
+Polarity},
    ISSN = {0021-9517},
    DOI = {https://doi.org/10.1016/j.jcat.2015.06.005},
    url = {https://www.sciencedirect.com/science/article/pii/S002195171500202X},
@@ -18,6 +25,7 @@
    volume = {110},
    number = {1},
    pages = {281-288},
+   abstract = {Photocatalytic oxidation of propylene with molecular oxygen at room temperature was investigated over various silica-supported metal oxides with low loading. The photocatalytic active site is assumed to be the isolated tetrahedrally coordinated metal oxides in the ligand-to-metal charge-transferred state, such as (Mδ-−OLδ+)*. Photocatalytic epoxidation of propylene into propylene oxide was promoted over silica-supported V and Ti oxides at steady state. Over silica-supported Cr oxide, the propylene oxide formation rate was remarkably decreased with the time course in the reaction. The oxidation state and the coordination environment of the supported Ti, V, and Cr oxide species were determined by diffuse reflectance UV−vis spectroscopy (DRS) and electron spin resonance (ESR). During the photocatalytic oxidation, the oxidation state of the Ti4+ species was not varied. On the other hand, the V5+ species was partially reduced to V4+ and the Cr6+ species was successively reduced to Cr5+ and Cr3+. An isotopic tracer study of the C3H6−18O2 reaction suggests the difference of the active oxygen species between TiO2/SiO2 and V2O5/SiO2. The active oxygen species on TiO2/SiO2 is derived from molecular oxygen. On the other hand, the photogenerated products on V2O5/SiO2 incorporate the lattice oxygen of the surface metal oxide species. It is suggested that the kinds of terminal ligand (hydroxyl or oxo) of the tetrahedrally coordinated metal oxides on silica decide the active oxygen species in the photocatalytic oxidation. A photoinduced hole center on the monohydroxyl (SiO)3Ti−OH species activates molecular oxygen that reacts with propylene. In the case of the monooxo (SiO)3VO and dioxo (SiO)2CrO2 species, the photoactivated lattice oxygen (OL-)* directly reacts with propylene.},
    ISSN = {1520-6106},
    DOI = {10.1021/jp0557868},
    url = {https://doi.org/10.1021/jp0557868},
@@ -32,6 +40,7 @@
    volume = {1},
    number = {2},
    pages = {169-179},
+   abstract = {The photocatalytic reactivities of various Ti-based photocatalysts have been investigated for various different types of reactions in order to achieve as highly efficient photocatalytic reactivities as possible. The reactivity of powdered TiO2 is dramatically enhanced by the addition of small amounts of Pt which initiates an effective charge separation of the photo-formed electrons and holes. The highly dispersed titanium oxide species prepared and encapsulated within the zeolite cavities as well as into the SiO 2 matrices exhibit high photocatalytic reactivities due to the high reactivities of their charge transfer excited states. With regard to the use of visible light, ion implantation of metal ions such as Cr or V into powdered TiO2 catalysts has been found to modify the electronic state of TiO 2 , resulting in the shift of the absorption band to longer wavelength regions, i.e., into the visible light region. The extent of the shift strongly depends on the type and concentration of the implanted metal. The present study focuses on the preparation of the photocatalysts, a detailed characterization of the active sites and their dynamics, the direct detection of the reaction intermediate species, as well as a clarification of the mechanisms behind the observed photocatalytic reactions at the molecular level. This work significantly contributes to advances in the design of photocatalysts which will be able to operate efficiently and effectively not only under UV irradiation but, most ideally, under visible light.},
    ISSN = {1574-9266},
    DOI = {10.1023/a:1019024913274},
    url = {https://doi.org/10.1023/A:1019024913274},
@@ -46,6 +55,7 @@
    volume = {74},
    number = {1},
    pages = {207-212},
+   abstract = {Photocatalytic reduction of CO2 with H2O and its reaction mechanism were investigated on highly dispersed titanium oxide anchored onto Vycor glass, prepared through a facile reaction between surface OH groups of Vycor and TiCl4. UV irradiation of the anchored catalyst at 275 K in the presence of CO2 and H2 led to the photocatalytic formation of CH4, CH3OH and CO as major products. Based on the direct detection of the intermediate species such as ·C, ·H and Ti3+, a molecular scale reaction mechanism was discussed.},
    ISSN = {0304-5102},
    DOI = {https://doi.org/10.1016/0304-5102(92)80238-C},
    url = {http://www.sciencedirect.com/science/article/pii/030451029280238C},
@@ -98,6 +108,7 @@
    volume = {101},
    number = {14},
    pages = {2632-2636},
+   abstract = {Titanium oxide species anchored within the Y-zeolite cavities by an ion-exchange method exhibit a high and unique photocatalytic reactivity for the reduction of CO2 with H2O at 328 K with a high selectivity for the formation of CH3OH in the gas phase. The in situ photoluminescence, ESR, diffuse reflectance absorption, and XAFS (XANES and FT-EXAFS) investigations indicate that the titanium oxide species are highly dispersed within the zeolite cavities and exist in a tetrahedral coordination. The charge transfer excited state of the anchored titanium oxide species plays a significant role in the reduction of CO2 with H2O with a high selectivity for the formation of CH3OH, while the catalysts involving the aggregated octahedrally coordinated titanium oxide species show a high selectivity to produce CH4, being similar to reactions on the powdered TiO2 catalysts. The addition of Pt to the anchored titanium oxide catalysts promotes the charge separation which leads to an increase in the CH4 yields in place of CH3OH formation.},
    ISSN = {1520-6106},
    DOI = {10.1021/jp962696h},
    url = {https://doi.org/10.1021/jp962696h},
@@ -133,6 +144,7 @@
    volume = {22},
    number = {6},
    pages = {1988-2000},
+   abstract = {A new synthesis procedure that is based on the grafting of titanium alkoxide species chemically modified by acetylacetone (acac) on the surface of a P123/SBA-15 composite material is proposed to prepare Ti-SBA-15 catalysts and studied by a combination of elemental analysis, Fourier transform infrared spectroscopy (FTIR), solid-state 13C (CP) NMR, thermogravimetric analysis (TGA), X-ray diffraction (XRD), diffuse reflectance UV−vis (DR-UV−vis), and N2 physisorption at −196 °C. In the absence of the acac chelates, the observed formation of anatase TiO2 onto the surface of the material demonstrates that the coordinating ligand acts as an inhibitor for the crystallization of anatase. Furthermore, FTIR and 29Si NMR results show that the chelated titanium alkoxide precursor interacts strongly with the silanol groups, which, in turn, greatly enhances the dispersion of the titanium species in the mesoporous silica matrix. Moreover, a decrease of the temperature applied for the postgrafting and an increase of both the acac/Ti ratio and pH are shown to favor the retention of titanium on the materials surface without affecting the titanium dispersion. According to the X-ray photoelectron spectroscopy (XPS) results, a maximal titanium content of 13.8% can be well-dispersed on the surface of the mesopores without formation of an excess on the external surface of the solids. However, the results of the DR-UV−vis analyses and the catalytic epoxidation of cyclohexene reveal that the maximal concentration of titanium species in tetrahedral coordination is obtained for materials with a Ti/Si ratio of 5.6%. Even if materials with higher titanium content do not show higher conversion of cyclohexene, they do exhibit remarkably low catalytic deactivation during the recycling tests. A higher hydrothermal stability is suggested as an explanation for the lower deactivation of Ti-SBA-15 at high titanium content.},
    ISSN = {0897-4756},
    DOI = {10.1021/cm9030667},
    url = {https://doi.org/10.1021/cm9030667},
@@ -146,6 +158,12 @@
    journal = {Microporous and Mesoporous Materials},
    volume = {241},
    pages = {266-273},
+   abstract = {Pd0 nanoparticles (NPs) have been fabricated on SBA-15 using a facile, rapid and highly reproducible microwave-assisted reduction by solvent method. The as-synthesized Pd@SBA-15 nanocomposite was well characterized using low angle and wide angle XRD, TEM, FE-SEM, N2 adsorption-desorption isotherm, FTIR, XPS etc. The Pd@SBA-15 nanocomposite act as an active, recyclable heterogeneous catalyst for semihydrogenation of phenylacetylene under solvent-free mild reaction conditions (303 K, atmospheric H2). A maximum of 94.4% phenylacetylene conversion was achieved with very high selectivity for styrene (95.5%). Moreover, the used catalyst was recovered by centrifugation and reused up to four times without significant loss in their catalytic activity. This optimized reaction protocol for phenylacetylene was also well performed in case of various other alkynes with similar or better performance.},
+   keywords = {SBA-15
+Pd nanoparticles
+Semihydrogenation
+Solvent-free
+Phenylacetylene},
    ISSN = {1387-1811},
    DOI = {https://doi.org/10.1016/j.micromeso.2016.12.025},
    url = {https://www.sciencedirect.com/science/article/pii/S1387181116305832},
@@ -183,6 +201,18 @@
    type = {Book}
 }
 
+@article{RN462,
+   author = {Colombo, D Philip and Bowman, Robert M},
+   title = {Femtosecond diffuse reflectance spectroscopy of TiO2 powders},
+   journal = {The Journal of Physical Chemistry},
+   volume = {99},
+   number = {30},
+   pages = {11752-11756},
+   ISSN = {0022-3654},
+   year = {1995},
+   type = {Journal Article}
+}
+
 @article{RN1404,
    author = {Colombo, D. Philip and Bowman, Robert M.},
    title = {Does Interfacial Charge Transfer Compete with Charge Carrier Recombination? A Femtosecond Diffuse Reflectance Investigation of TiO2 Nanoparticles},
@@ -190,6 +220,7 @@
    volume = {100},
    number = {47},
    pages = {18445-18449},
+   abstract = {The charge carrier dynamics of opaque, aqueous suspensions of Degussa P-25 TiO2 are probed with femtosecond time-resolved diffuse reflectance spectroscopy. Comparison of ultrafast pump−probe diffuse reflectance measurements of P-25 suspensions with dry P-25 powder and the transient absorption of transparent, aqueous Q-TiO2 solutions allows the observed kinetics to be assigned to charge carrier recombination. The electron−hole recombination kinetics are consistent with a second-order process as demonstrated by a laser fluence dependence study. Interfacial hole transfer dynamics of the P-25 TiO2/SCN- complex are probed as a function of thiocyanate ion concentration. A dramatic increase in the population of trapped charge carriers is observed within the first few picoseconds, demonstrating that interfacial charge transfer of an electron from the SCN- to a hole on the photoexcited TiO2 effectively competes with electron−hole recombination on an ultrafast time scale. The experimental dependence of the charge carrier dynamics are shown to be consistent with a kinetic model of competing second-order processes. The implications of the results on the use of nanoscale TiO2 for photocatalysis are discussed.},
    ISSN = {0022-3654},
    DOI = {10.1021/jp9610628},
    url = {https://doi.org/10.1021/jp9610628},
@@ -197,14 +228,17 @@
    type = {Journal Article}
 }
 
-@article{RN462,
-   author = {Colombo Jr, D Philip and Bowman, Robert M},
-   title = {Femtosecond diffuse reflectance spectroscopy of TiO2 powders},
-   journal = {The Journal of Physical Chemistry},
-   volume = {99},
-   number = {30},
-   pages = {11752-11756},
-   ISSN = {0022-3654},
+@article{RN1400,
+   author = {Colombo, D. Philip  and Roussel, Kirsten A. and Saeh, Jamal and Skinner, David E. and Cavaleri, Joseph J. and Bowman, Robert M.},
+   title = {Femtosecond study of the intensity dependence of electron-hole dynamics in TiO2 nanoclusters},
+   journal = {Chemical Physics Letters},
+   volume = {232},
+   number = {3},
+   pages = {207-214},
+   abstract = {The dynamics of charge carrier trapping and recombination as a function of pump fluence of 20 Å diameter TiO2 particles in aqueous solutions is measured. Trapping of photogenerated conduction band electrons occurs in less than 500 fs. The subsequent fluence-dependent decay of trapped electrons has both a fast and a slow component. The early time recombination results are interpreted by second-order kinetics. A global fit to the data predicts a bulk second-order recombination rate constant of (1.8 ± 0.7) × 10−10 cm3 s−1 for trapped electrons with holes. The signal at long times is attributed to electrons ejected from the nanocluster and/or deeply trapped electrons produced via third-order kinetics, consistent with an Auger process.},
+   ISSN = {0009-2614},
+   DOI = {https://doi.org/10.1016/0009-2614(94)01343-T},
+   url = {http://www.sciencedirect.com/science/article/pii/000926149401343T},
    year = {1995},
    type = {Journal Article}
 }
@@ -233,6 +267,7 @@
    volume = {9},
    number = {23},
    pages = {4345-4352},
+   abstract = {Abstract The present study deals with fundamental investigations on the effect of light energy and intensity on the photocatalytic reduction of CO2 on TiO2 P25 under high purity continuous flow conditions. In accordance with previous works, gas chromatographic (GC) online detection identified CH4 as the main product of photocatalytic CO2 reduction. It was found that the product formation is dependent on the light intensity, which verifies that CH4 is formed in a photon induced process on TiO2. A variation of the light intensity revealed that charge carrier recombination is more strongly enhanced compared to the charge transfer reaction to adsorbed species. On these grounds, the rate of CH4 formation increases only by the square root of the light intensity. Furthermore, product formation is predominantly a UV photon driven process. A further part of this study investigated the effect of H2O on the CH4 formation. The photocatalytic removal of carbon‐containing species and the CO2 reduction can already proceed with traces of adsorbed H2O, whereas a continuous flow of gaseous H2O results in an inhibition of product formation. Based on our study, we can identify highly promising routes for photocatalyst improvement.},
    DOI = {doi:10.1002/cctc.201701189},
    url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/cctc.201701189},
    year = {2017},
@@ -246,6 +281,7 @@
    volume = {9},
    number = {4},
    pages = {696-704},
+   abstract = {Abstract In this study, the photocatalytic CO2 reduction on TiO2 P25 was investigated for the first time under high‐purity continuous flow conditions with gas chromatographic (GC) online detection of CH4 as the main product. The thorough photocatalytic cleaning procedure in humid helium prior to all measurements was conducted under continuous flow too and we were able to monitor the decrease of carbonaceous contaminant concentration. On addition of CO2 to the feed under illumination, an increase in CH4 concentration was observed, which clearly follows the increase in CO2 concentration in the reactor. It was also demonstrated that CH4 formation ceases as soon as the lamp is switched off, providing clear evidence that the formation of CH4 from CO2 is a photoinduced process. It was shown that higher CO2 concentration accelerated CH4 formation under steady‐state conditions up to a certain optimum. Higher CO2 concentrations lead to a decrease in CH4 formation. This observation is tentatively assigned to a limited availability of photogenerated charge carriers at the TiO2 surface, or a lack of suitable catalytically active sites. Traces of O2 in the reactor completely hinder CH4 formation, implying that the lack of concomitant oxygen evolution observed in previous measurements on TiO2 is likely beneficial for the overall process. This study represents a first step towards performing true steady‐state kinetic studies of photocatalytic CO2 reduction.},
    DOI = {doi:10.1002/cctc.201601218},
    url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/cctc.201601218},
    year = {2017},
@@ -259,6 +295,14 @@
    volume = {253},
    number = {1},
    pages = {74-90},
+   abstract = {Vanadium oxide grafted on mesoporous silica SBA-15 has been synthesized using a controlled grafting process. Its structure has been thoroughly investigated using different characterization techniques, including N2-physisorption, X-ray diffraction, transmission electron microscopy (TEM), Raman spectroscopy, H2 temperature-programmed reduction, X-ray absorption near-edge structure (XANES), and extended X-ray absorption fine structure (EXAFS). The spectroscopic results revealed that under dehydrated conditions, the grafted vanadium domains are highly dispersed on the SBA-15 surface, composed predominately of isolated VO4 units with distorted tetrahedral coordination. The suggested (SiO)3VO sites on the silica surface include one short bond (∼1.54 Å) and three long bonds (1.74 Å). Methanol oxidation was used as a chemical probe reaction to examine the catalytic properties of these catalysts. At low vanadium loading, the vanadium species grafted on the surface show structural properties similar to those of vanadium-incorporated MCM-41 catalyst. However, the present mesoporous V-SBA-15 catalysts in the oxidation of methanol to formaldehyde show remarkable catalytic performance compared with that of VOx/SBA-15 catalysts synthesized through a conventional wet impregnation method, which has been attributed to the homogeneous dispersion and uniformity of the catalytic vanadium species achieved on the SBA-15 support with large pore diameter and surface area. The acidic properties of V-SBA-15 was investigated by pyridine temperature-programmed desorption, which indicated the existence of both Lewis and Brönsted acid sites of the surface.},
+   keywords = {Vanadium grafted SBA-15
+Methanol oxidation
+XRD
+Raman
+H-TPR
+TEM
+X-ray absorption (XANES and EXAFS)},
    ISSN = {0021-9517},
    DOI = {https://doi.org/10.1016/j.jcat.2007.10.019},
    url = {http://www.sciencedirect.com/science/article/pii/S0021951707004022},
@@ -273,6 +317,7 @@
    volume = {56},
    number = {4},
    pages = {1809-1819},
+   note = {PRB},
    DOI = {10.1103/PhysRevB.56.1809},
    url = {https://link.aps.org/doi/10.1103/PhysRevB.56.1809},
    year = {1997},
@@ -311,6 +356,7 @@
    volume = {30},
    number = {2},
    pages = {647-653},
+   abstract = {Sol-gel prepared mixtures of silica or zirconia with titania are shown to have significantly higher activities than pure titania for the complete photocatalytic oxidation of ethylene. These higher activities are only apparent when the respective catalysts are stabilized by sintering. The differences become even more pronounced when the catalysts are used in a tubular reactor. Optimum mixture concentrations are found to be 12 wt % zirconia and 16 wt % silica in titania. Both catalyst types exhibit activity maxima with respect to sintering temperature. It is hypothesized that the maxima arise from opposing effects of densification and phase transformation versus beneficial sintering. A comparison of our catalyst compositions with literature in this area suggests that the increase in activity due to the addition of silica or zirconia may be a result of higher surface acidity. However, isoelectric point measurements employing the unsintered and sintered catalysts show no conclusive increase in surface acidity. The effects of sintering temperature on the surface area, porosity, and crystal structure of the catalysts are also presented.},
    ISSN = {0013-936X},
    DOI = {10.1021/es950391v},
    url = {https://doi.org/10.1021/es950391v},
@@ -351,6 +397,7 @@
    volume = {102},
    number = {52},
    pages = {10842-10852},
+   abstract = {The molecularly dispersed V2O5/SiO2 supported oxides were prepared by the incipient wetness impregnation of 2-propanol solutions of V-isopropoxide. The experimental maximum dispersion of surface vanadium oxide species on SiO2 was achieved at ∼12 wt % V2O5 (∼2.6 V atoms/nm2). The surface structures of the molecularly dispersed V2O5/SiO2 samples under various conditions were extensively investigated by in situ Raman, UV−vis−NIR DRS and XANES spectroscopies. The combined characterization techniques revealed that in the dehydrated state only isolated VO4 species are present on the silica surface up to monolayer coverage. Interestingly, the three-member siloxane rings on the silica surface appear to be the most favorable sites for anchoring the isolated, three-legged (SiO)3VO species. Hydration dramatically changes the molecular structure of the surface vanadium oxide species. The specific structure of the hydrated surface vanadium oxide species is dependent on the degree of hydration. The molecular structure of the fully hydrated vanadium oxide species closely resembles V2O5·nH2O gels, rather than V2O5 crystallites. The fully hydrated surface vanadium oxide species are proposed to be chain and/or two-dimensional polymers with highly distorted square-pyramidal VO5 connected by V−OH−V bridges, which are stabilized on the silica surface by the sixth neighbor of Si−OH hydroxyls via Si−OH···V hydrogen bonds. In analogy to the hydration process, alcoholysis occurs during methanol chemisorption, and similar molecular structures are proposed to interpret the interaction between methanol molecules and the surface vanadium oxide species on silica.},
    ISSN = {1520-6106},
    DOI = {10.1021/jp9826367},
    url = {https://doi.org/10.1021/jp9826367},
@@ -365,6 +412,7 @@
    volume = {18},
    number = {1},
    pages = {97-122},
+   abstract = {The mechanisms of charge transfer processes can be devided into two groups, those with weak interaction between the semiconductor surface and the reactants in the electrolyte and those with strong ones. The basic features of both mechanisms and their relation to catalytic processes are discussed. Interesting reactions which are closely related to photocatalysis can be initiated by illumination. Some examples are given and the mechanism of spectral photosensitization is analysed in connection with the fundamental aspects of such charge transfer processes.},
    ISSN = {0039-6028},
    DOI = {https://doi.org/10.1016/0039-6028(69)90269-6},
    url = {http://www.sciencedirect.com/science/article/pii/0039602869902696},
@@ -391,6 +439,7 @@
    volume = {52},
    number = {29},
    pages = {7372-7408},
+   abstract = {Abstract Rising atmospheric levels of carbon dioxide and the depletion of fossil fuel reserves raise serious concerns about the ensuing effects on the global climate and future energy supply. Utilizing the abundant solar energy to convert CO2 into fuels such as methane or methanol could address both problems simultaneously as well as provide a convenient means of energy storage. In this Review, current approaches for the heterogeneous photocatalytic reduction of CO2 on TiO2 and other metal oxide, oxynitride, sulfide, and phosphide semiconductors are presented. Research in this field is focused primarily on the development of novel nanostructured photocatalytic materials and on the investigation of the mechanism of the process, from light absorption through charge separation and transport to CO2 reduction pathways. The measures used to quantify the efficiency of the process are also discussed in detail.},
    DOI = {doi:10.1002/anie.201207199},
    url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201207199},
    year = {2013},
@@ -404,6 +453,7 @@
    volume = {2},
    number = {8},
    pages = {1900067},
+   abstract = {Abstract Organic solar cells (OSCs) have recently achieved power conversion efficiencies (PCEs) of over 16%. However, there still exist large losses in photocurrent and/or voltage in state-of-the-art OSCs, making the PCEs still far below those of inorganic counterparts. Here, the factors and electronic processes for photocurrent and voltage losses are identified and discussed in the framework of device physics and photophysics. To simultaneously obtain both high photocurrent density and low voltage loss toward 20% PCEs, it is crucial to suppress the non-radiative (NR) recombination of the lowest charge-transfer (CT) state at the donor–acceptor interface. In principle, theoretical simulations can provide molecular insight into the origin of these losses, which is essential to guide material design. In particular, the authors highlight the importance of the local interface morphologies and the vibronic couplings on suppressing the NR decay of the lowest CT state according to recent theoretical studies.},
    ISSN = {2513-0390},
    DOI = {https://doi.org/10.1002/adts.201900067},
    url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/adts.201900067},
@@ -439,6 +489,7 @@
    volume = {250},
    number = {6},
    pages = {1094-1106},
+   abstract = {Abstract 2-Propanol and oxygen were converted over titania and gold nanoparticles supported on titania to investigate the reactivity of the support, the influence of the metal and the role of metal–support interactions. The catalysts were characterized by N2 physisorption and transmission electron microscopy. In addition to deriving the degrees of conversion and the yields as a function of temperature, temperature-programmed desorption and diffuse reflectance infrared spectroscopy were applied in fixed-bed reactors under continuous flow conditions. Over pure TiO2 above 500 K the acid–base catalyzed dehydration yielding propene and water, the dehydrogenation to acetone and H2, and the oxidative dehydrogenation to acetone and water were found to occur. The additional presence of Au nanoparticles induced the selective oxidation to acetone and H2O at temperatures below 400 K, whereas the selective oxidation to acetone at higher temperatures above 500 K was also observed on pure TiO2. Also the dehydration of 2-propanol to propene and H2O and, to a minor extent, the total oxidation to CO2 and H2O were catalyzed by Au/TiO2. Therefore, the Au/TiO2 catalyst shows bifunctional properties in oxygen activation needed for the selective oxidation of 2-propanol. 2-propoxide species were detected by IR spectroscopy, which are identified as intermediate species in 2-propanol conversion, whereas strongly bound acetates and carbonates acted as catalyst poison for the selective low-temperature oxidation route, but not for the high-temperature route. Selective low-temperature oxidation is assumed to occur at the perimeter of the Au nanoparticles, which also enhance the high-temperature oxidation route on TiO2 pointing to a Mars–van Krevelen mechanism based on an enhanced reducibility of TiO2.},
    ISSN = {0370-1972},
    DOI = {https://doi.org/10.1002/pssb.201248504},
    url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/pssb.201248504},
@@ -465,6 +516,12 @@
    volume = {167},
    number = {1},
    pages = {46-55},
+   abstract = {The synthesis of Zr-SBA-15 materials from zirconocene dichloride as metal precursor has been investigated. These materials can be prepared with a high loading of zirconium while preserving good mesoscopic ordering. Zr-SBA-15 materials display acid properties which have revealed to confer high catalytic activity in the transesterification of crude palm oil with methanol for biodiesel synthesis, achieving yields to FAME over 70% in a batch reactor under the following reaction conditions: 200°C, 3h, methanol to oil molar ratio 30:1 and using 10wt.% catalyst loading referred to oil. Furthermore, Zr-SBA-15 materials display excellent stability in palm oil transesterification, being fully regenerated by calcination at 550°C after at least eight consecutive reaction runs. The incorporation of titanium, molybdenum and tungsten as doping metals produces slightly promotion of the acidity of Zr-SBA-15 materials, though this is not translated into higher catalytic activity.},
+   keywords = {Biodiesel
+Zirconium
+SBA-15
+Acid catalysis
+FAME},
    ISSN = {0920-5861},
    DOI = {https://doi.org/10.1016/j.cattod.2010.11.060},
    url = {http://www.sciencedirect.com/science/article/pii/S0920586110008011},
@@ -492,6 +549,12 @@
    publisher = {Elsevier},
    volume = {27},
    pages = {1-21},
+   abstract = {In recent years, the field of catalysis has undergone an explosive growth. The aim of this chapter is to provide an introduction to catalysis, its basic concepts, and its benefits for different branches of science and technology. Recent advances in preparing, designing, and characterizing new catalysts are also highlighted.},
+   keywords = {2D materials
+Catalysis
+Green chemistry
+Heterogeneous catalysis
+Single-atom catalysis},
    ISBN = {1573-4285},
    DOI = {https://doi.org/10.1016/B978-0-12-814523-4.00001-0},
    url = {https://www.sciencedirect.com/science/article/pii/B9780128145234000010},
@@ -505,6 +568,10 @@
    journal = {Renewable and Sustainable Energy Reviews},
    volume = {62},
    pages = {1092-1105},
+   abstract = {World׳s energy demand is growing fast because of population explosion and technological advancements. It is therefore important to go for reliable, cost effective and everlasting renewable energy source for energy demand arising in future. Solar energy, among other renewable sources of energy, is a promising and freely available energy source for managing long term issues in energy crisis. Solar industry is developing steadily all over the world because of the high demand for energy while major energy source, fossil fuel, is limited and other sources are expensive. It has become a tool to develop economic status of developing countries and to sustain the lives of many underprivileged people as it is now cost effective after a long aggressive researches done to expedite its development. The solar industry would definitely be a best option for future energy demand since it is superior in terms of availability, cost effectiveness, accessibility, capacity and efficiency compared to other renewable energy sources. This paper therefore discusses about the need of solar industry with its fundamental concepts, worlds energy scenario, highlights of researches done to upgrade solar industry, its potential applications and barriers for better solar industry in future in order to resolve energy crisis.},
+   keywords = {Solar energy
+Future world
+Renewable energy},
    ISSN = {1364-0321},
    DOI = {https://doi.org/10.1016/j.rser.2016.05.022},
    url = {https://www.sciencedirect.com/science/article/pii/S1364032116301320},
@@ -556,6 +623,7 @@
    volume = {68},
    number = {12},
    pages = {1625-1638},
+   abstract = {A short history of the relationships among adsorption, chemisorption, and catalysis with solid catalysts is reviewed. A special focus is on the development of quality and descriptions accuracy using computers, both for the modeling of elementary physical phenomena and adsorption, as well as for the solution of more complex problems like quantum chemical approach to chemisorption, kinetics over solid catalysts, and reactor systems. Modern approaches to the characterization of solid catalysts from the adsorption-desorption data based mainly on n-layer adsorption and non-linear three parameter BET isotherm regarding the volume of micropores as one of the parameters are demonstrated. Instrumentation techniques like infrared spectroscopy or NMR techniques for the analysis of the strength of component chemisorption are mentioned. As for the kinetics, a vague capability of the Langmuir-Hinshelwood-Hougen-Watson models to describe a reaction system in more complicated cases, e.g. bimolecular surface reactions, is discussed. In this context, the simplest model with a minimum number of parameters is advised. To estimate the most realistic values, intrinsic reaction kinetic and mass transport phenomena are taken into account. Usefulness of quantum mechanistic models for better understanding of the catalytic phenomena and more efficient design of catalysts are outlined.},
    ISSN = {1336-9075},
    DOI = {10.2478/s11696-014-0624-9},
    url = {https://doi.org/10.2478/s11696-014-0624-9},
@@ -570,6 +638,7 @@
    volume = {12},
    number = {7},
    pages = {1961-1968},
+   abstract = {SBA-15 ordered mesoporous silicas were synthesized using the method reported by Zhao et al. The structures of these materials were characterized using powder X-ray diffraction (XRD), thermogravimetric analysis (TGA), and nitrogen adsorption. The samples were found to exhibit structural properties similar to those reported earlier. Our study confirmed that the size of primary mesopores of SBA-15 can be tailored by the choice of synthesis temperature and that SBA-15 exhibits a significant amount of disordered micropores and small mesopores. The volume and size of these complementary pores were found to be dependent to some extent on the synthesis/aging temperature. It was shown that the washing of as-synthesized SBA-15 in water or ethanol was accompanied by an appreciable structural shrinkage and led to the removal of a significant part of the polymeric template. Therefore, washing needs to be avoided if one wants to isolate SBA-15 without appreciable loss of the template. It was confirmed that water-washed SBA-15 samples have fully accessible primary mesopores. Ethanol-washed samples also were found to exhibit accessible porosity. Despite an appreciable content of the template in the water- and ethanol-washed samples, their pore sizes were usually larger than those of the calcined materials. The observed structural properties of SBA-15 and their dependence on the synthesis temperature and washing were attributed to the changes in the degree of penetration of the poly(ethylene oxide) chains of the triblock copolymer template within the siliceous walls of SBA-15.},
    ISSN = {0897-4756},
    DOI = {10.1021/cm000164e},
    url = {https://doi.org/10.1021/cm000164e},
@@ -584,6 +653,7 @@
    volume = {38},
    number = {5},
    pages = {448-457},
+   abstract = {The system of differential equations of Kubelka-Munk, -di=-(S+K)idx+Sjdx,         dj=-(S+K)jdx+Sidx(i, j⋯ intensities of the light traveling inside a plane-parallel light-scattering specimen towards its unilluminated and its illuminated surface; x⋯ distance from the unilluminated surface S, K⋯ constants), has been derived from a simplified model of traveling of light in the material. Now, without simplifying assumptions the following exact system is derived: -di=-12(S+K)uidx+12Svjdx,dj=-12(S+K)vjdx+12Suidx,u≡∫0π/2(∂i/i∂φ)(dφ/cosφ),         v≡∫0π/2(∂j/j∂φ)(dφ/cosφ), φ≡angle from normal of the light). Both systems become identical when u=v=2, that is, for instance, when the material is perfectly dull and when the light, is perfectly diffused or if it is parallel and hits the specimen under an angle of 60° from normal. Consequently, the different formulas Kubelka-Munk got by integration of their differential equations are exact when these conditions are fulfilled. The Gurevic and Judd formulas, although derived in another way by their authors, may be got from the Kubelka-Munk differential equations too. Consequently, they are exact under the same conditions. The integrated equations may be adapted for practical use by introducing hyperbolic functions and the secondary constants a=12(1/R∞+R∞) and b=12(1/R∞-R∞), (R∞≡reflectivity). Reflectance R, for instance, is then represented by the formula R=1-Rg(a-b ctghbSX)a+b ctghbSX-Rg(Rg≡reflectance of the backing, X=thickness of the specimen) and transmittance T by the formula T=ba sinhbSX+b coshbSX.In many practical cases the exact formulas may be replaced by appropriated approximations.},
    DOI = {10.1364/JOSA.38.000448},
    url = {http://www.osapublishing.org/abstract.cfm?URI=josa-38-5-448},
    year = {1948},
@@ -608,6 +678,8 @@
    address = {Wiesbaden},
    edition = {11th ed. 2020},
    series = {Computer Science and Engineering},
+   abstract = {Allgemeine und Anorganische Chemie: Chemie in Technik und Umwelt -- Aufbau der Materie -- Periodensystem der Elemente (PSE) -- Kernchemie, Kernenergie, Oberflächenanalytik -- Chemische Bindung und Struktur -- Chemische Reaktionen und Thermochemie -- Säuren, Basen, Luftschadstoffe -- Lösungen, Fällungen, Wasserchemie -- Elektrochemie -- Organische Chemie: Kohlenwasserstoffe -- Stoffklassen und technische Anwendungen -- Polymerchemie -- Nachhaltige Chemie -- Anorganische Chemie: Chemie der Elemente -- Chemikalien am Arbeitsplatz | Acetylierung? Diboran? EDX? Indium? Nachwachsende Rohstoffe? Synthesegas? TCDD? Phosphorrückgewinnung? Die Jubiläumsauflage dieses Kompendiums, Lehr- und Übungsbuches führt durch die Grundlagen der allgemeinen, analytischen, anorganischen, organischen und physikalischen Chemie in kompakter und übersichtlicher Form. Das Buch kann zum Selbststudium und Nachschlagen im Schul- und Hochschulbereich und in der beruflichen Praxis genutzt werden. Chemisches Wissen wird anschaulich mit modernen technischen Anwendungen vernetzt: Abgase, Abwasserreinigung, Analyseapparate, Arbeitsschutz, Batterien, Brennstoffzellen, erneuerbare Energien, gefährliche Chemikalien, industrielle Prozesse, Katalysatoren, Korrosionsschutz, Kunststoffe, Lebensmittel, Trinkwasser, Umweltschutz, Werkstofftechnik und Zukunftstechnogien. Rechenbeispiele, Formelübersichten und Reaktionsschemata erleichtern die Einordnung des Grundwissens in den übergeordneten Rahmen der angewandten Chemie, Materialwissenschaften und Physik. Am Ende jedes Kapitels befinden sich Aufgaben mit Lösungen. Umfangreiche Tabellen mit Stoffwerten und das Stichwortregister mit 2800 Einträgen führen zielsicher zur Information. Die aktualisierte 11. Auflage wurde erweitert und durchgehend vierfarbig gestaltet. Der Inhalt Chemie in Technik und Umwelt – Aufbau der Materie – Kernchemie und Kernenergie – Chemische Bindung und Struktur – Chemische Reaktionen und Thermochemie – Säuren, Basen, Luftschadstoffe – Lösungen, Fällungen, Wasserchemie – Elektrochemie – Kohlenwasserstoffe – Stoffklassen und technische Anwendungen – Polymerchemie – Nachhaltige Chemie –Anorganische Stoffchemie – Gefahrstoffe und Arbeitsschutz Die Zielgruppen - Schüler an Fachschulen für Technik und Medizin, berufliche Oberschulen und Gymnasien - Studierende an Fachhochschulen und Universitäten. Der Autor Professor Dr. Peter Kurzweil lehrt und forscht als Professor für Chemie, Umweltanalytik und Toxikologie an der Technischen Hochschule Amberg-Weiden},
+   keywords = {Chemie / Chemieunterricht / Berufsschule},
    pages = {1 Online-Ressource (VIII, 377 S)},
    ISBN = {9783658275037 | 978-3-658-27503-7},
    url = {https://doi.org/10.1007/978-3-658-27503-7},
@@ -622,6 +694,7 @@
    volume = {149},
    number = {8},
    pages = {2291-2306},
+   abstract = {In this paper the applicability of selected silica-supported early transition metal oxides in photocatalysis is discussed. The catalytic properties of highly dispersed transition metal oxides often differ strongly from their corresponding bulk material. The structural and photophysical properties can often be linked to those changes.},
    ISSN = {1572-879X},
    DOI = {10.1007/s10562-019-02803-w},
    url = {https://doi.org/10.1007/s10562-019-02803-w},
@@ -637,6 +710,7 @@
    publisher = {Springer International Publishing},
    address = {Cham},
    pages = {267-291},
+   abstract = {In this chapter we review the basic principles of photocurrent generation in bulk heterojunction organic solar cells, discuss the loss channels limiting their efficiency, and present case studies of several polymer–fullerene blends. Using steady-state and transient, optical, and electrooptical techniques, we create a precise picture of the fundamental processes that ultimately govern solar cell efficiency.},
    ISBN = {978-3-319-28338-8},
    DOI = {10.1007/978-3-319-28338-8_11},
    url = {https://doi.org/10.1007/978-3-319-28338-8_11},
@@ -651,6 +725,7 @@
    volume = {57},
    number = {1},
    pages = {70-100},
+   abstract = {The shortage of fossil fuels and the disastrous pollution of the environment have led to an increasing interest in artificial photosynthesis. The photocatalytic conversion of CO2 into solar fuel is believed to be one of the best methods to overcome both the energy crisis and environmental problems. It is of significant importance to efficiently manage the surface reactions and the photo-generated charge carriers to maximize the activity and selectivity of semiconductor photocatalysts for photoconversion of CO2 and H2O to solar fuel. To date, a variety of strategies have been developed to boost their photocatalytic activity and selectivity for CO2 photoreduction. Based on the analysis of limited factors in improving the photocatalytic efficiency and selectivity, this review attempts to summarize these strategies and their corresponding design principles, including increased visible-light excitation, promoted charge transfer and separation, enhanced adsorption and activation of CO2, accelerated CO2 reduction kinetics and suppressed undesirable reaction. Furthermore, we not only provide a summary of the recent progress in the rational design and fabrication of highly active and selective photocatalysts for the photoreduction of CO2, but also offer some fundamental insights into designing highly efficient photocatalysts for water splitting or pollutant degradation.},
    ISSN = {2199-4501},
    DOI = {10.1007/s40843-014-0003-1},
    url = {https://doi.org/10.1007/s40843-014-0003-1},
@@ -679,6 +754,13 @@
    volume = {247},
    number = {2},
    pages = {245-255},
+   abstract = {The selective oxidation of ethane was investigated over SBA-15-supported molybdenum oxide catalysts. Our characterizations suggest that the MoOx species were dispersed mostly in mesoporous channels of SBA-15 at Mo content <9.5 wt%. At higher Mo content (15.4 and 20.1 wt%), MoOx nanoparticles together with small amount of MoO3 crystallites were found. The growth of MoOx species in mesoporous channels to MoOx nanoparticles causes the collapse of the silica wall of SBA-15. The rate of ethane conversion per Mo atom over the catalyst with Mo content of 9.5–20.1 wt% was significantly higher than that over the catalyst with lower Mo content, suggesting that polymeric MoOx clusters and MoOx nanoparticles are more active toward ethane activation. The catalysts with highly dispersed MoOx species favor the selectivity of acetaldehyde, whereas those containing polymeric MoOx clusters or MoOx nanoparticles show higher formaldehyde formation rates. Formaldehyde is likely produced through the consecutive oxidation of ethylene.},
+   keywords = {Molybdenum oxide
+SBA-15
+Selective oxidation
+Ethane
+Formaldehyde
+Acetaldehyde},
    ISSN = {0021-9517},
    DOI = {https://doi.org/10.1016/j.jcat.2007.02.011},
    url = {http://www.sciencedirect.com/science/article/pii/S0021951707000620},
@@ -705,6 +787,7 @@
    volume = {90},
    number = {21},
    pages = {3315-3322},
+   abstract = {Charge-carrier recombination dynamics after laser excitation are investigated by time-resolved microwave conductivity (TRMC) measurements of quantum-sized (Q-) TiO, Fe-doped Q-TiO, ZnO and CdS, and several commercial bulk-sized TiO samples. After pulsed laser excitation of charge carriers, holes that escape recombination react with sorbed -decalin within ns while the measured conductivity signal is due to conduction-band electrons remaining in the semiconductor lattice. The charge-carrier recombination lifetime and the interfacial electron-transfer rate constant that are derived from the TRMC measurements correlate with the CW photo-oxidation quantum efficiency obtained for aqueous chloroform in the presence of TiO. The quantum efficiencies are 0. 4 % for Q-TiO, 1. 6 % for Degussa P25, and 2. 0 % for Fe-doped Q-TiO. The lower quantum efficiencies for Q-TiO are consistent with the relative interfacial electron-transfer rates observed by TRMC for Q-TiO and Degussa P25. The increased quantum efficiencies of Fe-doped Q-TiO and the observed TRMC decays are consistent with a mechanism involving fast trapping of valence-band holes as Fe and inhibition of charge-order recombination.},
    ISSN = {0956-5000},
    DOI = {10.1039/FT9949003315},
    url = {http://dx.doi.org/10.1039/FT9949003315},
@@ -719,6 +802,11 @@
    volume = {306},
    number = {Supplement C},
    pages = {184-189},
+   abstract = {Photodeposition of Au nanoparticles was found to enhance the rate of photocatalytic CO2 reduction to short hydrocarbons over titanate species in SBA-15. Product formation from contaminants was ruled out experimentally by a thorough pre-cleaning of the samples and the leak-tight design of the fully metal-sealed gas-phase photoreactor. Without Au, an active carbon pool was observed to accumulate on the catalyst, and higher hydrocarbons were formed. Infrared spectroscopy was used to identify formaldehyde/paraformaldehyde as major compounds of the carbon pool. The results obtained in the absence of gas-phase water indicate that adsorbed water in the mesopores is sufficient to achieve CO2 reduction and convert CO2 mainly to methane. These results contribute to the knowledge-based improvement of photocatalysts for CO2 reduction.},
+   keywords = {CO reduction
+Photocatalysis
+Au nanoparticle
+Ti/SBA-15},
    ISSN = {0021-9517},
    DOI = {https://doi.org/10.1016/j.jcat.2013.06.027},
    url = {http://www.sciencedirect.com/science/article/pii/S0021951713002431},
@@ -752,20 +840,6 @@
    type = {Journal Article}
 }
 
-@article{RN1400,
-   author = {Philip Colombo, D. and Roussel, Kirsten A. and Saeh, Jamal and Skinner, David E. and Cavaleri, Joseph J. and Bowman, Robert M.},
-   title = {Femtosecond study of the intensity dependence of electron-hole dynamics in TiO2 nanoclusters},
-   journal = {Chemical Physics Letters},
-   volume = {232},
-   number = {3},
-   pages = {207-214},
-   ISSN = {0009-2614},
-   DOI = {https://doi.org/10.1016/0009-2614(94)01343-T},
-   url = {http://www.sciencedirect.com/science/article/pii/000926149401343T},
-   year = {1995},
-   type = {Journal Article}
-}
-
 @article{RN1989,
    author = {Pruden, Ann Lorette and Ollis, David F.},
    title = {Photoassisted heterogeneous catalysis: The degradation of trichloroethylene in water},
@@ -773,6 +847,7 @@
    volume = {82},
    number = {2},
    pages = {404-417},
+   abstract = {The complete mineralization of trichloroethylene (Cl2CCClH), in dilute aqueous solutions, to HCl and CO2 is demonstrated with heterogeneous photoassisted catalysis using illuminated titanium dioxide (TiO2). An intermediate, dichloroacetaldehyde, is identified, and a photoassisted reaction sequence is proposed. A simple Langmuirian rate equation satisfactorily represents both the disappearance of initial reactant, trichloroethylene, and intermediate, dichloroacetaldehyde, as well as the inhibitory influence of product HCl. The present paper and two related reports (A. L. Pruden and D. F. Ollis, Environ. Sci. Technol., in press; C.-Y. Hsiao, C.-L. Lee, and D. F. Ollis, J. Catal. 82, 418 (1983)) establishing mineralization of chloromethanes, indicate some potential for removal of the two most common chlorocarbon contaminants from water via heterogeneous photocatalysis.},
    ISSN = {0021-9517},
    DOI = {https://doi.org/10.1016/0021-9517(83)90207-5},
    url = {https://www.sciencedirect.com/science/article/pii/0021951783902075},
@@ -796,6 +871,7 @@
    volume = {131},
    number = {2},
    pages = {680-687},
+   abstract = {A series of supported 1−60% TiO2/SiO2 catalysts were synthesized and subsequently used to anchor surface VOx redox and surface WOx acid sites. The supported TiOx, VOx, and WOx phases were physically characterized with TEM, in situ Raman and UV−vis spectroscopy, and chemically probed with in situ CH3OH-IR, CH3OH-TPSR and steady-state CH3OH dehydration. The CH3OH chemical probe studies revealed that the surface VOx sites are redox in nature and the surface WOx sites contain acidic character. The specific catalytic activity of surface redox (VO4) and acidic (WO5) sites coordinated to the titania nanoligands are extremely sensitive to the degree of electron delocalization of the titania nanoligands. With decreasing titania domain size, <10 nm, acidic activity increases and redox activity decreases due to their inverse electronic requirements. This is the first systematic study to demonstrate the ability of oxide nanoligands to tune the electronic structure and reactivity of surface metal oxide catalytic active sites.},
    ISSN = {0002-7863},
    DOI = {10.1021/ja711456c},
    url = {http://dx.doi.org/10.1021/ja711456c},
@@ -810,6 +886,12 @@
    volume = {6},
    number = {10},
    pages = {661-668},
+   abstract = {Photocatalytic activity for hydrogen evolution from water using methanol as hole scavenger was comparatively investigated over mesoporous TiO2 photocatalysts with various contents of Cu, Pd, and Au cocatalyst loadings prepared by single-step sol–gel (SSSG) process with surfactant template. The photocatalysts were analytically characterized by X-ray diffraction (XRD), N2 adsorption–desorption, Brunauer–Emmett–Teller (BET) surface area, Barrett–Joyner–Halenda (BJH) pore size distribution, scanning electron microscopy (SEM), and energy-dispersive X-ray spectroscopy (EDS) analyses. The comparison of optimum loading contents of the cocatalysts was chiefly studied on the mesoporous TiO2. Among photocatalysts, 2 wt% Au supported on mesoporous TiO2 exhibited the highest photocatalytic H2 evolution activity.},
+   keywords = {Photocatalytic H evolution
+Surfactant template
+Mesoporous TiO
+Single-step sol–gel
+Cocatalyst loading},
    ISSN = {1566-7367},
    DOI = {https://doi.org/10.1016/j.catcom.2005.06.004},
    url = {https://www.sciencedirect.com/science/article/pii/S1566736705001342},
@@ -824,6 +906,7 @@
    volume = {50},
    number = {3},
    pages = {450-455},
+   abstract = {Laser-induced luminescence of OHs groups for undoped Al2O3 oxides of various phase compositions was excited by pulsed nitrogen laser radiation at 337.1 nm. The luminescence band at 500–650 nm assigned to hydroxide groups of Al2O3, actually, consists of several lines at 500–515, 553, 567, 577, 607, and 633 nm; these constituent bands can be assigned to various types of OHs surface groups. In the low-temperature phases of the γ→δ→θ-Al2O3 series, excitation at a wavelength of 337.1 nm gave rise to a characteristic luminescence band associated with surface hydroxide groups of Al2O3 that appeared at 770 nm.},
    ISSN = {1608-3210},
    DOI = {10.1134/S0023158409030173},
    url = {https://doi.org/10.1134/S0023158409030173},
@@ -837,6 +920,12 @@
    journal = {Chemical Engineering Journal},
    volume = {242},
    pages = {348-356},
+   abstract = {Comparative ozonation experiments were carried out to investigate the catalytic ability and mechanism of SBA-15 supported manganese oxide (MnOx/SBA-15) for the degradation of oxalic acid (OA) in aqueous solution. The results showed that MnOx/SBA-15 possessed good catalytic capacity for the ozonation of OA. The influences of tert-butanol and phosphate on OA removal and ozone equilibrium concentration in aqueous solution demonstrated that initiation of hydroxyl radicals (OH) was involved and surface reaction played the major role in O3/MnOx/SBA-15. The effects of manganese content and initial solution pH verified that surface hydroxyl groups affected by the pH of solution and the point of zero charge (pHPZC) of catalysts, were closely related to OA adsorption and OH initiation on the surface of MnOx/SBA-15. The pre-ozonated catalyst improved its catalytic activity a little due to the enhancement of electron transfer in the presence of higher multivalent MnOx (Mn(III)/Mn(IV)). It was concluded that the protonated surface hydroxyl groups were the main reaction sites and a possible catalytic ozonation mechanism of OA over MnOx/SBA-15 was proposed.},
+   keywords = {MnO/SBA-15
+Catalytic ozonation
+Surface hydroxyl groups
+Oxalic acid
+Reaction mechanism},
    ISSN = {1385-8947},
    DOI = {https://doi.org/10.1016/j.cej.2013.12.097},
    url = {http://www.sciencedirect.com/science/article/pii/S1385894714000096},
@@ -865,6 +954,7 @@
    volume = {15},
    number = {2},
    pages = {627-637},
+   abstract = {Abstract The optical constants of amorphous Ge are determined for the photon energies from 0.08 to 1.6 eV. From 0.08 to 0.5 eV, the absorption is due to k-conserving transitions of holes between the valence bands as in p-type crystals; the spin-orbit splitting is found to be 0.20 and 0.21 eV in non-annealed, and annealed samples respectively. The effective masses of the holes in the three bands are 0.49 m (respectively 0.43 m); 0.04 m, and 0.08 m. An absorption band is observed below the main absorption edge (at 300 °K the maximum of this band is at 0.86 eV); the absorption in this band increases with increasing temperature. This band is considered to be due to excitons bound to neutral acceptors, and these are presumably the same ones that play a decisive role in the transport properties and which are considered to be associated with vacancies. The absorption edge has the form: ω2ϵ2∼(hω−Eg)2 (Eg = 0.88 eV at 300 °K). This suggests that the optical transitions conserve energy but not k vector, and that the densities of states near the band extrema have the same energy-dependence as in crystalline Ge. A simple theory describing this situation is proposed, and comparison of it with the experimental results leads to an estimate of the localization of the conduction-band wavefunctions.},
    ISSN = {0370-1972},
    DOI = {https://doi.org/10.1002/pssb.19660150224},
    url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/pssb.19660150224},
@@ -893,6 +983,7 @@
    volume = {2},
    number = {4},
    pages = {784-793},
+   abstract = {Degussa P25 TiO2 doped with nitrogen via NH3 treatment at 400–600 °C was found to be capable of catalyzing the photo-oxidation of aqueous As(iii) to As(v) under visible light. Substitutional doping of N for O creates N–Ti–O surface linkages, as confirmed by XPS. Kinetic studies have been performed in batch systems with 40 μM As(iii) and 0.05 g L−1 TiO2. Photocatalytic oxidation of As(iii) in the presence of N-doped TiO2 annealed at 500 °C was complete within 4 hours of irradiation at λ > 435 nm. The presence of titanium oxynitride (or similar surface moieties) is linked with the good photooxidation catalytic activity toward As(iii). Zeta potentials of the N-doped TiO2 showed negative shifts at low pH values, which became more pronounced when measured after photocatalytic testing, suggesting at least partial retention of As(v). First principles DFT calculations were also carried out for a model anatase (101) surface, in both the pristine and N-doped condition. Dissociation of water is energetically favoured over the N-TiO2 surface. This surface activation mechanism provides the rationale for increased As(v) retention. Enhanced adsorptive properties in TiO2 would render it a more versatile remediation agent.},
    ISSN = {2044-4753},
    DOI = {10.1039/C2CY00486K},
    url = {http://dx.doi.org/10.1039/C2CY00486K},
@@ -907,6 +998,7 @@
    volume = {19},
    number = {6},
    pages = {3107-3117},
+   note = {PRB},
    DOI = {10.1103/PhysRevB.19.3107},
    url = {https://link.aps.org/doi/10.1103/PhysRevB.19.3107},
    year = {1979},
@@ -920,6 +1012,7 @@
    volume = {37},
    number = {6},
    pages = {572-584},
+   abstract = {Abstract The characteristics of pre-edge peaks in K-edge x-ray absorption near edge structure (XANES) spectra of 3d transition metals were reviewed from viewpoints of the selection rule, coordination number, number of d-electrons, and symmetry of the coordination sphere. The contribution of the electric dipole and quadrupole transition to the peaks was discussed on the basis of the group theory, polarized spectra, and theoretical calculations. The pre-edge peak intensity for Td symmetry is larger than those for Oh symmetry for all 3d elements. The intense pre-edge peak for tetrahedral species of 3d transition metals is not due to 1s–3d transition, but transition to the p component in d–p hybridized orbital. The mixing of metal 4p orbitals with the 3d orbitals depends strongly on the coordination symmetry, and the possibility is predictable by group theory. The transition of 1s electron to d orbitals is electric quadrupole component in any of the symmetries. The d–p hybridization does not occur with regular octahedral symmetry, and the weak pre-edge peak consists of 1s–3d electric quadrupole transition. The pre-edge peak intensity for a compound with a tetrahedral center changes as a function of the number of 3d electrons regardless of the kind of element; it is maximized at d0 and gradually decreases to zero at d10. The features of pre-edge peaks in K-edge XANES spectra for 4d elements and the L1-edge for 5d elements are analogous with those for 3d elements, but the pre-edge peak is broadened due to the wide natural width of the core level. Copyright © 2008 John Wiley & Sons, Ltd.},
    DOI = {doi:10.1002/xrs.1103},
    url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/xrs.1103},
    year = {2008},
@@ -933,6 +1026,7 @@
    volume = {2},
    number = {1},
    pages = {88},
+   abstract = {Most solar-energy conversion applications are based on trapping and transferring photoinduced electrons on oxide semiconductor nanoparticles, such as titanium dioxide, and broad UV-vis absorption (400~800 nm) and monotonic IR absorption (1100~3000 cm−1) signals have long been considered signatures of the electron-trapping state on titanium dioxide nanoparticles. Here we show that, under proton-free conditions and using iodide ions in acetonitrile as the hole scavenger, the intrinsic electron-trapping feature of titanium dioxide nanoparticles does not exhibit the characteristic UV-vis absorption and infrared absorption signatures. Further electron spin resonance studies identify the proton-free electron-trapping state as the lattice octahedral Ti6c3+ species, differing from the traditional proton-participating surface tetrahedral Ti4c3+ species. Synchronized radiation ultraviolet photoelectron spectroscopy results also show that the internal electron-trapping state without protons has a larger Ti3d binding energy (1.8 eV) than the blue electron-trapping state (1.3 eV) that forms when protons participate and thus shows different electron transfer abilities.},
    ISSN = {2399-3669},
    DOI = {10.1038/s42004-019-0191-7},
    url = {https://doi.org/10.1038/s42004-019-0191-7},
@@ -947,6 +1041,16 @@
    volume = {279},
    number = {5350},
    pages = {548-552},
+   note = {Yt527
+Times Cited:8244
+Cited References Count:38},
+   abstract = {Use of amphiphilic triblock copolymers to direct the organization of polymerizing silica species has resulted in the preparation of well-ordered hexagonal mesoporous silica structures (SBA-15) with uniform pore sizes up to approximately 300 angstroms, The SBA-15 materials are synthesized in acidic media to produce highly ordered, two-dimensional hexagonal (space group p6mm) silica-block copolymer mesophases, Calcination at 500 degrees C gives porous structures with unusually large interlattice d spacings of 74.5 to 320 angstroms between the (100) planes, pore sizes from 46 to 300 angstroms, pore volume fractions up to 0.85, and silica wall thicknesses of 31 to 64 angstroms. SBA-15 can be readily prepared over a wide range of uniform pore sizes and pore wall thicknesses at low temperature (35 degrees to 80 degrees C), using a variety of poly(alkylene oxide) triblock copolymers and by the addition of cosolvent organic molecules, The block copolymer species can be recovered for reuse by solvent extraction with ethanol or removed by heating at 140 degrees C for 3 hours, in both cases, yielding a product that is thermally stable in boiling water.},
+   keywords = {molecular-sieves
+mcm-41
+mechanism
+templates
+behavior
+phases},
    ISSN = {0036-8075},
    DOI = {DOI 10.1126/science.279.5350.548},
    url = {<Go to ISI>://WOS:000071616000042},
