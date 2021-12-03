@@ -22,16 +22,19 @@ save_path=fp.replace('txt','bib')
 
 def makeLib(file_path):
     
-    with open(file_path, 'r', encoding='utf8') as f:
+    with open(file_path, 'r', encoding='utf-8-sig') as f:
         content=f.read()
-        content.replace(' & ', ' \& ')
+        
+    #Sonderzeichen
+    content=content.replace(' & ', ' \& ')
+    content=content.replace('\u2009','\u0020')
 
     content=content.split('\n@')
     Lib={}
     for n,v in enumerate(content):  
         if len(v)>5:
             
-            v.lstrip('@')
+            v=v.lstrip('@')
             el=v.splitlines()
             temp={}
 
@@ -61,11 +64,11 @@ def makeLib(file_path):
             
             bibkey=temp['authors'][0][0]+temp['year']
              #replace special characters
-            bibkey=re.sub('-','',bibkey)
             bibkey=re.sub('é','e',bibkey)
+            bibkey=re.sub('á','a',bibkey)
             bibkey=re.sub('ä','a',bibkey)
             bibkey=re.sub('ö','o',bibkey)
-            bibkey=re.sub('ü','u',bibkey)
+            bibkey=re.sub('ü','u',bibkey) 
             
             n=1
             while True:
