@@ -1174,12 +1174,12 @@ Isopropanol},
    type = {Journal Article}
 }
 
-@misc{RN2000,
+@book{RN2000,
    author = {Valeur, B and Berberan-Santos, MN},
    title = {Molecular Fluorescence: Principles and Applications. Wiley-VCH},
    publisher = {Verlag Weinheim, Germany:},
    year = {2002},
-   type = {Generic}
+   type = {Book}
 }
 
 @inbook{RN1997,
