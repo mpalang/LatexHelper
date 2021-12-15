@@ -89,7 +89,7 @@ def makeLib(file_path):
                         bibkey=bibkey+temp['authors'][n][0]+temp['year']
                         n=n+1
                     except:
-                        print(bibkey)
+                        logging.critical(f'There was an error with creating a bibkey for {n}th entry: \n {v}')
                         sys.exit()
                 else:
                     break

@@ -820,7 +820,7 @@ Renewable energy},
 @misc{RN2009,
    author = {Laboratory, National Renewable Energy},
    title = {https://www.nrel.gov/grid/solar-resource/spectra-am1.5.html},
-   pages = {SolSpec},
+   description = {SolSpec},
    note = {Zugegriffen am: 14.12.2021 22:00},
    type = {Web Page}
 }
