@@ -1,4 +1,13 @@
-﻿@article{RN1954,
+﻿@misc{RN2009,
+   title = {https://www.nrel.gov/grid/solar-resource/spectra-am1.5.html},
+   publisher = {National Renewable Energy Laboratory},
+   volume = {2021},
+   number = {14.12.2021},
+   pages = {SolSpec},
+   type = {Web Page}
+}
+
+@article{RN1954,
    author = {Al-Azri, Zakiya H. N. and Chen, Wan-Ting and Chan, Andrew and Jovic, Vedran and Ina, Toshiaki and Idriss, Hicham and Waterhouse, Geoffrey I. N.},
    title = {The roles of metal co-catalysts and reaction media in photocatalytic hydrogen production: Performance evaluation of M/TiO2 photocatalysts (M=Pd, Pt, Au) in different alcohol–water mixtures},
    journal = {Journal of Catalysis},
@@ -136,6 +145,21 @@ Polarity},
    pages = {361-371},
    ISSN = {0034-6748},
    year = {1998},
+   type = {Journal Article}
+}
+
+@article{RN585,
+   author = {Batzill, Matthias},
+   title = {Fundamental aspects of surface engineering of transition metal oxide photocatalysts},
+   journal = {Energy & Environmental Science},
+   volume = {4},
+   number = {9},
+   pages = {3275-3286},
+   abstract = {Many metal oxide photocatalysts exhibit strong variations in their photocatalytic activities as a function of their crystallographic surface orientation. In this Perspective possible fundamental reasons for the surface dependent photocatalytic properties are discussed. The majority of the data imply that the differing surface activities for photo-oxidation and -reduction reactions are mainly a consequence of electron and hole diffusion towards different surfaces. This is either due to directional charge carrier diffusion as a result of bulk anisotropies or it is a consequence of differing band bending (or flat band potentials) at the interface of the photocatalyst with its environment. Although the fundamental reason for the surface electronic structure must lie in the surface structure, no correlation between surface chemical properties and photochemical properties has yet been unambiguously determined. The importance of surface charge separation and charge trapping at the surface leads to new concepts for engineering surface properties with potentially increased photocatalytic activity. Consequently, enhancement can be achieved by synthesizing photocatalyst powders that expose surfaces with 'naturally' higher photoactivity; or in a proposed approach by modifying surfaces selectively with special surface phases or monolayer heterostructures that enhance charge separation at the surface. In addition, special surface phases with a narrowed band gap may enable visible light activity of otherwise only UV active bulk materials.},
+   ISSN = {1754-5692},
+   DOI = {10.1039/C1EE01577J},
+   url = {http://dx.doi.org/10.1039/C1EE01577J},
+   year = {2011},
    type = {Journal Article}
 }
 
@@ -491,6 +515,32 @@ X-ray absorption (XANES and EXAFS)},
    DOI = {https://doi.org/10.1016/0039-6028(69)90269-6},
    url = {http://www.sciencedirect.com/science/article/pii/0039602869902696},
    year = {1969},
+   type = {Journal Article}
+}
+
+@article{RN583,
+   author = {Gong, Huihua and Cao, Yue and Zhang, Yifeng and Zhang, Yu and Liu, Kewei and Cao, Hongmei and Yan, Hongjian},
+   title = {The synergetic effect of dual co-catalysts on the photocatalytic activity of square-like WO3 with different exposed facets},
+   journal = {RSC Advances},
+   volume = {7},
+   number = {31},
+   pages = {19019-19025},
+   abstract = {Here we report the controlled selective deposition of Pt and PbOx dual-cocatalysts on the edged (200) and (020) facets and the main (002) facets of square-like WO3 nanoplates, respectively. The remarkably enhanced photocatalytic activities were observed for such assembled photocatalysts in photocatalytic water oxidation. The superior performance can be attributed to not only the light-induced preferential flow of photogenerated electrons and holes onto different facets of the square-like WO3, thus leading to the reduction and oxidation reactions taking place on the corresponding edged and major top facets, but also the selective deposition of suitable oxidation and reduction cocatalysts onto the needed facets of square-like WO3 to reduce the charge recombination and catalyze the redox reactions. These findings will be promising and intriguing for designing high efficiency WO3 system for visible light water splitting.},
+   DOI = {10.1039/C7RA01149K},
+   url = {http://dx.doi.org/10.1039/C7RA01149K},
+   year = {2017},
+   type = {Journal Article}
+}
+
+@article{RN576,
+   author = {Greiner, Mark T. and Lu, Zheng-Hong},
+   title = {Thin-film metal oxides in organic semiconductor devices: their electronic structures, work functions and interfaces},
+   journal = {Npg Asia Materials},
+   volume = {5},
+   pages = {e55},
+   DOI = {10.1038/am.2013.29},
+   url = {http://dx.doi.org/10.1038/am.2013.29},
+   year = {2013},
    type = {Journal Article}
 }
 
@@ -981,6 +1031,20 @@ Ti/SBA-15},
    type = {Journal Article}
 }
 
+@article{RN1998,
+   author = {Osterloh, Frank E.},
+   title = {Photocatalysis versus Photosynthesis: A Sensitivity Analysis of Devices for Solar Energy Conversion and Chemical Transformations},
+   journal = {ACS Energy Letters},
+   volume = {2},
+   number = {2},
+   pages = {445-453},
+   note = {doi: 10.1021/acsenergylett.6b00665},
+   DOI = {10.1021/acsenergylett.6b00665},
+   url = {https://doi.org/10.1021/acsenergylett.6b00665},
+   year = {2017},
+   type = {Journal Article}
+}
+
 @article{RN1884,
    author = {Peng, Haowei and Li, Jingbo and Li, Shu-Shen and Xia, Jian-Bai},
    title = {First-principles study of the electronic structures and magnetic properties of 3d transition metal-doped anatase TiO2},
@@ -1054,6 +1118,24 @@ Ti/SBA-15},
    DOI = {10.1155/S1110662X02000144},
    url = {https://doi.org/10.1155/S1110662X02000144},
    year = {2002},
+   type = {Journal Article}
+}
+
+@article{RN589,
+   author = {Shen, Tina F. R. and Lai, Ming-Hong and Yang, Thomas C. K. and Fu, I. Ping and Liang, Nai-Yun and Chen, Wen-Tung},
+   title = {Photocatalytic production of hydrogen by vanadium oxides under visible light irradiation},
+   journal = {Journal of the Taiwan Institute of Chemical Engineers},
+   volume = {43},
+   number = {1},
+   pages = {95-101},
+   abstract = {Hydrogen has long been regarded as one of promising candidates for a new energy carrier. In particular, water-splitting by photoelectrolysis was verified to be a unique route for hydrogen production, since there are the abundance of the water and light around the world. Semiconductor metal oxides such as TiO2, Ta3N5, and Ag3VO4 are often treated as the photocatalysts for light-induced photo-oxidation of water. In this work, various kinds of vanadium oxides, V6O13, VO2(B), VO2(M), and V2O5 were examined their activity of hydrogen-production. From the results of cyclic voltammogram and the UV–vis spectra, the potential band structure for each sample was constructed. As a consequence, the relative NHE potential was achieved, and all the vanadium oxides prepared in this study were qualified as the visible-light-responsive photocatalysts for hydrogen production. The accumulative amount of hydrogen-production within 4h illumination increased in the order of V6O13>VO2(M)>V2O5>VO2(B).},
+   keywords = {Vanadium oxide
+Visible-light driven photocatalyst
+Hydrogen production},
+   ISSN = {1876-1070},
+   DOI = {https://doi.org/10.1016/j.jtice.2011.06.004},
+   url = {http://www.sciencedirect.com/science/article/pii/S1876107011000630},
+   year = {2012},
    type = {Journal Article}
 }
 
