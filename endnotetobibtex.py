@@ -11,7 +11,15 @@ import os
 import sys
 import pathlib
 from pathlib import Path
-#import logging
+import logging
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s [%(levelname)s] %(message)s",
+    handlers=[
+        #logging.FileHandler("Logging.log"),
+        logging.StreamHandler(sys.stdout)
+    ])
+
 
 #%%
  
@@ -45,33 +53,39 @@ def makeLib(file_path):
             try:
                     temp['type']
             except:
-                    #logging.critical(f'{n}th element has no type:\n {v}')
+                    logging.critical(f'{n}th element has no type:\n {v}')
                     sys.exit()
 
-            TypeList=['Journal Article','Book','Book Section']
-            if temp['type'] in TypeList:
+            DefaultTypes=['Journal Article','Book','Book Section']
+            if temp['type'] in DefaultTypes:
                 for i in lines:
                     if 'author' in i:
                         temp['authors']=re.split('{|}', i)[1].split(' and ')
                         temp['authors']=[re.split(', ',j) for j in temp['authors']]
                     elif 'year' in i:
                         temp['year']=re.split('{|}', i)[1]
-                        
+                bibkey=temp['authors'][0][0]+temp['year']
+                
+            elif temp['type'] == 'Web Page':
+                for i in lines:
+                    if 'description' in i:
+                        bibkey='Web_'+re.split('{|}', i)[1]
             else:
-                #logging.critical(f'Literaturetype {temp['type']} not known.')
+                logging.critical(f"Literaturetype {temp['type']} not known.")
                 sys.exit()
             
             # create Bibkey for .bib and check if same name exists already    
             
-            bibkey=temp['authors'][0][0]+temp['year']
+            
              #replace special characters
             bibkey=re.sub('é','e',bibkey)
             bibkey=re.sub('á','a',bibkey)
             bibkey=re.sub('ä','a',bibkey)
             bibkey=re.sub('ö','o',bibkey)
             bibkey=re.sub('ü','u',bibkey)
-            bibkey=re.sub('-','',bibkey)  
-            
+            bibkey=re.sub('-','',bibkey) 
+            bibkey=re.sub(' ','',bibkey)
+            logging.debug(bibkey)
             n=1
             while True:
                 if bibkey in Lib.keys():
@@ -97,6 +111,7 @@ def makeLib(file_path):
             contTemp='\n'.join(lines) 
             if '@@' in contTemp:
                 contTemp.replace('@@','@')
+            #contTemp.replace('inbook','incollection')   
             Lib[bibkey]=contTemp
 
     return Lib
@@ -110,5 +125,6 @@ def writeBib(save_path,Lib):
  
 Lib=makeLib(fp)
 
-print(f'{len(Lib)} References converted')
+logging.info(f'{len(Lib)} References converted')
 writeBib(save_path,Lib)
+logging.info('Library saved to {}.'.format(Path(os.getcwd(),save_path)))

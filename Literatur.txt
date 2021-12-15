@@ -1,9 +1,9 @@
 ﻿@misc{RN2009,
-   title = {https://www.nrel.gov/grid/solar-resource/spectra-am1.5.html},
+   URL = {https://www.nrel.gov/grid/solar-resource/spectra-am1.5.html},
    publisher = {National Renewable Energy Laboratory},
-   volume = {2021},
-   number = {14.12.2021},
-   pages = {SolSpec},
+   year = {2021},
+   date = {14.12.2021},
+   description = {SolSpec},
    type = {Web Page}
 }
 
