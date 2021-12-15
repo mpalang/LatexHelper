@@ -1,13 +1,4 @@
-﻿@misc{RN2009,
-   URL = {https://www.nrel.gov/grid/solar-resource/spectra-am1.5.html},
-   publisher = {National Renewable Energy Laboratory},
-   year = {2021},
-   date = {14.12.2021},
-   description = {SolSpec},
-   type = {Web Page}
-}
-
-@article{RN1954,
+﻿@article{RN1954,
    author = {Al-Azri, Zakiya H. N. and Chen, Wan-Ting and Chan, Andrew and Jovic, Vedran and Ina, Toshiaki and Idriss, Hicham and Waterhouse, Geoffrey I. N.},
    title = {The roles of metal co-catalysts and reaction media in photocatalytic hydrogen production: Performance evaluation of M/TiO2 photocatalysts (M=Pd, Pt, Au) in different alcohol–water mixtures},
    journal = {Journal of Catalysis},
@@ -826,6 +817,14 @@ Renewable energy},
    type = {Book}
 }
 
+@misc{RN2009,
+   author = {Laboratory, National Renewable Energy},
+   title = {https://www.nrel.gov/grid/solar-resource/spectra-am1.5.html},
+   pages = {SolSpec},
+   note = {Zugegriffen am: 14.12.2021 22:00},
+   type = {Web Page}
+}
+
 @article{RN1862,
    author = {Lang, Moritz and Klahn, Marcus and Strunk, Jennifer},
    title = {Photophysical and Catalytic Properties of Silica Supported Early Transition Metal Oxides Relevant for Photocatalytic Applications},
@@ -1436,6 +1435,21 @@ Macrokinetic analysis},
    DOI = {10.1039/A904886C},
    url = {http://dx.doi.org/10.1039/A904886C},
    year = {1999},
+   type = {Journal Article}
+}
+
+@article{RN1852,
+   author = {Zhao, Dongyuan and Huo, Qisheng and Feng, Jianglin and Chmelka, Bradley F. and Stucky, Galen D.},
+   title = {Nonionic Triblock and Star Diblock Copolymer and Oligomeric Surfactant Syntheses of Highly Ordered, Hydrothermally Stable, Mesoporous Silica Structures},
+   journal = {Journal of the American Chemical Society},
+   volume = {120},
+   number = {24},
+   pages = {6024-6036},
+   abstract = {A family of highly ordered mesoporous (20−300 Å) silica structures have been synthesized by the use of commercially available nonionic alkyl poly(ethylene oxide) (PEO) oligomeric surfactants and poly(alkylene oxide) block copolymers in acid media. Periodic arrangements of mescoscopically ordered pores with cubic Im3̄m, cubic Pm3̄m (or others), 3-d hexagonal (P63/mmc), 2-d hexagonal (p6mm), and lamellar (Lα) symmetries have been prepared. Under acidic conditions at room temperature, the nonionic oligomeric surfactants frequently form cubic or 3-d hexagonal mesoporous silica structures, while the nonionic triblock copolymers tend to form hexagonal (p6mm) mesoporous silica structures. A cubic mesoporous silica structure (SBA-11) with Pm3̄m diffraction symmetry has been synthesized in the presence of C16H33(OCH2CH2)10OH (C16EO10) surfactant species, while a 3-d hexagonal (P63/mmc) mesoporous silica structure (SBA-12) results when C18EO10 is used. Surfactants with short EO segments tend to form lamellar mesostructured silica at room temperature. Hexagonal mesoporous silica structures with d(100) spacings of 64−77 Å can be synthesized at 100 °C by using oligomeric nonionic surfactants. Highly ordered hexagonal mesoporous silica structures (SBA-15) with unusually large d(100) spacings of 104−320 Å have been synthesized in the presence of triblock poly(ethylene oxide)−poly(propylene oxide)−poly(ethylene oxide) (PEO−PPO−PEO) copolymers. SBA-15 mesoporous structures have been prepared with BET surface areas of 690−1040 m2/g, pore sizes of 46−300 Å, silica wall thicknesses of 31−64 Å, and pore volumes as large as 2.5 cm3/g. A novel cubic (Im3̄m) cage-structured mesoporous silica structure (SBA-16) with a large cell parameter (a = 176 Å) has been synthesized using triblock copolymers with large PEO segments. The EO/PO ratio of the copolymers can be used to control the formation of the silica mesophase:  lowering this ratio of the triblock copolymer moieties promotes the formation of lamellar mesostructured silica, while higher ratios favor cubic mesostructured silica. Cubic mesoporous structures are also obtained when star diblock copolymers are used as structure-directing agents. The calcined ordered mesoporous silicas reported in this paper are thermally stable in boiling water for at least 48 h. The assembly of the inorganic and organic periodic composite materials appears to take place by a hydrogen bonding (S0 H+)(X-I+) pathway. The assembly rate r increases with increasing concentration of [H+] and [Cl-], according to the kinetic expression r = k[H+]0.31[Cl-]0.31.},
+   ISSN = {0002-7863},
+   DOI = {10.1021/ja974025i},
+   url = {https://doi.org/10.1021/ja974025i},
+   year = {1998},
    type = {Journal Article}
 }
 
