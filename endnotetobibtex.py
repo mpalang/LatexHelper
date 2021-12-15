@@ -70,6 +70,8 @@ def makeLib(file_path):
                 for i in lines:
                     if 'description' in i:
                         bibkey='Web_'+re.split('{|}', i)[1]
+                    if 'title' in i:
+                        i.replace('title','howpublished')
             else:
                 logging.critical(f"Literaturetype {temp['type']} not known.")
                 sys.exit()
