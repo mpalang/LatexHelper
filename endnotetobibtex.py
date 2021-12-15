@@ -69,7 +69,7 @@ def makeLib(file_path):
                     if 'title' in i:
                         i.replace('title','howpublished')
             else:
-                logging.critical(f"Literaturetype {temp['type']} not known.")
+                logging.critical(f"Literaturetype {temp['type']} of {n}th element not known: \n {v}")
                 sys.exit()
                         
             #replace special characters in Bibkey and check if already exists. If yes add second author to Bibkey and so on...
