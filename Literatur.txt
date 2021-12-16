@@ -139,6 +139,16 @@ Polarity},
    type = {Journal Article}
 }
 
+@article{RN2011,
+   author = {Barrett, EP and Joyner, LG and Halenda, PP},
+   title = {Study of pore size distribution by capillary absorption method},
+   journal = {J. Am. Chem. Soc},
+   volume = {73},
+   pages = {373-380},
+   year = {1951},
+   type = {Journal Article}
+}
+
 @article{RN585,
    author = {Batzill, Matthias},
    title = {Fundamental aspects of surface engineering of transition metal oxide photocatalysts},
@@ -230,6 +240,18 @@ Phenylacetylene},
    type = {Journal Article}
 }
 
+@article{RN2012,
+   author = {Brunauer, Stephen and Emmett, Paul Hugh and Teller, Edward},
+   title = {Adsorption of gases in multimolecular layers},
+   journal = {Journal of the American chemical society},
+   volume = {60},
+   number = {2},
+   pages = {309-319},
+   ISSN = {0002-7863},
+   year = {1938},
+   type = {Journal Article}
+}
+
 @book{RN1973,
    author = {Calvin, Scott},
    title = {XAFS for Everyone},
@@ -281,12 +303,46 @@ Phenylacetylene},
    type = {Journal Article}
 }
 
+@article{RN2013,
+   author = {Cozzolino, M. and Di Serio, M. and Tesser, R. and Santacesaria, E.},
+   title = {Grafting of titanium alkoxides on high-surface SiO2 support: An advanced technique for the preparation of nanostructured TiO2/SiO2 catalysts},
+   journal = {Applied Catalysis A: General},
+   volume = {325},
+   number = {2},
+   pages = {256-262},
+   abstract = {The present paper reports and discusses results on the preparation, characterization and catalytic performances of silica-supported titania (TiO2/SiO2) catalysts. Samples were prepared by grafting titanium tetraisopropoxide (Ti-OPri)4, dissolved in toluene, onto a silica surface in an N2 atmosphere, followed by steam hydrolysis and calcination. The samples were characterized by chemical analysis, BET surface area measurements, X-ray diffraction (XRD), DR–UV–vis, FTIR and DRIFT spectroscopy analyses, TEM/EDX and NH3-TPD. The results indicated that the grafting preparation method gives rise to very strong Si–O–Ti bonds, that are responsible for high titanium dispersion. In particular, at low Ti loading, titanium species in tetrahedric coordination resulted prevalent on the catalyst surface until the maximum surface monolayer coating reached (∼2.2Ti atoms/nm2). The degree of polymerization of Ti species increases with further TiO2 load increases, giving rise to a large amount of octahedrical Ti-sites grafted on SiO2. The effects on the catalytic activity of TiO2/SiO2 catalysts with increasing quantities of TiO2 were also investigated. The catalytic results obtained in the epoxidation reaction of cyclooctene with cumene hydroperoxide showed the significant effect of titanium loading on the physicochemical and reactivity/selectivity properties of the silica-supported titania catalysts.},
+   keywords = {Supported titanium oxide
+Liquid-phase grafting preparation technique
+TiO dispersion
+Epoxidation reaction},
+   ISSN = {0926-860X},
+   DOI = {https://doi.org/10.1016/j.apcata.2007.02.032},
+   url = {https://www.sciencedirect.com/science/article/pii/S0926860X07001433},
+   year = {2007},
+   type = {Journal Article}
+}
+
 @book{RN1892,
    author = {Dau, Holger and Kurz, Philipp and Weitze, Marc-Denis},
    title = {Künstliche Photosynthese},
    publisher = {Springer},
    year = {2019},
    type = {Book}
+}
+
+@article{RN2014,
+   author = {Davis, E. A. and Mott, N. F.},
+   title = {Conduction in non-crystalline systems V. Conductivity, optical absorption and photoconductivity in amorphous semiconductors},
+   journal = {The Philosophical Magazine: A Journal of Theoretical Experimental and Applied Physics},
+   volume = {22},
+   number = {179},
+   pages = {0903-0922},
+   note = {doi: 10.1080/14786437008221061},
+   ISSN = {0031-8086},
+   DOI = {10.1080/14786437008221061},
+   url = {https://doi.org/10.1080/14786437008221061},
+   year = {1970},
+   type = {Journal Article}
 }
 
 @article{RN497,
@@ -746,6 +802,24 @@ Renewable energy},
    type = {Book}
 }
 
+@article{RN2016,
+   author = {Korzeniowska, Aleksandra and Strzempek, Weronika and Makowski, Wacław and Menaszek, Elżbieta and Roth, Wieslaw J. and Gil, Barbara},
+   title = {Incorporation and release of a model drug, ciprofloxacin, from non-modified SBA-15 molecular sieves with different pore sizes},
+   journal = {Microporous and Mesoporous Materials},
+   volume = {294},
+   pages = {109903},
+   abstract = {Mesoporous SBA-15 materials with unmodified surface and different pore sizes between 4.4 and 7.1 nm were examined as carriers of ciprofloxacin, a class IV BCS drug with low aqueous solubility and permeability, to increase its bioavailability. The highest ciprofloxacin loading, 18% wt., was observed with the SBA-15 with the intermediate pore size, 6.7 nm. Release profiles of the drug to the aqueous media showed that in all cases solubility of the drug was significantly increased (more than 10-fold improvement). Such enhancement in the solubility of ciprofloxacin can be explained on the basis of favorable particle chemical formula in the composite, with protonated carboxylic group, in an addition to the drug amorphization, as suggested by the XRD profiles. SBA-15 with the largest pores and intermediate ciprofloxacin content (13%) showed the slowest release rate, suggesting that type of interaction between adsorbed drug and the carrier is the most important factor governing the release rate. Toxicity and viability tests were carried out and showed that unmodified SBA-15 at moderate concentrations can be used as a safe carrier, not influencing the proliferation and metabolic activity of the cells.},
+   keywords = {SBA-15 drug carrier
+Ciprofloxacin
+Toxicity
+Sustained release},
+   ISSN = {1387-1811},
+   DOI = {https://doi.org/10.1016/j.micromeso.2019.109903},
+   url = {https://www.sciencedirect.com/science/article/pii/S1387181119307620},
+   year = {2020},
+   type = {Journal Article}
+}
+
 @article{RN1993,
    author = {Králik, Milan},
    title = {Adsorption, chemisorption, and catalysis},
@@ -820,7 +894,7 @@ Renewable energy},
 @misc{RN2009,
    author = {Laboratory, National Renewable Energy},
    title = {https://www.nrel.gov/grid/solar-resource/spectra-am1.5.html},
-   description = {SolSpec},
+   pages = {SolSpec},
    note = {Zugegriffen am: 14.12.2021 22:00},
    type = {Web Page}
 }
@@ -1027,6 +1101,22 @@ Ti/SBA-15},
    DOI = {10.1021/acs.jpcc.5b10317},
    url = {https://doi.org/10.1021/acs.jpcc.5b10317},
    year = {2016},
+   type = {Journal Article}
+}
+
+@article{RN2015,
+   author = {Oh, Seung-Lim and Choi, Kyong-Hoon and Im, Ji-Eun and Wang, Kang-Kyun and Yaung, Hae-Yong and Kim, Kyungkon and Kim, Yong-Rok},
+   title = {Fabrication of mesoporous titania membrane of dual-pore system and its photocatalytic activity and dye-sensitized solar cell performance},
+   journal = {Nanotechnology},
+   volume = {22},
+   number = {27},
+   pages = {275309},
+   abstract = {We report the fabrication of a novel titania membrane of the dual-pore system that is strategically designed and prepared by a two-step replication process and sol–gel reaction. The primary nanoporous channel structure is fabricated by the cage-like PMMA template (CPT) obtained from the nanoporous alumina membrane and the secondary mesoporous structure is formed by the sol–gel reaction of the lyotropic precursor solution within the CPT. Furthermore the mesoporous titania membrane (MTM) frame consists of the titania nanoparticles of 10–12 nm in diameter. Morphology and structural properties of the MTM are investigated by field emission scanning electron microscopy, high resolution transmission electron microscopy, x-ray diffraction and Brunauer–Emmett–Teller surface area. The photocatalytic activity and the solar energy properties of the MTM are characterized by UV–vis spectrophotometer, spectrofluorometer and photoinduced I–V measurement. The photocatalytic test indicates that the MTM has higher efficiency than the commercial P25 with a good recyclability due to its large-scale membrane style and the preliminary result on the solar cell application shows a solar energy conversion efficiency of 3.35% for the dye-sensitized solar cell utilizing the MTM.},
+   ISSN = {0957-4484
+1361-6528},
+   DOI = {10.1088/0957-4484/22/27/275309},
+   url = {http://dx.doi.org/10.1088/0957-4484/22/27/275309},
+   year = {2011},
    type = {Journal Article}
 }
 
