@@ -13,12 +13,13 @@ import pathlib
 from pathlib import Path
 import logging
 logging.basicConfig(
-    level=logging.INFO,
+    level=logging.ERROR,
     format="%(asctime)s [%(levelname)s] %(message)s",
     handlers=[
-        #logging.FileHandler("Logging.log"),
+        logging.FileHandler("Logging.log"),
         logging.StreamHandler(sys.stdout)
     ])
+
 
 #%%
 fp='Literatur.txt'
@@ -66,8 +67,11 @@ def makeLib(file_path):
                 for i in lines:
                     if 'description' in i:
                         bibkey='Web_'+re.split('{|}', i)[1]
+                    if 'pages' in i:
+                        bibkey='Web_'+re.split('{|}', i)[1]
+                        i=i.replace('pages','description')
                     if 'title' in i:
-                        i.replace('title','howpublished')
+                        i=i.replace('title','howpublished')
             else:
                 logging.critical(f"Literaturetype {temp['type']} of {n}th element not known: \n {v}")
                 sys.exit()
@@ -107,7 +111,9 @@ def makeLib(file_path):
             contTemp='\n'.join(lines) 
             if '@@' in contTemp:
                 contTemp.replace('@@','@')
-            #contTemp.replace('inbook','incollection')   
+            
+            #Final Adjustments:
+            contTemp=contTemp.replace('inbook','incollection')   
             
             Lib[bibkey]=contTemp
 
