@@ -322,6 +322,21 @@ Epoxidation reaction},
    type = {Journal Article}
 }
 
+@article{RN2018,
+   author = {Cunningham, Joseph and Hodnett, Benjamin K.},
+   title = {Kinetic studies of secondary alcohol photo-oxidation on ZnO and TiO2 at 348 K studied by gas-chromatographic analysis},
+   journal = {Journal of the Chemical Society, Faraday Transactions 1: Physical Chemistry in Condensed Phases},
+   volume = {77},
+   number = {11},
+   pages = {2777-2801},
+   abstract = {Kinetics of conversion of propan-2-ol and butan-2-ol to the corresponding ketones by photoassisted dehydrogenation, (–H)*, to lower aldehydes by a photoassisted C—C bond cleavage process, (–)*, and to trace quantities of alkene by photoassisted dehydration (–HO)* have been investigated at oxygen partial pressures in the range 0–700 Torr and at alcohol partial pressures of 0–60 Torr, utilising dynamic flow photoreactors and gas-chromatographic analysis. Qualitatively similar results were obtained either with a ‘continuous reactant flow plus continuous u.v. illumination’ procedure allied to intermittent sampling, or with ‘pulsed reactant and analysis’ procedure. Both procedures yielded dependence upon alcohol pressure indicative of two parallel photoassisted pathways to (–H)* product, one being Langmuir–Hinshelwood (LH*) and the other Eley–Rideal (ER*) in character. A decline in activity of the metal oxide surfaces as photoassisted conversion of alcohol increased was observed with both procedures and affected the LH* process for (–H)* more strongly. It is proposed that this LH* process involved alcohol chemisorption and hole localisation at coordinatively unsaturated O ions. The ER* process is envisaged to have involved encounter of alcohol (from the gas phase or from a reversibly adsorbed weakly bound state) with a much more numerous type of surface location capable of being photoactivated by hole capture. The proposed mechanisms account for observed dependences of the (–H)* process upon square root of the incident light intensity, upon alcohol pressure and upon oxygen pressure.},
+   ISSN = {0300-9599},
+   DOI = {10.1039/F19817702777},
+   url = {http://dx.doi.org/10.1039/F19817702777},
+   year = {1981},
+   type = {Journal Article}
+}
+
 @book{RN1892,
    author = {Dau, Holger and Kurz, Philipp and Weitze, Marc-Denis},
    title = {Künstliche Photosynthese},
@@ -1016,6 +1031,24 @@ Acetaldehyde},
    pages = {7626-7631},
    ISSN = {0022-3654},
    year = {1995},
+   type = {Journal Article}
+}
+
+@article{RN331,
+   author = {Lüken, Alexander and Muhler, Martin and Strunk, Jennifer},
+   title = {On the role of gold nanoparticles in the selective photooxidation of 2-propanol over Au/TiO2},
+   journal = {Physical chemistry chemical physics : PCCP},
+   volume = {17},
+   number = {16},
+   pages = {10391–10397},
+   note = {Journal Article},
+   abstract = {The gas-phase photooxidation of 2-propanol over Au/TiO2 and TiO2 was studied by infrared spectroscopy and online mass spectrometry to gain insight into the mechanism and the role of gold. The presence of O2 was found to be essential for the formation of acetone under UV irradiation at room temperature. In the presence of gold nanoparticles the rate of acetone formation was increased compared to pure TiO2. Baseline bending in the ATR-IR spectra was used as a tool to monitor the accumulation of excess electrons. Electron accumulation was absent in the presence of gold and O2 suggesting that the gold nanoparticles act as co-catalysts enhancing the rate of electron transfer from TiO2 to adsorbed O2 species.},
+   keywords = {Alcohol-Ox.
+Au/TiO2
+infrared analysis},
+   ISSN = {1463-9076},
+   DOI = {10.1039/c4cp05423g},
+   year = {2015},
    type = {Journal Article}
 }
 
