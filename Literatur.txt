@@ -890,6 +890,21 @@ Sustained release},
    type = {Journal Article}
 }
 
+@article{RN2020,
+   author = {Kumar, D. and Merline Shyla, J. and Xavier, Francis P.},
+   title = {Synthesis and characterization of TiO2/SiO2 nano composites for solar cell applications},
+   journal = {Applied Nanoscience},
+   volume = {2},
+   number = {4},
+   pages = {429-436},
+   abstract = {The use of titania–silica in photocatalytic process has been proposed as an alternative to the conventional TiO2 catalysts. Mesoporous materials have been of great interest as catalysts because of their unique textural and structural properties. Mesoporous TiO2, SiO2 nanoparticles and TiO2/SiO2 nanocomposites were successfully synthesized by sol–gel method using titanium (IV) isopropoxide, tetra-ethylorthosilicate as starting materials. The synthesized samples are characterized by X-ray diffraction, UV–Vis spectroscopy, Fourier transform infrared spectroscopy, Brunauett–Emmett–Teller and field-dependent photoconductivity. The UV–Vis spectrum of as-synthesized samples shows similar absorption in the visible range. The crystallite size of the as-synthesized samples was calculated by Scherrer’s formula. The BET surface area for TiO2/SiO2 nanocomposite is found to be 303 m2/g and pore size distribution has average pore diameter about 10 nm. It also confirms the absence of macropores and the presence of micro and mesopores. The field-dependent photoconductivity of TiO2/SiO2 nanocomposite shows nearly 300 folds more than that of TiO2 nanoparticle for a field of 800 V/cm.},
+   ISSN = {2190-5517},
+   DOI = {10.1007/s13204-012-0060-5},
+   url = {https://doi.org/10.1007/s13204-012-0060-5},
+   year = {2012},
+   type = {Journal Article}
+}
+
 @book{RN1889,
    author = {Kurzweil, Peter},
    title = {Chemie : Grundlagen, technische Anwendungen, Rohstoffe, Analytik und Experimente},
@@ -1341,6 +1356,21 @@ Reaction mechanism},
    DOI = {10.1021/es970860o},
    url = {https://doi.org/10.1021/es970860o},
    year = {1998},
+   type = {Journal Article}
+}
+
+@article{RN2021,
+   author = {Szczepankiewicz, Steven H. and Moss, John A. and Hoffmann, Michael R.},
+   title = {Slow Surface Charge Trapping Kinetics on Irradiated TiO2},
+   journal = {The Journal of Physical Chemistry B},
+   volume = {106},
+   number = {11},
+   pages = {2922-2927},
+   note = {doi: 10.1021/jp004244h},
+   ISSN = {1520-6106},
+   DOI = {10.1021/jp004244h},
+   url = {https://doi.org/10.1021/jp004244h},
+   year = {2002},
    type = {Journal Article}
 }
 
