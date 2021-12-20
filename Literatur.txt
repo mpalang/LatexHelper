@@ -1445,6 +1445,21 @@ Reaction mechanism},
    type = {Journal Article}
 }
 
+@article{RN485,
+   author = {Tamaki, Yoshiaki and Furube, Akihiro and Murai, Miki and Hara, Kohjiro and Katoh, Ryuzi and Tachiya, M.},
+   title = {Dynamics of efficient electron-hole separation in TiO2 nanoparticles revealed by femtosecond transient absorption spectroscopy under the weak-excitation condition},
+   journal = {Physical Chemistry Chemical Physics},
+   volume = {9},
+   number = {12},
+   pages = {1453-1460},
+   abstract = {The transient absorption of nanocrystalline TiO2 films in the visible and IR wavelength regions was measured under the weak-excitation condition, where the second-order electron-hole recombination process can be ignored. The intrinsic dynamics of the electron-hole pairs in the femtosecond to picosecond time range was elucidated. Surface-trapped electrons and surface-trapped holes were generated within [similar]200 fs (time resolution). Surface-trapped electrons, which gave an absorption peak at around 800 nm, and bulk electrons, which absorbed in the IR wavelength region, decayed with a 500-ps time constant due to relaxation into deep bulk trapping sites. It is already known that, after this relaxation, electrons and holes survive for microseconds. We interpreted these long lifetimes in terms of the prompt spatial charge separation of electrons in the bulk and holes at the surface.},
+   ISSN = {1463-9076},
+   DOI = {10.1039/B617552J},
+   url = {http://dx.doi.org/10.1039/B617552J},
+   year = {2007},
+   type = {Journal Article}
+}
+
 @article{RN1908,
    author = {Tasbihi, Minoo and Štangar, Urška Lavrenčič and Škapin, Andrijana Sever and Ristić, Alenka and Kaučič, Venčeslav and Tušar, Nataša Novak},
    title = {Titania-containing mesoporous silica powders: Structural properties and photocatalytic activity towards isopropanol degradation},
