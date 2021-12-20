@@ -173,6 +173,16 @@ Polarity},
    type = {Book}
 }
 
+@article{RN2024,
+   author = {Beer, August},
+   title = {Bestimmung der Absorption des rothen Lichts in farbigen Flüssigkeiten},
+   journal = {Ann. Physik},
+   volume = {162},
+   pages = {78-88},
+   year = {1852},
+   type = {Journal Article}
+}
+
 @article{RN1896,
    author = {Bérubé, François and Nohair, Bendaoud and Kleitz, Freddy and Kaliaguine, Serge},
    title = {Controlled Postgrafting of Titanium Chelates for Improved Synthesis of Ti-SBA-15 Epoxidation Catalysts},
@@ -226,6 +236,14 @@ Phenylacetylene},
    ISBN = {0471123595},
    year = {1998},
    type = {Book Section}
+}
+
+@book{RN2022,
+   author = {Bouguer, Pierre},
+   title = {Traité d'optique sur la gradation de la lumiere: ouvrage posthume de m. Bouguer,... Et publié par m. l'abbé De la Caille,... Pour servir de suite aux Mémoires de l'Académie royale des Sciences},
+   publisher = {HL Guerin & LF Delatour},
+   year = {1760},
+   type = {Book}
 }
 
 @article{RN397,
@@ -451,6 +469,52 @@ X-ray absorption (XANES and EXAFS)},
    DOI = {10.1103/PhysRevB.56.1809},
    url = {https://link.aps.org/doi/10.1103/PhysRevB.56.1809},
    year = {1997},
+   type = {Journal Article}
+}
+
+@article{RN1946,
+   author = {Feng, Yuan and Vinogradov, Ilya and Ge, Nien-Hui},
+   title = {General noise suppression scheme with reference detection in heterodyne nonlinear spectroscopy},
+   journal = {Optics Express},
+   volume = {25},
+   number = {21},
+   pages = {26262-26279},
+   abstract = {We devised a novel two-step reference scheme that can greatly suppress the additive and convolutional noises in heterodyne nonlinear spectroscopy. To optimally remove additive noise, we fully utilized the spectral correlation in multi-channel reference data through a linear combination and regression algorithm. Using our pump-probe 2D IR spectrometer, we demonstrated that our scheme can improve the signal-to-noise ratio by 10-30 times and reach the noise floor of the signal detector. The new algorithm is guaranteed to reduce noise, enables the use of unmatched reference detectors, and does not introduce baseline shift or signal distortion. This scheme is applicable to many heterodyne spectroscopic techniques.},
+   keywords = {Arrays
+Optical design of instruments
+Spectroscopy, heterodyne
+Spectroscopy, infrared
+Spectroscopy, nonlinear
+Spectroscopy, ultrafast
+Detector arrays
+Heterodyne detection
+Heterodyne spectroscopy
+Light sources
+Raman scattering
+Wire grid polarizers},
+   DOI = {10.1364/OE.25.026262},
+   url = {http://www.osapublishing.org/oe/abstract.cfm?URI=oe-25-21-26262},
+   year = {2017},
+   type = {Journal Article}
+}
+
+@article{RN1947,
+   author = {Feng, Yuan and Vinogradov, Ilya and Ge, Nien-Hui},
+   title = {Optimized noise reduction scheme for heterodyne spectroscopy using array detectors},
+   journal = {Optics Express},
+   volume = {27},
+   number = {15},
+   pages = {20323-20346},
+   abstract = {In this work, we optimize and further advance a noise reduction scheme for heterodyne spectroscopy. This scheme linearly combines data from reference detectors to predict the noise statistics in the signal detector through an optimized coefficient matrix. We validate this scheme for visible white-light-continuum and 800-nm light sources using un-matched CMOS arrays and show that the signal-to-noise ratio can approach the noise floor of the signal detector while using only ~5% of the energy for reference detection. We also optimize the strategy for estimating the coefficient matrix in practical applications. When combined with elaborate algorithms to perform pixel data compression and expansion, our scheme is applicable in difficult situations, including when the sample position is rapidly scanned, when detectors exhibit nonlinear response, and/or when laser fluctuations are large. The scheme is generalized to scenarios with complex chopping or phase cycling patterns, and a simple approach is provided for the chopping case. Finally, a robust and computationally efficient method is devised to remove multiplicative noise.},
+   keywords = {Detector arrays
+Heterodyne spectroscopy
+Hyperspectral imaging
+Noise reduction
+Optical spectroscopy
+Photon echoes},
+   DOI = {10.1364/OE.27.020323},
+   url = {http://www.osapublishing.org/oe/abstract.cfm?URI=oe-27-15-20323},
+   year = {2019},
    type = {Journal Article}
 }
 
@@ -927,6 +991,13 @@ Sustained release},
    pages = {SolSpec},
    note = {Zugegriffen am: 14.12.2021 22:00},
    type = {Web Page}
+}
+
+@book{RN2023,
+   author = {Lambert, Johann Heinrich},
+   title = {Photometria},
+   year = {1760},
+   type = {Book}
 }
 
 @article{RN1862,
