@@ -48,6 +48,18 @@ Polarity},
    type = {Journal Article}
 }
 
+@article{RN476,
+   author = {Anpo, Masakazu and Aikawa, Norikazu and Kubokawa, Yutaka and Che, Michel and Louis, Catherine and Giamello, Elio},
+   title = {Photoluminescence and photocatalytic activity of highly dispersed titanium oxide anchored onto porous Vycor glass},
+   journal = {The Journal of Physical Chemistry},
+   volume = {89},
+   number = {23},
+   pages = {5017-5021},
+   ISSN = {0022-3654},
+   year = {1985},
+   type = {Journal Article}
+}
+
 @article{RN1415,
    author = {Anpo, Masakazu and Chiba, Katsuichi},
    title = {Photocatalytic reduction of CO2 on anchored titanium oxide catalysts},
@@ -558,6 +570,25 @@ Photon echoes},
    type = {Journal Article}
 }
 
+@article{RN460,
+   author = {Fujihara, Kan and Izumi, Shinobu and Ohno, Teruhisa and Matsumura, Michio},
+   title = {Time-resolved photoluminescence of particulate TiO2 photocatalysts suspended in aqueous solutions},
+   journal = {Journal of Photochemistry and Photobiology A: Chemistry},
+   volume = {132},
+   number = {1},
+   pages = {99-104},
+   abstract = {TiO2 powders showed a broad emission band. The peak position of the emission band for rutile powders was about 450nm, and that of anatase powders was about 500nm. The time-resolved photoluminescence of TiO2 powder was investigated with 30ps laser pulses at 355 and 266nm. Decay profiles of emission were successfully traced by the extended exponential equation. In the case of rutile powders, the lifetime of the emission lengthened in the relation to the increase of particle size. Their lifetime was also dependent on the wavelength of excitation; i.e., it was longer at 355nm of excitation than at 266nm. Based on these results, the decay profiles of rutile particles were concluded to be determined by the migration of carriers from the bulk of the particles to the surface. In contrast, the decay profiles of the emission of small anatase particles were considered to be determined chiefly by the recombination process at the surface. The effects of Fe(III) ions and 2-propanol on the respective decay profiles of the emission from rutile and anatase powders are also discussed.},
+   keywords = {Time-resolved photoluminescence
+Photoluminescence
+Titanium dioxide
+Photocatalyst},
+   ISSN = {1010-6030},
+   DOI = {https://doi.org/10.1016/S1010-6030(00)00204-5},
+   url = {http://www.sciencedirect.com/science/article/pii/S1010603000002045},
+   year = {2000},
+   type = {Journal Article}
+}
+
 @article{RN378,
    author = {Fujishima, Akira and Honda, Kenichi},
    title = {Electrochemical photolysis of water at a semiconductor electrode},
@@ -879,6 +910,21 @@ Renewable energy},
    ISBN = {3527335536},
    year = {2015},
    type = {Book}
+}
+
+@article{RN2025,
+   author = {Knorr, Fritz J. and Mercado, Candy C. and McHale, Jeanne L.},
+   title = {Trap-State Distributions and Carrier Transport in Pure and Mixed-Phase TiO2: Influence of Contacting Solvent and Interphasial Electron Transfer},
+   journal = {The Journal of Physical Chemistry C},
+   volume = {112},
+   number = {33},
+   pages = {12786-12794},
+   note = {doi: 10.1021/jp8039934},
+   ISSN = {1932-7447},
+   DOI = {10.1021/jp8039934},
+   url = {https://doi.org/10.1021/jp8039934},
+   year = {2008},
+   type = {Journal Article}
 }
 
 @article{RN2016,
@@ -1280,6 +1326,17 @@ Ti/SBA-15},
    type = {Journal Article}
 }
 
+@book{RN2026,
+   author = {Rex, Riley and Knorr, Fritz and McHale, Jeanne},
+   title = {Spectroelectrochemical photoluminescence of titanium dioxide nanosheets and nanoparticles in aqueous and nonaqueous environments},
+   publisher = {SPIE},
+   volume = {9165},
+   series = {SPIE NanoScience + Engineering},
+   url = {https://doi.org/10.1117/12.2063585},
+   year = {2014},
+   type = {Book}
+}
+
 @book{RN886,
    author = {Riedel, Erwin},
    title = {Anorganische chemie},
@@ -1543,6 +1600,24 @@ Macrokinetic analysis},
    DOI = {10.1021/jp9814000},
    url = {https://doi.org/10.1021/jp9814000},
    year = {1998},
+   type = {Journal Article}
+}
+
+@article{RN483,
+   author = {Wakabayashi, K. and Yamaguchi, Y. and Sekiya, T. and Kurita, S.},
+   title = {Time-resolved luminescence spectra in colorless anatase TiO2 single crystal},
+   journal = {Journal of Luminescence},
+   volume = {112},
+   number = {1},
+   pages = {50-53},
+   abstract = {Time-resolved luminescence was measured on a colorless anatase single crystal under pulsed-laser excitation. The time evolution of luminescence is composed of fast and slow components with time constants of 10−6 and 10−5s, respectively. The fast component corresponds to a direct formation of STE. Some traps near the conduction band give a retardation effect on the slow component. The traps are occupied by conduction electrons at low temperatures and the trapped electron can be excited thermally at temperatures higher than 100K. They compete with non-radiative recombination process. A possible model for the relaxation process is proposed.},
+   keywords = {Self-trapped exciton
+Luminescence
+Relaxation process},
+   ISSN = {0022-2313},
+   DOI = {https://doi.org/10.1016/j.jlumin.2004.09.080},
+   url = {http://www.sciencedirect.com/science/article/pii/S0022231304003953},
+   year = {2005},
    type = {Journal Article}
 }
 
