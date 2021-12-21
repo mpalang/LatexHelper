@@ -258,6 +258,25 @@ Phenylacetylene},
    type = {Book}
 }
 
+@article{RN1962,
+   author = {Bouma, B. and Blasse, G.},
+   title = {Dependence of luminescence of titanates on their crystal structure},
+   journal = {Journal of Physics and Chemistry of Solids},
+   volume = {56},
+   number = {2},
+   pages = {261-265},
+   abstract = {Compounds A2TiOBO4 (A = Li, Na; B = Si, Ge) show efficient photoluminescence at room temperature. The compound LiTiOPO4 shows luminescence only below room temperature. The luminescence of BaTiO3, LiTiO3 and Na2GeO3 are also reported. From the results it is concluded that titanate octahedra containing a short TiO distance show efficient luminescence at room temperature if these octahedra are isolated from each other. When the octahedra condense into a framework, the lowest absorption band shifts to much lower energy, and the Stokes shift and the quenching temperature of the emission decreases. This is shown for one-, two-, and three-dimensional frameworks of titanate polyhedra. The effect is ascribed to a broadening of the energy bands.},
+   keywords = {A. optical materials
+A. oxides
+D. crystal structure
+D. luminescence},
+   ISSN = {0022-3697},
+   DOI = {https://doi.org/10.1016/0022-3697(94)00174-X},
+   url = {https://www.sciencedirect.com/science/article/pii/002236979400174X},
+   year = {1995},
+   type = {Journal Article}
+}
+
 @article{RN397,
    author = {Brettel, Klaus and Leibl, Winfried},
    title = {Electron transfer in photosystem I},
@@ -1514,6 +1533,18 @@ Reaction mechanism},
    DOI = {10.1039/B617552J},
    url = {http://dx.doi.org/10.1039/B617552J},
    year = {2007},
+   type = {Journal Article}
+}
+
+@article{RN469,
+   author = {Tang, H and Berger, H and Schmid, PE and Levy, F and Burri, G},
+   title = {Photoluminescence in TiO2 anatase single crystals},
+   journal = {Solid State Communications},
+   volume = {87},
+   number = {9},
+   pages = {847-850},
+   ISSN = {0038-1098},
+   year = {1993},
    type = {Journal Article}
 }
 
