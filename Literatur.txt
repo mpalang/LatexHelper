@@ -139,6 +139,25 @@ Polarity},
    type = {Journal Article}
 }
 
+@article{RN2028,
+   author = {Araña, J. and Alonso, A. Peña and Rodríguez, J. M. Doña and Colón, G. and Navío, J. A. and Peña, J. Pérez},
+   title = {FTIR study of photocatalytic degradation of 2-propanol in gas phase with different TiO2 catalysts},
+   journal = {Applied Catalysis B: Environmental},
+   volume = {89},
+   number = {1},
+   pages = {204-213},
+   abstract = {The photocatalytic efficiency of different TiO2 catalysts in the degradation of 2-propanol in gas phase has been studied. The obtained efficiencies have been compared considering the distribution of rutile–anatase phases, surface area, particle size, distribution of surface hydroxyl groups and Brönsted or Lewis acid centres. The catalysts used were Degussa-P25 (TiO2-P25), Hombikat, Millennium, Kemira and s/g-TiO2, a catalyst prepared by a sol–gel method. The best photocatalytic behaviours have been obtained with those catalysts with higher surface area and the presence of only anatase phase (Hombikat and Millennium). A progressive deactivation of TiO2-P25 and s/g-TiO2 has been observed during the photocatalytic process. FTIR studies indicated that degradation mechanisms depended on the catalyst employed. Deactivation processes observed in TiO2-P25 have been correlated with the formation of carboxylates.},
+   keywords = {TiO
+Photocatalysis
+Gas phase
+2-propanol and FTIR},
+   ISSN = {0926-3373},
+   DOI = {https://doi.org/10.1016/j.apcatb.2008.11.027},
+   url = {https://www.sciencedirect.com/science/article/pii/S0926337308004463},
+   year = {2009},
+   type = {Journal Article}
+}
+
 @article{RN1877,
    author = {Asahi, Tsuyoshi and Furube, Akihiro and Fukumura, Hiroshi and Ichikawa, Musubu and Masuhara, Hiroshi},
    title = {Development of a femtosecond diffuse reflectance spectroscopic system, evaluation of its temporal resolution, and applications to organic powder systems},
@@ -1273,6 +1292,21 @@ Ti/SBA-15},
    type = {Journal Article}
 }
 
+@article{RN2030,
+   author = {Moustakas, Nikolaos G. and Lorenz, Felix and Dilla, Martin and Peppel, Tim and Strunk, Jennifer},
+   title = {Pivotal Role of Holes in Photocatalytic CO2 Reduction on TiO2},
+   journal = {Chemistry – A European Journal},
+   volume = {27},
+   number = {68},
+   pages = {17213-17219},
+   abstract = {Abstract Evidence is provided that in a gas-solid photocatalytic reaction the removal of photogenerated holes from a titania (TiO2) photocatalyst is always detrimental for photocatalytic CO2 reduction. The coupling of the reaction to a sacrificial oxidation reaction hinders or entirely prohibits the formation of CH4 as a reduction product. This agrees with earlier work in which the detrimental effect of oxygen-evolving cocatalysts was demonstrated. Photocatalytic alcohol oxidation or even overall water splitting proceeds in these reaction systems, but carbon-containing products from CO2 reduction are no longer observed. H2 addition is also detrimental, either because it scavenges holes or because it is not an efficient proton donor on TiO2. The results are discussed in light of previously suggested reaction mechanisms for photocatalytic CO2 reduction. The formation of CH4 from CO2 is likely not a linear sequence of reduction steps but includes oxidative elementary steps. Furthermore, new hypotheses on the origin of the required protons are suggested.},
+   ISSN = {0947-6539},
+   DOI = {https://doi.org/10.1002/chem.202103070},
+   url = {https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.202103070},
+   year = {2021},
+   type = {Journal Article}
+}
+
 @article{RN562,
    author = {Nitsche, David and Hess, Christian},
    title = {Structure of Isolated Vanadia and Titania: A Deep UV Raman, UV–Vis, and IR Spectroscopic Study},
@@ -1392,6 +1426,21 @@ Ti/SBA-15},
    type = {Journal Article}
 }
 
+@article{RN2029,
+   author = {Rotzinger, François P. and Kesselman-Truttmann, Janet M. and Hug, Stephan J. and Shklover, Valery and Grätzel, Michael},
+   title = {Structure and Vibrational Spectrum of Formate and Acetate Adsorbed from Aqueous Solution onto the TiO2 Rutile (110) Surface},
+   journal = {The Journal of Physical Chemistry B},
+   volume = {108},
+   number = {16},
+   pages = {5004-5017},
+   note = {doi: 10.1021/jp0360974},
+   ISSN = {1520-6106},
+   DOI = {10.1021/jp0360974},
+   url = {https://doi.org/10.1021/jp0360974},
+   year = {2004},
+   type = {Journal Article}
+}
+
 @article{RN1976,
    author = {Serpone, N. and Emeline, A. V.},
    title = {Suggested terms and definitions in photocatalysis and radiocatalysis},
@@ -1470,6 +1519,21 @@ Cocatalyst loading},
    DOI = {10.1134/S0023158409030173},
    url = {https://doi.org/10.1134/S0023158409030173},
    year = {2009},
+   type = {Journal Article}
+}
+
+@article{RN499,
+   author = {Strunk, Jennifer and Vining, William C. and Bell, Alexis T.},
+   title = {A Study of Oxygen Vacancy Formation and Annihilation in Submonolayer Coverages of TiO2 Dispersed on MCM-48},
+   journal = {The Journal of Physical Chemistry C},
+   volume = {114},
+   number = {40},
+   pages = {16937-16945},
+   abstract = {The reduction and reoxidation of submonolayer coverages of TiO2 deposited onto MCM-48 were investigated. The deposited TiO2 was characterized by Raman and UV−visible spectroscopy. Raman spectra show that Ti atoms are bonded to the silica support by Ti−O−Si bonds and that crystalline TiO2 is not formed. The results of the Raman and UV−visible spectroscopy suggest that the dispersed TiO2 is present as two-dimensional oligomeric structures. Reduction in H2 at 923 K produces Ti3+ cations observable by EPR (g = 1.932), suggesting the formation of oxygen vacancies. The fraction of Ti that could be reduced increased with TiO2 surface concentration. This observation is attributed to the ease with which O atoms can be removed from the TiO2 overlayer as the size of the titania patches increases. The amount of oxygen removed during reduction was quantified by pulsed reoxidation. It was observed that the temperature required for complete reoxidation decreased with increasing surface coverage of the silica support by TiO2. This trend is explained with a proposed model of the reoxidation process, in which the rate limiting step is the migration of peroxide species through or between the deposited TiO2 patches. A linear correlation was established between the intensity of the EPR signal for Ti3+ and the amount of oxygen removed from TiO2/SiO2. This relationship was then used to determine the oxygen vacancy concentration present on the surface of TiO2/SiO2 after temperature-programmed oxidation of methanol.},
+   ISSN = {1932-7447},
+   DOI = {10.1021/jp100104d},
+   url = {https://doi.org/10.1021/jp100104d},
+   year = {2010},
    type = {Journal Article}
 }
 
