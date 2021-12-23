@@ -739,18 +739,6 @@ Photocatalyst},
    type = {Journal Article}
 }
 
-@article{RN389,
-   author = {Gueymard, Christian A},
-   title = {The sun’s total and spectral irradiance for solar energy applications and solar radiation models},
-   journal = {Solar energy},
-   volume = {76},
-   number = {4},
-   pages = {423-453},
-   ISSN = {0038-092X},
-   year = {2004},
-   type = {Journal Article}
-}
-
 @article{RN549,
    author = {Habisreutinger, Severin N. and Schmidt‐Mende, Lukas and Stolarczyk, Jacek K.},
    title = {Photocatalytic Reduction of CO2 on TiO2 and Other Semiconductors},
@@ -762,21 +750,6 @@ Photocatalyst},
    DOI = {doi:10.1002/anie.201207199},
    url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201207199},
    year = {2013},
-   type = {Journal Article}
-}
-
-@article{RN1983,
-   author = {Han, Guangchao and Yi, Yuanping},
-   title = {Origin of Photocurrent and Voltage Losses in Organic Solar Cells},
-   journal = {Advanced Theory and Simulations},
-   volume = {2},
-   number = {8},
-   pages = {1900067},
-   abstract = {Abstract Organic solar cells (OSCs) have recently achieved power conversion efficiencies (PCEs) of over 16%. However, there still exist large losses in photocurrent and/or voltage in state-of-the-art OSCs, making the PCEs still far below those of inorganic counterparts. Here, the factors and electronic processes for photocurrent and voltage losses are identified and discussed in the framework of device physics and photophysics. To simultaneously obtain both high photocurrent density and low voltage loss toward 20% PCEs, it is crucial to suppress the non-radiative (NR) recombination of the lowest charge-transfer (CT) state at the donor–acceptor interface. In principle, theoretical simulations can provide molecular insight into the origin of these losses, which is essential to guide material design. In particular, the authors highlight the importance of the local interface morphologies and the vibronic couplings on suppressing the NR decay of the lowest CT state according to recent theoretical studies.},
-   ISSN = {2513-0390},
-   DOI = {https://doi.org/10.1002/adts.201900067},
-   url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/adts.201900067},
-   year = {2019},
    type = {Journal Article}
 }
 
@@ -816,6 +789,18 @@ Photocatalyst},
    type = {Journal Article}
 }
 
+@article{RN2031,
+   author = {Howe, Russell F and Gratzel, Michael},
+   title = {EPR observation of trapped electrons in colloidal titanium dioxide},
+   journal = {The Journal of Physical Chemistry},
+   volume = {89},
+   number = {21},
+   pages = {4495-4499},
+   ISSN = {0022-3654},
+   year = {1985},
+   type = {Journal Article}
+}
+
 @article{RN1768,
    author = {Hu, Yun and Martra, Gianmario and Zhang, Jinlong and Higashimoto, Shinya and Coluccia, Salvatore and Anpo, Masakazu},
    title = {Characterization of the Local Structures of Ti-MCM-41 and Their Photocatalytic Reactivity for the Decomposition of NO into N2 and O2},
@@ -828,18 +813,6 @@ Photocatalyst},
    DOI = {10.1021/jp058240u},
    url = {https://doi.org/10.1021/jp058240u},
    year = {2006},
-   type = {Journal Article}
-}
-
-@article{RN391,
-   author = {Huber, Robert},
-   title = {A structural basis of light energy and electron transfer in biology},
-   journal = {Bioscience reports},
-   volume = {9},
-   number = {6},
-   pages = {635-673},
-   ISSN = {0144-8463},
-   year = {1989},
    type = {Journal Article}
 }
 
@@ -950,6 +923,20 @@ Renewable energy},
    type = {Book}
 }
 
+@article{RN2032,
+   author = {Klein, Julian and Kampermann, Laura and Saddeler, Sascha and Korte, Jannik and Kowollik, Oliver and Smola, Tim and Schulz, Stephan and Bacher, Gerd},
+   title = {Atmosphere-sensitive photoluminescence of CoxFe3−xO4 metal oxide nanoparticles},
+   journal = {RSC Advances},
+   volume = {11},
+   number = {54},
+   pages = {33905-33915},
+   abstract = {In this work the photoluminescence (PL) of CoxFe3−xO4 spinel oxide nanoparticles under pulsed UV laser irradiation (λexc = 270 nm) is investigated for varying Co/Fe ratios (x = 0.4⋯2.5). A broad emission in the green spectral range is observed, exhibiting two maxima at around 506 nm, which is dominant for Fe-rich nanoparticles (x = 0.4, 0.9), and at around 530 nm, that is more pronounced for Co-rich nanoparticles (x > 1.6). As examinations in different atmospheres show that the observed emission reacts sensitively to the presence of water, it is proposed that the emission is mainly caused by OH groups with terminal or bridging metal–O bonds on the CoxFe3−xO4 surface. Raman spectroscopy supports that the emission maximum at 506 nm corresponds to terminal OH groups bound to metal cations on tetrahedral sites (i.e., Fe3+), while the maximum around 530 nm corresponds to terminal OH groups bound to metal cations on octahedral sites (i.e., Co3+). Photoinduced dehydroxylation shows that OH groups can be removed on Fe-rich nanoparticles more easily, leading to a conversion process and the formation of new OH groups with different bonds to the surface. As such behavior is not observed for CoxFe3−xO4 with x > 1.6, we conclude that the OH groups are more stable against dehydroxylation on Co-rich nanoparticles. The higher OH stability is expected to lead to a higher catalytic activity of Co-rich cobalt ferrites in the electrochemical generation of oxygen.},
+   DOI = {10.1039/D1RA06228J},
+   url = {http://dx.doi.org/10.1039/D1RA06228J},
+   year = {2021},
+   type = {Journal Article}
+}
+
 @article{RN2025,
    author = {Knorr, Fritz J. and Mercado, Candy C. and McHale, Jeanne L.},
    title = {Trap-State Distributions and Carrier Transport in Pure and Mixed-Phase TiO2: Influence of Contacting Solvent and Interphasial Electron Transfer},
@@ -998,18 +985,20 @@ Sustained release},
    type = {Journal Article}
 }
 
-@article{RN545,
-   author = {Kruk, Michal and Jaroniec, Mietek and Ko, Chang Hyun and Ryoo, Ryong},
-   title = {Characterization of the Porous Structure of SBA-15},
-   journal = {Chemistry of Materials},
-   volume = {12},
-   number = {7},
-   pages = {1961-1968},
-   abstract = {SBA-15 ordered mesoporous silicas were synthesized using the method reported by Zhao et al. The structures of these materials were characterized using powder X-ray diffraction (XRD), thermogravimetric analysis (TGA), and nitrogen adsorption. The samples were found to exhibit structural properties similar to those reported earlier. Our study confirmed that the size of primary mesopores of SBA-15 can be tailored by the choice of synthesis temperature and that SBA-15 exhibits a significant amount of disordered micropores and small mesopores. The volume and size of these complementary pores were found to be dependent to some extent on the synthesis/aging temperature. It was shown that the washing of as-synthesized SBA-15 in water or ethanol was accompanied by an appreciable structural shrinkage and led to the removal of a significant part of the polymeric template. Therefore, washing needs to be avoided if one wants to isolate SBA-15 without appreciable loss of the template. It was confirmed that water-washed SBA-15 samples have fully accessible primary mesopores. Ethanol-washed samples also were found to exhibit accessible porosity. Despite an appreciable content of the template in the water- and ethanol-washed samples, their pore sizes were usually larger than those of the calcined materials. The observed structural properties of SBA-15 and their dependence on the synthesis temperature and washing were attributed to the changes in the degree of penetration of the poly(ethylene oxide) chains of the triblock copolymer template within the siliceous walls of SBA-15.},
-   ISSN = {0897-4756},
-   DOI = {10.1021/cm000164e},
-   url = {https://doi.org/10.1021/cm000164e},
-   year = {2000},
+@article{RN521,
+   author = {Krishnan, Cheralathan Kanakkampalayan and Hayashi, Takahiro and Ogura, Masaru},
+   title = {A New Method for Post-Synthesis Coating of Zirconia on the Mesopore Walls of SBA-15 Without Pore Blocking},
+   journal = {Advanced Materials},
+   volume = {20},
+   number = {11},
+   pages = {2131-2136},
+   keywords = {zirconia
+mesoporous silica
+mesoporous materials},
+   ISSN = {1521-4095},
+   DOI = {10.1002/adma.200702822},
+   url = {http://dx.doi.org/10.1002/adma.200702822},
+   year = {2008},
    type = {Journal Article}
 }
 
@@ -1051,22 +1040,6 @@ Sustained release},
    url = {https://doi.org/10.1007/s13204-012-0060-5},
    year = {2012},
    type = {Journal Article}
-}
-
-@book{RN1889,
-   author = {Kurzweil, Peter},
-   title = {Chemie : Grundlagen, technische Anwendungen, Rohstoffe, Analytik und Experimente},
-   publisher = {Springer Vieweg},
-   address = {Wiesbaden},
-   edition = {11th ed. 2020},
-   series = {Computer Science and Engineering},
-   abstract = {Allgemeine und Anorganische Chemie: Chemie in Technik und Umwelt -- Aufbau der Materie -- Periodensystem der Elemente (PSE) -- Kernchemie, Kernenergie, Oberflächenanalytik -- Chemische Bindung und Struktur -- Chemische Reaktionen und Thermochemie -- Säuren, Basen, Luftschadstoffe -- Lösungen, Fällungen, Wasserchemie -- Elektrochemie -- Organische Chemie: Kohlenwasserstoffe -- Stoffklassen und technische Anwendungen -- Polymerchemie -- Nachhaltige Chemie -- Anorganische Chemie: Chemie der Elemente -- Chemikalien am Arbeitsplatz | Acetylierung? Diboran? EDX? Indium? Nachwachsende Rohstoffe? Synthesegas? TCDD? Phosphorrückgewinnung? Die Jubiläumsauflage dieses Kompendiums, Lehr- und Übungsbuches führt durch die Grundlagen der allgemeinen, analytischen, anorganischen, organischen und physikalischen Chemie in kompakter und übersichtlicher Form. Das Buch kann zum Selbststudium und Nachschlagen im Schul- und Hochschulbereich und in der beruflichen Praxis genutzt werden. Chemisches Wissen wird anschaulich mit modernen technischen Anwendungen vernetzt: Abgase, Abwasserreinigung, Analyseapparate, Arbeitsschutz, Batterien, Brennstoffzellen, erneuerbare Energien, gefährliche Chemikalien, industrielle Prozesse, Katalysatoren, Korrosionsschutz, Kunststoffe, Lebensmittel, Trinkwasser, Umweltschutz, Werkstofftechnik und Zukunftstechnogien. Rechenbeispiele, Formelübersichten und Reaktionsschemata erleichtern die Einordnung des Grundwissens in den übergeordneten Rahmen der angewandten Chemie, Materialwissenschaften und Physik. Am Ende jedes Kapitels befinden sich Aufgaben mit Lösungen. Umfangreiche Tabellen mit Stoffwerten und das Stichwortregister mit 2800 Einträgen führen zielsicher zur Information. Die aktualisierte 11. Auflage wurde erweitert und durchgehend vierfarbig gestaltet. Der Inhalt Chemie in Technik und Umwelt – Aufbau der Materie – Kernchemie und Kernenergie – Chemische Bindung und Struktur – Chemische Reaktionen und Thermochemie – Säuren, Basen, Luftschadstoffe – Lösungen, Fällungen, Wasserchemie – Elektrochemie – Kohlenwasserstoffe – Stoffklassen und technische Anwendungen – Polymerchemie – Nachhaltige Chemie –Anorganische Stoffchemie – Gefahrstoffe und Arbeitsschutz Die Zielgruppen - Schüler an Fachschulen für Technik und Medizin, berufliche Oberschulen und Gymnasien - Studierende an Fachhochschulen und Universitäten. Der Autor Professor Dr. Peter Kurzweil lehrt und forscht als Professor für Chemie, Umweltanalytik und Toxikologie an der Technischen Hochschule Amberg-Weiden},
-   keywords = {Chemie / Chemieunterricht / Berufsschule},
-   pages = {1 Online-Ressource (VIII, 377 S)},
-   ISBN = {9783658275037 | 978-3-658-27503-7},
-   url = {https://doi.org/10.1007/978-3-658-27503-7},
-   year = {2020},
-   type = {Book}
 }
 
 @misc{RN2009,
@@ -1392,7 +1365,7 @@ Ti/SBA-15},
 
 @book{RN886,
    author = {Riedel, Erwin},
-   title = {Anorganische chemie},
+   title = {Anorganische Chemie},
    publisher = {Walter de Gruyter},
    ISBN = {3110901722},
    year = {2011},
@@ -1520,6 +1493,26 @@ Cocatalyst loading},
    url = {https://doi.org/10.1134/S0023158409030173},
    year = {2009},
    type = {Journal Article}
+}
+
+@inbook{RN1995,
+   author = {Strunk, Jennifer},
+   title = {10 - Requirements for efficient metal oxide photocatalysts for CO2 reduction},
+   booktitle = {Metal Oxides in Energy Technologies},
+   editor = {Wu, Yuping},
+   publisher = {Elsevier},
+   pages = {275-301},
+   abstract = {As a means to reduce carbon emissions and to produce renewable fuels, the photocatalytic reduction of CO2 has received worldwide attention. Much research has already been carried out, in which most of the studied materials were oxide based. However, the achievable yields of valuable products such as methane, methanol, or carbon monoxide are still far too low for large-scale industrial application. This chapter gives an overview of known materials for CO2 reduction and provides the reader with information on general principles of photocatalysis. Possible reaction mechanisms are reviewed, and general characteristics of some frequently studied oxide materials are described. Such detailed information can provide a basis for the knowledge-guided design of better oxide-based photocatalyst materials for CO2 reduction.},
+   keywords = {Material classes
+Basic principles of photocatalysis
+Titanium dioxide
+Reaction mechanism
+Photoreactors},
+   ISBN = {978-0-12-811167-3},
+   DOI = {https://doi.org/10.1016/B978-0-12-811167-3.00010-9},
+   url = {https://www.sciencedirect.com/science/article/pii/B9780128111673000109},
+   year = {2018},
+   type = {Book Section}
 }
 
 @article{RN499,
@@ -1742,21 +1735,6 @@ Relaxation process},
    DOI = {10.1103/PhysRevB.19.3107},
    url = {https://link.aps.org/doi/10.1103/PhysRevB.19.3107},
    year = {1979},
-   type = {Journal Article}
-}
-
-@article{RN2003,
-   author = {Wu, Jeffrey C. S. and Huang, Chao-Wei},
-   title = {In situ DRIFTS study of photocatalytic CO2 reduction under UV irradiation},
-   journal = {Frontiers of Chemical Engineering in China},
-   volume = {4},
-   number = {2},
-   pages = {120-126},
-   abstract = {Photocatalytic reduction of CO2 on TiO2 and Cu/TiO2 photocatalysts was studied by in situ diffuse reflectance infrared Fourier transform spectroscopy (DRIFTS) under UV irradiation. The photocatalysts were prepared by sol-gel method via controlled hydrolysis of titanium (IV) butoxide. Copper precursor was loaded onto TiO2 during sol-gel procedure. A large amount of adsorbed H2O and surface OH groups was detected at 25°C on the TiO2 photocatalyst after being treated at 500°C under air stream. Carbonate and bicarbonate were formed rapidly due to the reaction of CO2 with oxygen-vacancy and OH groups, respectively, on TiO2 surface upon CO2 adsorption. The IR spectra indicated that, under UV irradiation, gas-phase CO2 further combined with oxygen-vacancy and OH groups to produce more carbonate or bicarbonate. The weak signals of reaction intermediates were found on the IR spectra, which were due to the slow photocatalytic CO2 reduction on photocatalysts. Photogenerated electrons merge with H+ ions to form H atoms, which progressively reduce CO2 to form formic acid, dioxymethylene, formaldehyde and methoxy as observed in the IR spectra. The well-dispersed Cu, acting as the active site significantly increases the amount of formaldehyde and dioxymethylene, thus promotes the photoactivity of CO2 reduction on Cu/TiO2. A possible mechanism of the photocatalytic CO2 reduction is proposed based on these intermediates and products on the photocatalysts.},
-   ISSN = {1673-7474},
-   DOI = {10.1007/s11705-009-0232-3},
-   url = {https://doi.org/10.1007/s11705-009-0232-3},
-   year = {2010},
    type = {Journal Article}
 }
 
